@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_P-stroke" format="2">
+  <advance width="585"/>
+  <anchor x="292" y="369" name="_stroke"/>
+  <outline>
+    <contour>
+      <point x="78" y="369" type="line"/>
+      <point x="507" y="369" type="line"/>
+      <point x="507" y="370" type="line"/>
+      <point x="78" y="370" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.smcp" format="2">
+  <advance width="646"/>
+  <outline>
+    <contour>
+      <point x="291" y="-14" type="curve" smooth="yes"/>
+      <point x="476" y="-14"/>
+      <point x="586" y="77"/>
+      <point x="586" y="230" type="curve" smooth="yes"/>
+      <point x="586" y="375"/>
+      <point x="486" y="460"/>
+      <point x="315" y="460" type="curve" smooth="yes"/>
+      <point x="271" y="460"/>
+      <point x="227" y="455"/>
+      <point x="178" y="443" type="curve"/>
+      <point x="155" y="371" type="line"/>
+      <point x="193" y="379"/>
+      <point x="248" y="385"/>
+      <point x="289" y="385" type="curve" smooth="yes"/>
+      <point x="425" y="385"/>
+      <point x="491" y="333"/>
+      <point x="491" y="225" type="curve" smooth="yes"/>
+      <point x="491" y="116"/>
+      <point x="424" y="58"/>
+      <point x="298" y="58" type="curve" smooth="yes"/>
+      <point x="223" y="58"/>
+      <point x="168" y="80"/>
+      <point x="168" y="110" type="curve" smooth="yes"/>
+      <point x="168" y="129"/>
+      <point x="190" y="146"/>
+      <point x="190" y="176" type="curve" smooth="yes"/>
+      <point x="190" y="205"/>
+      <point x="170" y="223"/>
+      <point x="138" y="223" type="curve" smooth="yes"/>
+      <point x="90" y="223"/>
+      <point x="58" y="187"/>
+      <point x="58" y="132" type="curve" smooth="yes"/>
+      <point x="58" y="42"/>
+      <point x="147" y="-14"/>
+    </contour>
+    <contour>
+      <point x="133" y="328" type="curve" smooth="yes"/>
+      <point x="172" y="328"/>
+      <point x="198" y="360"/>
+      <point x="203" y="412" type="curve"/>
+      <point x="193" y="446" type="line"/>
+      <point x="133" y="435"/>
+      <point x="90" y="404"/>
+      <point x="90" y="366" type="curve" smooth="yes"/>
+      <point x="90" y="342"/>
+      <point x="106" y="328"/>
+    </contour>
+    <contour>
+      <point x="129" y="398" type="line"/>
+      <point x="199" y="423" type="line"/>
+      <point x="199" y="621" type="line"/>
+      <point x="242" y="617"/>
+      <point x="290" y="614"/>
+      <point x="323" y="614" type="curve" smooth="yes"/>
+      <point x="429" y="614"/>
+      <point x="498" y="639"/>
+      <point x="545" y="695" type="curve"/>
+      <point x="510" y="737" type="line"/>
+      <point x="465" y="712"/>
+      <point x="419" y="703"/>
+      <point x="334" y="703" type="curve" smooth="yes"/>
+      <point x="270" y="703"/>
+      <point x="207" y="708"/>
+      <point x="129" y="718" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>4</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>Curved top-stroke (layer #10)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>Curved top-stroke (layer #8)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>Curved top-stroke (layer #11)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>Curved top-stroke (layer #9)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>Curved top-stroke (layer #14)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>Curved top-stroke (layer #12)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>Curved top-stroke (layer #15)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Black (layer #2)</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Light (layer #0)</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Black (layer #3)</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Light (layer #1)</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Black (layer #6)</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Light (layer #4)</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Black (layer #7)</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Light (layer #5)</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>Curved top-stroke (layer #13)</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>1200pt SemiCondensed Black</key>
+        <string>Curved top-stroke</string>
+        <key>1200pt SemiCondensed Light</key>
+        <string>Curved top-stroke</string>
+        <key>1200pt SemiExpanded Black</key>
+        <string>Curved top-stroke</string>
+        <key>1200pt SemiExpanded Light</key>
+        <string>Curved top-stroke</string>
+        <key>5pt SemiCondensed Black</key>
+        <string>Curved top-stroke</string>
+        <key>5pt SemiCondensed Light</key>
+        <string>Curved top-stroke</string>
+        <key>5pt SemiExpanded Black</key>
+        <string>Curved top-stroke</string>
+        <key>5pt SemiExpanded Light</key>
+        <string>Curved top-stroke</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

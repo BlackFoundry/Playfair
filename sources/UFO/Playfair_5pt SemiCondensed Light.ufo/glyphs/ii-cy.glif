@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ii-cy" format="2">
+  <advance width="778"/>
+  <unicode hex="0438"/>
+  <anchor x="502" y="256" name="#entry"/>
+  <anchor x="592" y="256" name="#exit"/>
+  <anchor x="154" y="0" name="%entry"/>
+  <anchor x="502" y="0" name="%exit"/>
+  <anchor x="326" y="0" name="^entry"/>
+  <anchor x="753" y="0" name="^exit"/>
+  <anchor x="502" y="256" name="stem"/>
+  <outline>
+    <contour>
+      <point x="547" y="3" type="curve"/>
+      <point x="547" y="3" type="line"/>
+      <point x="547" y="3" type="line"/>
+      <point x="627" y="3"/>
+      <point x="675" y="1"/>
+      <point x="728" y="0" type="curve"/>
+      <point x="728" y="70" type="line"/>
+      <point x="673" y="75" type="line"/>
+      <point x="614" y="80"/>
+      <point x="592" y="101"/>
+      <point x="592" y="162" type="curve"/>
+      <point x="592" y="256" type="line"/>
+      <point x="502" y="256" type="line"/>
+      <point x="502" y="162" type="line"/>
+      <point x="502" y="100"/>
+      <point x="485" y="76"/>
+      <point x="436" y="71" type="curve"/>
+      <point x="427" y="70" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="462" y="1"/>
+      <point x="494" y="3"/>
+    </contour>
+    <component base="_LC-en-cy_upper" xOffset="10"/>
+    <component base="_LC-ii-cy-bar" xOffset="184"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="715"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <component base="_UC-bottom-stem-normal-wide" yScale="-1" yOffset="708"/>
+    <component base="_UC-Thorn-body" xOffset="1"/>
+    <component base="_UC-bottom-stem-normal-wide"/>
+  </outline>
+</glyph>

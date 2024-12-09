@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-u-cy.loclBGR-stem" format="2">
+  <advance width="636"/>
+  <anchor x="366" y="260" name="#entry"/>
+  <anchor x="258" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="254" y="-239" type="curve" smooth="yes"/>
+      <point x="440" y="-239"/>
+      <point x="545" y="-148"/>
+      <point x="545" y="14" type="curve" smooth="yes"/>
+      <point x="545" y="520" type="line"/>
+      <point x="545" y="531" type="line"/>
+      <point x="494" y="521"/>
+      <point x="449" y="517"/>
+      <point x="391" y="517" type="curve"/>
+      <point x="356" y="517"/>
+      <point x="334" y="517"/>
+      <point x="290" y="520" type="curve"/>
+      <point x="290" y="519" type="line"/>
+      <point x="301" y="518" type="line"/>
+      <point x="349" y="514"/>
+      <point x="365" y="493"/>
+      <point x="365" y="437" type="curve"/>
+      <point x="365" y="-36" type="line" smooth="yes"/>
+      <point x="365" y="-171"/>
+      <point x="317" y="-236"/>
+      <point x="218" y="-236" type="curve" smooth="yes"/>
+      <point x="178" y="-236"/>
+      <point x="158" y="-227"/>
+      <point x="158" y="-209" type="curve" smooth="yes"/>
+      <point x="158" y="-179"/>
+      <point x="197" y="-143"/>
+      <point x="197" y="-100" type="curve" smooth="yes"/>
+      <point x="197" y="-62"/>
+      <point x="168" y="-38"/>
+      <point x="120" y="-38" type="curve" smooth="yes"/>
+      <point x="65" y="-38"/>
+      <point x="30" y="-69"/>
+      <point x="30" y="-119" type="curve" smooth="yes"/>
+      <point x="30" y="-193"/>
+      <point x="115" y="-239"/>
+    </contour>
+  </outline>
+</glyph>

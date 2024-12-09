@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dje-cy" format="2">
+  <advance width="704"/>
+  <unicode hex="0452"/>
+  <anchor x="106" y="260" name="#entry"/>
+  <anchor x="286" y="260" name="#exit"/>
+  <anchor x="-150" y="0" name="%entry"/>
+  <anchor x="106" y="0" name="%exit"/>
+  <anchor x="-0.1" y="0" name="^entry"/>
+  <anchor x="383" y="0" name="^exit"/>
+  <anchor x="106" y="260" name="stem"/>
+  <outline>
+    <contour>
+      <point x="196" y="3" type="curve"/>
+      <point x="196" y="3" type="line"/>
+      <point x="196" y="3" type="line"/>
+      <point x="253.8" y="3"/>
+      <point x="299.8" y="1"/>
+      <point x="344.4" y="0" type="curve"/>
+      <point x="344.4" y="70" type="line"/>
+      <point x="331.2" y="71.8" type="line"/>
+      <point x="294.4" y="78.2"/>
+      <point x="286" y="89.2"/>
+      <point x="286" y="137" type="curve"/>
+      <point x="286" y="260" type="line"/>
+      <point x="106" y="260" type="line"/>
+      <point x="106" y="137" type="line"/>
+      <point x="106" y="91"/>
+      <point x="97" y="80"/>
+      <point x="44" y="73" type="curve"/>
+      <point x="20" y="70" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="73" y="1"/>
+      <point x="128" y="3"/>
+    </contour>
+    <component base="_LC-ascender-serifless" xOffset="-1"/>
+    <component base="strokeshortcomb" xOffset="-26" yOffset="349"/>
+    <component base="_LC-dje-cy-down-stroke" xOffset="248"/>
+  </outline>
+</glyph>

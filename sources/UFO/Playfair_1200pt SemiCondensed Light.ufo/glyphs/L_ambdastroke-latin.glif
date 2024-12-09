@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lambdastroke-latin" format="2">
+  <advance width="675"/>
+  <unicode hex="A7DC"/>
+  <outline>
+    <component base="Lambda-latin"/>
+    <component base="_UC-lambda-latin-stroke" xOffset="52" yOffset="-59"/>
+  </outline>
+</glyph>

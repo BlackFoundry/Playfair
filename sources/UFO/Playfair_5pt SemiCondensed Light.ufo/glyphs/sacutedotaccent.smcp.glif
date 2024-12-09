@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sacutedotaccent.smcp" format="2">
+  <advance width="655"/>
+  <outline>
+    <component base="s.smcp"/>
+    <component base="acutecomb.case" xOffset="228" yOffset="-100"/>
+    <component base="_dotaccentcomb.case.light" xOffset="53" yOffset="9"/>
+  </outline>
+</glyph>

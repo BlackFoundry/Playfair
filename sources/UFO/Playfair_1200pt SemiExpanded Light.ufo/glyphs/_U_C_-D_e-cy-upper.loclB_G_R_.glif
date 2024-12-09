@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-De-cy-upper.loclBGR" format="2">
+  <advance width="709"/>
+  <anchor x="667" y="0" name="#exit"/>
+  <anchor x="396" y="0" name="_baseline"/>
+  <outline>
+    <contour>
+      <point x="30" y="-4" type="line"/>
+      <point x="31" y="-5" type="line"/>
+      <point x="314" y="623" type="line"/>
+      <point x="312" y="620" type="line"/>
+      <point x="581" y="3" type="line"/>
+      <point x="679" y="2" type="line"/>
+      <point x="359" y="723" type="line"/>
+      <point x="358" y="723" type="line"/>
+    </contour>
+  </outline>
+</glyph>

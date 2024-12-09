@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="306"/>
+  <unicode hex="0021"/>
+  <outline>
+    <component base="period" xOffset="1"/>
+    <component base="_LC-exclam-stroke"/>
+  </outline>
+</glyph>

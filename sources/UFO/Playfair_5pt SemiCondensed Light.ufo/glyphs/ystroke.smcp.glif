@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ystroke.smcp" format="2">
+  <advance width="786"/>
+  <outline>
+    <component base="y.smcp"/>
+    <component base="_Y-stroke" xOffset="60" yOffset="-89"/>
+  </outline>
+</glyph>

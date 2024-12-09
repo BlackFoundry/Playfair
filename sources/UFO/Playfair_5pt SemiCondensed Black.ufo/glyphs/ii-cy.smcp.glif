@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ii-cy.smcp" format="2">
+  <advance width="871"/>
+  <outline>
+    <component base="_SMCP-top-stem-normal-narrow"/>
+    <component base="_SMCP-ii-cy"/>
+    <component base="_SMCP-bottom-stem-narrow-normal" xOffset="448"/>
+  </outline>
+</glyph>

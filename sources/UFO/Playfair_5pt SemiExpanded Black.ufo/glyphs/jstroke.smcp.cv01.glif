@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jstroke.smcp.cv01" format="2">
+  <advance width="597"/>
+  <outline>
+    <component base="j.smcp.cv01"/>
+    <component base="_I-stroke" xOffset="10" yOffset="-50"/>
+  </outline>
+</glyph>

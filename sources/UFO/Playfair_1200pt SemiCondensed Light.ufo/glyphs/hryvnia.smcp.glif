@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hryvnia.smcp" format="2">
+  <advance width="659"/>
+  <outline>
+    <contour>
+      <point x="309" y="-14" type="curve" smooth="yes"/>
+      <point x="422" y="-14"/>
+      <point x="499" y="56"/>
+      <point x="522" y="180" type="curve"/>
+      <point x="521" y="180" type="line"/>
+      <point x="498" y="83"/>
+      <point x="438" y="31"/>
+      <point x="348" y="31" type="curve" smooth="yes"/>
+      <point x="266" y="31"/>
+      <point x="214" y="74"/>
+      <point x="214" y="141" type="curve" smooth="yes"/>
+      <point x="214" y="301"/>
+      <point x="513" y="360"/>
+      <point x="513" y="508" type="curve" smooth="yes"/>
+      <point x="513" y="576"/>
+      <point x="450" y="622"/>
+      <point x="357" y="622" type="curve" smooth="yes"/>
+      <point x="237" y="622"/>
+      <point x="155" y="546"/>
+      <point x="136" y="416" type="curve"/>
+      <point x="137" y="416" type="line"/>
+      <point x="167" y="521"/>
+      <point x="231" y="579"/>
+      <point x="315" y="579" type="curve" smooth="yes"/>
+      <point x="390" y="579"/>
+      <point x="441" y="532"/>
+      <point x="441" y="463" type="curve" smooth="yes"/>
+      <point x="441" y="294"/>
+      <point x="137" y="266"/>
+      <point x="137" y="114" type="curve" smooth="yes"/>
+      <point x="137" y="40"/>
+      <point x="210" y="-14"/>
+    </contour>
+    <contour>
+      <point x="50" y="306" type="line"/>
+      <point x="609" y="306" type="line"/>
+      <point x="609" y="307" type="line"/>
+      <point x="50" y="307" type="line"/>
+    </contour>
+  </outline>
+</glyph>

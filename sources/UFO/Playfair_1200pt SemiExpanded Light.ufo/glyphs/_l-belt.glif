@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_l-belt" format="2">
+  <advance width="594"/>
+  <anchor x="262" y="269" name="_center"/>
+  <outline>
+    <contour>
+      <point x="286" y="138" type="curve" smooth="yes"/>
+      <point x="358" y="138"/>
+      <point x="412" y="147"/>
+      <point x="463" y="167" type="curve"/>
+      <point x="462" y="168" type="line"/>
+      <point x="412" y="148"/>
+      <point x="358" y="139"/>
+      <point x="286" y="139" type="curve" smooth="yes"/>
+      <point x="140" y="139"/>
+      <point x="61" y="188"/>
+      <point x="61" y="279" type="curve" smooth="yes"/>
+      <point x="61" y="348"/>
+      <point x="107" y="391"/>
+      <point x="179" y="391" type="curve" smooth="yes"/>
+      <point x="219" y="391"/>
+      <point x="257" y="375"/>
+      <point x="285" y="346" type="curve"/>
+      <point x="285" y="347" type="line"/>
+      <point x="255" y="377"/>
+      <point x="220" y="392"/>
+      <point x="179" y="392" type="curve" smooth="yes"/>
+      <point x="106" y="392"/>
+      <point x="60" y="349"/>
+      <point x="60" y="279" type="curve" smooth="yes"/>
+      <point x="60" y="187"/>
+      <point x="138" y="138"/>
+    </contour>
+  </outline>
+</glyph>

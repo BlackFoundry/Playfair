@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-ascender-right-side-hook" format="2">
+  <advance width="480"/>
+  <anchor x="205" y="260" name="#entry"/>
+  <anchor x="25" y="260" name="_stem"/>
+  <anchor x="115" y="519" name="center"/>
+  <anchor x="231" y="771" name="top"/>
+  <outline>
+    <contour>
+      <point x="25" y="260" type="line"/>
+      <point x="205" y="260" type="line"/>
+      <point x="205" y="533" type="line"/>
+      <point x="25" y="533" type="line"/>
+    </contour>
+  </outline>
+</glyph>

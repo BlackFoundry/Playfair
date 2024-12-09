@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s_t" format="2">
+  <advance width="969"/>
+  <anchor x="484.5" y="0" name="caret_1"/>
+  <outline>
+    <component base="s"/>
+    <component base="_s-liga-connecting-stroke" xOffset="377"/>
+    <component base="t" xOffset="548"/>
+  </outline>
+</glyph>

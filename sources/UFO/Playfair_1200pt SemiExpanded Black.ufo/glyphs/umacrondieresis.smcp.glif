@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="umacrondieresis.smcp" format="2">
+  <advance width="834"/>
+  <outline>
+    <component base="u.smcp"/>
+    <component base="macroncomb.case" xOffset="162" yOffset="-140"/>
+    <component base="dieresiscomb.case" xOffset="129" yOffset="12"/>
+  </outline>
+</glyph>

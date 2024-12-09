@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokeshortoverlaycomb.smcp" format="2">
+  <advance width="509"/>
+  <anchor x="255" y="306" name="_bottom-franc"/>
+  <anchor x="255" y="306" name="_center"/>
+  <anchor x="255" y="306" name="_top-franc"/>
+  <outline>
+    <contour>
+      <point x="20" y="306" type="line"/>
+      <point x="489" y="306" type="line"/>
+      <point x="489" y="307" type="line"/>
+      <point x="20" y="307" type="line"/>
+    </contour>
+  </outline>
+</glyph>

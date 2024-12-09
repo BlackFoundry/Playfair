@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hhook.smcp" format="2">
+  <advance width="886"/>
+  <outline>
+    <component base="_SMCP-top-hook-instroke"/>
+    <component base="_SMCP-H-upper" xOffset="133"/>
+    <component base="_SMCP-bottom-stem-narrow-normal" xOffset="551"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-ii-cy-bar" format="2">
+  <advance width="387"/>
+  <anchor x="194" y="265" name="_center"/>
+  <outline>
+    <contour>
+      <point x="0" y="80" type="line"/>
+      <point x="385" y="357" type="line"/>
+      <point x="385" y="437" type="line"/>
+      <point x="0" y="160" type="line"/>
+    </contour>
+  </outline>
+</glyph>

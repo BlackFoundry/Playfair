@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_k.liga" format="2">
+  <advance width="1268"/>
+  <anchor x="317" y="0" name="bottom_1"/>
+  <anchor x="951" y="0" name="bottom_2"/>
+  <anchor x="634" y="0" name="caret_1"/>
+  <anchor x="317" y="773" name="top_1"/>
+  <anchor x="951" y="773" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="30" y="450" type="line"/>
+      <point x="482" y="450" type="line"/>
+      <point x="482" y="520" type="line"/>
+      <point x="30" y="520" type="line"/>
+    </contour>
+    <component base="_LC-f_l_" xOffset="5"/>
+    <component base="_LC-k-legs" xOffset="690"/>
+  </outline>
+</glyph>

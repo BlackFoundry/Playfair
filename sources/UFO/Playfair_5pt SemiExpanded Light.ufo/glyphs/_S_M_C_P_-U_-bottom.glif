@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-U-bottom" format="2">
+  <advance width="933"/>
+  <anchor x="234" y="0" name="^entry"/>
+  <anchor x="742" y="0" name="^exit"/>
+  <anchor x="521" y="0" name="bottom"/>
+  <anchor x="524" y="297" name="center"/>
+  <anchor x="630" y="0" name="ogonek"/>
+  <anchor x="742" y="428" name="stem"/>
+  <anchor x="521" y="608" name="top"/>
+  <anchor x="521" y="588" name="top_low_1"/>
+  <anchor x="521" y="568" name="top_low_2"/>
+  <anchor x="521" y="548" name="top_low_3"/>
+  <anchor x="521" y="528" name="top_low_4"/>
+  <anchor x="521" y="508" name="top_low_5"/>
+  <outline>
+    <contour>
+      <point x="530" y="-14" type="curve" smooth="yes"/>
+      <point x="710" y="-14"/>
+      <point x="815" y="89"/>
+      <point x="815" y="264" type="curve" smooth="yes"/>
+      <point x="815" y="428" type="line"/>
+      <point x="742" y="428" type="line"/>
+      <point x="742" y="263" type="line" smooth="yes"/>
+      <point x="742" y="132"/>
+      <point x="669" y="55"/>
+      <point x="543" y="55" type="curve" smooth="yes"/>
+      <point x="388" y="55"/>
+      <point x="327" y="125"/>
+      <point x="327" y="302" type="curve" smooth="yes"/>
+      <point x="327" y="428" type="line"/>
+      <point x="234" y="428" type="line"/>
+      <point x="234" y="288" type="line" smooth="yes"/>
+      <point x="234" y="85"/>
+      <point x="331" y="-14"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>4</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

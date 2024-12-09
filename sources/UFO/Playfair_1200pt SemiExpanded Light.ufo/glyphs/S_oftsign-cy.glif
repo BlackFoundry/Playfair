@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Softsign-cy" format="2">
+  <advance width="677"/>
+  <unicode hex="042C"/>
+  <anchor x="677" y="0" name="#exit"/>
+  <anchor x="150" y="0" name="^entry"/>
+  <outline>
+    <contour>
+      <point x="186" y="3" type="curve"/>
+      <point x="197" y="3" type="line"/>
+      <point x="240" y="3"/>
+      <point x="293" y="0"/>
+      <point x="326" y="0" type="curve" smooth="yes"/>
+      <point x="517" y="0"/>
+      <point x="638" y="81"/>
+      <point x="638" y="207" type="curve" smooth="yes"/>
+      <point x="638" y="332"/>
+      <point x="532" y="406"/>
+      <point x="346" y="406" type="curve" smooth="yes"/>
+      <point x="299" y="406"/>
+      <point x="264" y="403"/>
+      <point x="223" y="394" type="curve"/>
+      <point x="223" y="393" type="line"/>
+      <point x="264" y="402"/>
+      <point x="297" y="404"/>
+      <point x="330" y="404" type="curve" smooth="yes"/>
+      <point x="472" y="404"/>
+      <point x="538" y="342"/>
+      <point x="538" y="206" type="curve" smooth="yes"/>
+      <point x="538" y="63"/>
+      <point x="472" y="1"/>
+      <point x="325" y="1" type="curve" smooth="yes"/>
+      <point x="320" y="1" type="line"/>
+      <point x="254" y="1"/>
+      <point x="243" y="15"/>
+      <point x="243" y="100" type="curve"/>
+      <point x="243" y="250" type="line"/>
+      <point x="150" y="250" type="line"/>
+      <point x="150" y="87" type="line"/>
+      <point x="150" y="25"/>
+      <point x="137" y="11"/>
+      <point x="77" y="4" type="curve"/>
+      <point x="50" y="1" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="84" y="1"/>
+      <point x="126" y="3"/>
+    </contour>
+    <component base="_UC-Softsign-cy-stem"/>
+  </outline>
+</glyph>

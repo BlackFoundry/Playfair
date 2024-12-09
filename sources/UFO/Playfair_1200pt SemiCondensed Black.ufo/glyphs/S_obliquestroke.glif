@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sobliquestroke" format="2">
+  <advance width="613"/>
+  <unicode hex="A7A8"/>
+  <outline>
+    <component base="S"/>
+    <component base="_UC-S-stroke" xOffset="29"/>
+  </outline>
+</glyph>

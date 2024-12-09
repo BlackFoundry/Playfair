@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphentwo.smcp" format="2">
+  <advance width="469"/>
+  <outline>
+    <component base="hyphen.smcp" xOffset="-10"/>
+  </outline>
+</glyph>

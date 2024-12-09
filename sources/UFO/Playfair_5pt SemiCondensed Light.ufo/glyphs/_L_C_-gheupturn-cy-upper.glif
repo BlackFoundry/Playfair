@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-gheupturn-cy-upper" format="2">
+  <advance width="540"/>
+  <anchor x="220" y="234" name="center"/>
+  <anchor x="176" y="256" name="stem"/>
+  <anchor x="304" y="512" name="top"/>
+  <outline>
+    <contour>
+      <point x="176" y="256" type="line"/>
+      <point x="266" y="256" type="line"/>
+      <point x="266" y="504" type="line"/>
+      <point x="220" y="509" type="line"/>
+      <point x="221" y="509" type="line"/>
+      <point x="141" y="509"/>
+      <point x="93" y="511"/>
+      <point x="40" y="512" type="curve"/>
+      <point x="40" y="442" type="line"/>
+      <point x="95" y="437" type="line"/>
+      <point x="154" y="432"/>
+      <point x="176" y="411"/>
+      <point x="176" y="350" type="curve"/>
+    </contour>
+    <contour>
+      <point x="220" y="442" type="line"/>
+      <point x="247" y="442" type="line"/>
+      <point x="351" y="442" type="line"/>
+      <point x="398" y="442"/>
+      <point x="446" y="441"/>
+      <point x="493" y="439" type="curve"/>
+      <point x="494" y="526"/>
+      <point x="498" y="600"/>
+      <point x="507" y="671" type="curve"/>
+      <point x="434" y="671" type="line"/>
+      <point x="408" y="538"/>
+      <point x="377" y="509"/>
+      <point x="247" y="509" type="curve"/>
+      <point x="220" y="509" type="line"/>
+    </contour>
+  </outline>
+</glyph>

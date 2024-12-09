@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcrossedtail-dotless" format="2">
+  <advance width="404"/>
+  <anchor x="216" y="260" name="#entry"/>
+  <anchor x="306" y="260" name="#exit"/>
+  <anchor x="216" y="4" name="^exit"/>
+  <anchor x="216" y="260" name="stem"/>
+  <anchor x="258" y="514" name="top"/>
+  <anchor x="306" y="518" name="topright"/>
+  <outline>
+    <contour>
+      <point x="216" y="260" type="line"/>
+      <point x="306" y="260" type="line"/>
+      <point x="306" y="518" type="line"/>
+      <point x="306" y="530" type="line"/>
+      <point x="274" y="520"/>
+      <point x="232" y="516"/>
+      <point x="185" y="516" type="curve"/>
+      <point x="167" y="516"/>
+      <point x="156" y="516"/>
+      <point x="121" y="518" type="curve"/>
+      <point x="121" y="517" type="line"/>
+      <point x="132" y="516" type="line"/>
+      <point x="196" y="510"/>
+      <point x="216" y="490"/>
+      <point x="216" y="435" type="curve"/>
+    </contour>
+    <component base="_LC-j-descender-crossed-tail"/>
+  </outline>
+</glyph>

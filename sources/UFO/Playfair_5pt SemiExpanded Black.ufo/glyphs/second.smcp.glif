@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="second.smcp" format="2">
+  <advance width="735"/>
+  <outline>
+    <component base="second" yOffset="-86"/>
+  </outline>
+</glyph>

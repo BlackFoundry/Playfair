@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-Eng-arch" format="2">
+  <advance width="717"/>
+  <anchor x="78" y="250" name="^entry"/>
+  <anchor x="484" y="0" name="^exit"/>
+  <anchor x="484" y="250" name="stem"/>
+  <anchor x="281" y="708" name="top"/>
+  <anchor x="281" y="688" name="top_low_1"/>
+  <anchor x="281" y="668" name="top_low_2"/>
+  <anchor x="281" y="648" name="top_low_3"/>
+  <outline>
+    <contour>
+      <point x="484" y="250" type="line"/>
+      <point x="687" y="250" type="line"/>
+      <point x="687" y="388" type="line" smooth="yes"/>
+      <point x="687" y="608"/>
+      <point x="577" y="722"/>
+      <point x="363" y="722" type="curve" smooth="yes"/>
+      <point x="214" y="722"/>
+      <point x="105" y="666"/>
+      <point x="30" y="560" type="curve"/>
+      <point x="55" y="508" type="line"/>
+      <point x="120" y="590"/>
+      <point x="198" y="637"/>
+      <point x="298" y="637" type="curve" smooth="yes"/>
+      <point x="428" y="637"/>
+      <point x="484" y="566"/>
+      <point x="484" y="404" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

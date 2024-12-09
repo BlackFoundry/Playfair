@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-p-stroke-overlay" format="2">
+  <advance width="786"/>
+  <anchor x="411" y="269" name="_center"/>
+  <outline>
+    <contour>
+      <point x="256" y="251" type="line"/>
+      <point x="590" y="251" type="line"/>
+      <point x="592" y="286" type="line"/>
+      <point x="258" y="286" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="234" type="line"/>
+      <point x="246" y="234" type="line"/>
+      <point x="246" y="304" type="line"/>
+      <point x="40" y="304" type="line"/>
+    </contour>
+    <contour>
+      <point x="601" y="234" type="line"/>
+      <point x="776" y="234" type="line"/>
+      <point x="776" y="304" type="line"/>
+      <point x="602" y="304" type="line"/>
+    </contour>
+  </outline>
+</glyph>

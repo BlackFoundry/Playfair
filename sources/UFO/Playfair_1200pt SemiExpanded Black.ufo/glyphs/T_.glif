@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="814"/>
+  <unicode hex="0054"/>
+  <anchor x="509" y="0" name="#exit"/>
+  <anchor x="509" y="0" name="%exit"/>
+  <anchor x="407" y="0" name="bottom"/>
+  <anchor x="407" y="354" name="center"/>
+  <anchor x="407" y="285" name="center_lowered"/>
+  <outline>
+    <contour>
+      <point x="392" y="3" type="curve"/>
+      <point x="408" y="3" type="line"/>
+      <point x="423" y="3" type="line"/>
+      <point x="510" y="3"/>
+      <point x="577" y="1"/>
+      <point x="617" y="0" type="curve"/>
+      <point x="617" y="1" type="line"/>
+      <point x="578" y="5" type="line"/>
+      <point x="521" y="13"/>
+      <point x="509" y="24"/>
+      <point x="509" y="87" type="curve"/>
+      <point x="509" y="250" type="line"/>
+      <point x="306" y="250" type="line"/>
+      <point x="306" y="87" type="line"/>
+      <point x="306" y="24"/>
+      <point x="294" y="13"/>
+      <point x="237" y="6" type="curve"/>
+      <point x="198" y="2" type="line"/>
+      <point x="198" y="1" type="line"/>
+      <point x="237" y="1"/>
+      <point x="305" y="3"/>
+    </contour>
+    <component base="_UC-T-upper"/>
+  </outline>
+</glyph>

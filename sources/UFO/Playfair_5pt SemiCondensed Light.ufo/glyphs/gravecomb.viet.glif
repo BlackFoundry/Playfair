@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.viet" format="2">
+  <advance width="220"/>
+  <anchor x="168" y="512" name="_left"/>
+  <anchor x="168" y="512" name="_top"/>
+  <outline>
+    <component base="acutecomb.viet" xScale="-1" xOffset="220"/>
+  </outline>
+</glyph>

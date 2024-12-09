@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sha-cy.smcp" format="2">
+  <advance width="1513"/>
+  <outline>
+    <component base="_SMCP-sha-cy-base"/>
+    <component base="_UC_cy-baseline-right-serif" xOffset="1194"/>
+  </outline>
+</glyph>

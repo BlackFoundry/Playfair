@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nhookleft.cv01" format="2">
+  <advance width="957"/>
+  <outline>
+    <component base="_UC-upper-stem-instroke"/>
+    <component base="_UC-lower-left-hook" xOffset="-50"/>
+    <component base="_UC-Eng-arch" xOffset="247"/>
+    <component base="_UC-bottom-stem-wide-normal" xOffset="416"/>
+  </outline>
+</glyph>

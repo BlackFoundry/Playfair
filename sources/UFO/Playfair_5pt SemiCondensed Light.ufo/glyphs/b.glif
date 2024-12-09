@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b" format="2">
+  <advance width="692"/>
+  <unicode hex="0062"/>
+  <anchor x="266" y="256" name="#entry"/>
+  <anchor x="266" y="256" name="#exit"/>
+  <anchor x="348" y="0" name="bottom"/>
+  <anchor x="381" y="255" name="center"/>
+  <anchor x="348" y="773" name="top"/>
+  <anchor x="176" y="512" name="top-left"/>
+  <outline>
+    <contour>
+      <point x="419" y="526" type="curve" smooth="yes"/>
+      <point x="324" y="526"/>
+      <point x="252" y="465"/>
+      <point x="238" y="375" type="curve"/>
+      <point x="259" y="336" type="line"/>
+      <point x="273" y="402"/>
+      <point x="326" y="446"/>
+      <point x="392" y="446" type="curve" smooth="yes"/>
+      <point x="473" y="446"/>
+      <point x="515" y="382"/>
+      <point x="515" y="258" type="curve" smooth="yes"/>
+      <point x="515" y="127"/>
+      <point x="465" y="56"/>
+      <point x="375" y="56" type="curve" smooth="yes"/>
+      <point x="322" y="56"/>
+      <point x="282" y="85"/>
+      <point x="265" y="136" type="curve"/>
+      <point x="242" y="66" type="line"/>
+      <point x="270" y="12"/>
+      <point x="321" y="-17"/>
+      <point x="389" y="-17" type="curve" smooth="yes"/>
+      <point x="525" y="-17"/>
+      <point x="612" y="92"/>
+      <point x="612" y="264" type="curve" smooth="yes"/>
+      <point x="612" y="422"/>
+      <point x="535" y="526"/>
+    </contour>
+    <component base="_LC-ascender-left-inserif"/>
+    <component base="_LC-baseline-left-instroke" xOffset="8"/>
+  </outline>
+</glyph>

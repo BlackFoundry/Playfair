@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaabovecomb.case" format="2">
+  <advance width="283"/>
+  <anchor x="143" y="708" name="_top"/>
+  <outline>
+    <component base="commaaccentcomb" yOffset="1002"/>
+  </outline>
+</glyph>

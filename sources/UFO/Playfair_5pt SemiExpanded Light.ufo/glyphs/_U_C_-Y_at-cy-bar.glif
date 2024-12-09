@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-Yat-cy-bar" format="2">
+  <advance width="761"/>
+  <anchor x="380" y="512" name="#exit"/>
+  <outline>
+    <contour>
+      <point x="55" y="485" type="line"/>
+      <point x="706" y="485" type="line"/>
+      <point x="706" y="555" type="line"/>
+      <point x="55" y="555" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>4</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>28 Jun 24 at 14:49 (layer #18)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>28 Jun 24 at 14:49 (layer #16)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>28 Jun 24 at 14:49 (layer #19)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>28 Jun 24 at 14:49 (layer #17)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>28 Jun 24 at 14:49 (layer #22)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>28 Jun 24 at 14:49 (layer #20)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>28 Jun 24 at 14:49 (layer #23)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Black (layer #2)</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Light (layer #0)</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Black (layer #3)</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Light (layer #1)</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Black (layer #6)</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Light (layer #4)</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Black (layer #7)</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Light (layer #5)</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+        <key>Playfair_5pt SemiExpanded Light/Agate Black SemiCondensed Upright 28 Jun 24 at 14:45 (layer #14)</key>
+        <string>Agate Black SemiCondensed Upright 28 Jun 24 at 14:45 (layer #14)</string>
+        <key>Playfair_5pt SemiExpanded Light/Agate Black SemiExpanded Upright 28 Jun 24 at 14:45 (layer #15)</key>
+        <string>Agate Black SemiExpanded Upright 28 Jun 24 at 14:45 (layer #15)</string>
+        <key>Playfair_5pt SemiExpanded Light/Agate SemiCondensed Upright 28 Jun 24 at 14:45 (layer #12)</key>
+        <string>Agate SemiCondensed Upright 28 Jun 24 at 14:45 (layer #12)</string>
+        <key>Playfair_5pt SemiExpanded Light/Agate SemiExpanded Upright 28 Jun 24 at 14:45 (layer #13)</key>
+        <string>Agate SemiExpanded Upright 28 Jun 24 at 14:45 (layer #13)</string>
+        <key>Playfair_5pt SemiExpanded Light/Needlepoint Black SemiCondensed Upright 28 Jun 24 at 14:45 (layer #10)</key>
+        <string>Needlepoint Black SemiCondensed Upright 28 Jun 24 at 14:45 (layer #10)</string>
+        <key>Playfair_5pt SemiExpanded Light/Needlepoint Black SemiExpanded Upright 28 Jun 24 at 14:45 (layer #11)</key>
+        <string>Needlepoint Black SemiExpanded Upright 28 Jun 24 at 14:45 (layer #11)</string>
+        <key>Playfair_5pt SemiExpanded Light/Needlepoint SemiCondensed Upright 28 Jun 24 at 14:45 (layer #8)</key>
+        <string>Needlepoint SemiCondensed Upright 28 Jun 24 at 14:45 (layer #8)</string>
+        <key>Playfair_5pt SemiExpanded Light/Needlepoint SemiExpanded Upright 28 Jun 24 at 14:45 (layer #9)</key>
+        <string>Needlepoint SemiExpanded Upright 28 Jun 24 at 14:45 (layer #9)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>28 Jun 24 at 14:49 (layer #21)</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>1200pt SemiCondensed Black</key>
+        <string>28 Jun 24 at 14:49</string>
+        <key>1200pt SemiCondensed Light</key>
+        <string>28 Jun 24 at 14:49</string>
+        <key>1200pt SemiExpanded Black</key>
+        <string>28 Jun 24 at 14:49</string>
+        <key>1200pt SemiExpanded Light</key>
+        <string>28 Jun 24 at 14:49</string>
+        <key>5pt SemiCondensed Black</key>
+        <string>28 Jun 24 at 14:49</string>
+        <key>5pt SemiCondensed Light</key>
+        <string>28 Jun 24 at 14:49</string>
+        <key>5pt SemiExpanded Black</key>
+        <string>28 Jun 24 at 14:49</string>
+        <key>5pt SemiExpanded Light</key>
+        <string>28 Jun 24 at 14:49</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

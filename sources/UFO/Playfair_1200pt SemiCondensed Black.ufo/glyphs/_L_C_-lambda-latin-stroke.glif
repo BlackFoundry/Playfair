@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-lambda-latin-stroke" format="2">
+  <advance width="400"/>
+  <anchor x="207" y="520" name="_stroke"/>
+  <outline>
+    <contour>
+      <point x="31" y="518" type="line"/>
+      <point x="210" y="605" type="line"/>
+      <point x="209" y="606" type="line"/>
+      <point x="30" y="519" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="606" type="line"/>
+      <point x="370" y="684" type="line"/>
+      <point x="369" y="685" type="line"/>
+      <point x="209" y="607" type="line"/>
+    </contour>
+  </outline>
+</glyph>

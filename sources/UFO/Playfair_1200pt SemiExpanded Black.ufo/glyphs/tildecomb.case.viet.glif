@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.case.viet" format="2">
+  <advance width="552"/>
+  <anchor x="276" y="708" name="_top"/>
+  <anchor x="276" y="940" name="top"/>
+  <anchor x="276" y="920" name="top_low_1"/>
+  <anchor x="276" y="900" name="top_low_2"/>
+  <anchor x="276" y="880" name="top_low_3"/>
+  <anchor x="276" y="860" name="top_low_4"/>
+  <anchor x="276" y="840" name="top_low_5"/>
+  <outline>
+    <contour>
+      <point x="30" y="803" type="curve"/>
+      <point x="31" y="803" type="line"/>
+      <point x="51" y="842"/>
+      <point x="80" y="860"/>
+      <point x="125" y="860" type="curve" smooth="yes"/>
+      <point x="205" y="860"/>
+      <point x="280" y="803"/>
+      <point x="373" y="803" type="curve" smooth="yes"/>
+      <point x="458" y="803"/>
+      <point x="508" y="851"/>
+      <point x="522" y="945" type="curve"/>
+      <point x="521" y="945" type="line"/>
+      <point x="501" y="906"/>
+      <point x="472" y="889"/>
+      <point x="428" y="889" type="curve" smooth="yes"/>
+      <point x="347" y="889"/>
+      <point x="272" y="945"/>
+      <point x="179" y="945" type="curve" smooth="yes"/>
+      <point x="94" y="945"/>
+      <point x="43" y="897"/>
+    </contour>
+  </outline>
+</glyph>

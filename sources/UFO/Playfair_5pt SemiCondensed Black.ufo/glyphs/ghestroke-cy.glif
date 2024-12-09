@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghestroke-cy" format="2">
+  <advance width="517"/>
+  <unicode hex="0493"/>
+  <anchor x="106" y="260" name="#entry"/>
+  <anchor x="286" y="260" name="#exit"/>
+  <anchor x="-163" y="0" name="%entry"/>
+  <anchor x="106" y="0" name="%exit"/>
+  <anchor x="-1" y="0" name="^entry"/>
+  <anchor x="383" y="0" name="^exit"/>
+  <anchor x="201" y="225" name="center"/>
+  <anchor x="106" y="260" name="stem"/>
+  <anchor x="263" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="106" y="260" type="line"/>
+      <point x="286" y="260" type="line"/>
+      <point x="286" y="510" type="line"/>
+      <point x="196" y="517" type="line"/>
+      <point x="196" y="517" type="line"/>
+      <point x="128" y="517"/>
+      <point x="73" y="519"/>
+      <point x="20" y="520" type="curve"/>
+      <point x="20" y="450" type="line"/>
+      <point x="44" y="447" type="line"/>
+      <point x="97" y="440"/>
+      <point x="106" y="429"/>
+      <point x="106" y="383" type="curve"/>
+    </contour>
+    <contour>
+      <point x="196" y="449" type="line"/>
+      <point x="243" y="449" type="line"/>
+      <point x="357" y="449"/>
+      <point x="379" y="438"/>
+      <point x="420" y="337" type="curve"/>
+      <point x="493" y="337" type="line"/>
+      <point x="487" y="401"/>
+      <point x="485" y="462"/>
+      <point x="486" y="519" type="curve"/>
+      <point x="444" y="516"/>
+      <point x="402" y="516"/>
+      <point x="360" y="516" type="curve"/>
+      <point x="243" y="516" type="line"/>
+      <point x="196" y="517" type="line"/>
+    </contour>
+    <contour>
+      <point x="196" y="3" type="curve"/>
+      <point x="196" y="3" type="line"/>
+      <point x="196" y="3" type="line"/>
+      <point x="271" y="3"/>
+      <point x="332" y="1"/>
+      <point x="390" y="0" type="curve"/>
+      <point x="390" y="70" type="line"/>
+      <point x="366" y="73" type="line"/>
+      <point x="298" y="82"/>
+      <point x="286" y="91"/>
+      <point x="286" y="137" type="curve"/>
+      <point x="286" y="260" type="line"/>
+      <point x="106" y="260" type="line"/>
+      <point x="106" y="137" type="line"/>
+      <point x="106" y="91"/>
+      <point x="97" y="80"/>
+      <point x="44" y="73" type="curve"/>
+      <point x="20" y="70" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="73" y="1"/>
+      <point x="128" y="3"/>
+    </contour>
+    <component base="strokeshortcomb" xScale="0.85" xOffset="-22" yOffset="-44"/>
+  </outline>
+</glyph>

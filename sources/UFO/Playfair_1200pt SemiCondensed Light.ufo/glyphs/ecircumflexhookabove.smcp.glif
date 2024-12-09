@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflexhookabove.smcp" format="2">
+  <advance width="593"/>
+  <outline>
+    <component base="e.smcp"/>
+    <component base="circumflexcomb.case" xOffset="82" yOffset="-120"/>
+    <component base="hookabovecomb.case" xOffset="275" yOffset="-2"/>
+  </outline>
+</glyph>

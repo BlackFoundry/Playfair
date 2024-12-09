@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_f_j.ligature" format="2">
+  <advance width="733"/>
+  <anchor x="110" y="260" name="#entry"/>
+  <anchor x="290" y="260" name="#exit"/>
+  <anchor x="-151" y="0" name="%entry"/>
+  <anchor x="110" y="0" name="%exit"/>
+  <anchor x="798" y="520" name="2ndTittle"/>
+  <anchor x="3" y="0" name="^entry"/>
+  <anchor x="387" y="0" name="^exit"/>
+  <anchor x="110" y="520" name="bar"/>
+  <anchor x="388" y="-231" name="bottom"/>
+  <anchor x="200" y="520" name="center"/>
+  <anchor x="110" y="260" name="stem"/>
+  <anchor x="376" y="773" name="top"/>
+  <outline>
+    <contour>
+      <point x="200" y="3" type="curve"/>
+      <point x="200" y="3" type="line"/>
+      <point x="200" y="3" type="line"/>
+      <point x="268" y="3"/>
+      <point x="323" y="1"/>
+      <point x="376" y="0" type="curve"/>
+      <point x="376" y="70" type="line"/>
+      <point x="359" y="72" type="line"/>
+      <point x="302" y="81"/>
+      <point x="290" y="90"/>
+      <point x="290" y="137" type="curve"/>
+      <point x="290" y="260" type="line"/>
+      <point x="110" y="260" type="line"/>
+      <point x="110" y="137" type="line"/>
+      <point x="110" y="91"/>
+      <point x="101" y="80"/>
+      <point x="48" y="73" type="curve"/>
+      <point x="24" y="70" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="77" y="1"/>
+      <point x="132" y="3"/>
+    </contour>
+    <contour>
+      <point x="110" y="260" type="line"/>
+      <point x="290" y="260" type="line"/>
+      <point x="290" y="545" type="line"/>
+      <point x="290" y="664"/>
+      <point x="336" y="712"/>
+      <point x="434" y="712" type="curve"/>
+      <point x="481" y="712"/>
+      <point x="507" y="703"/>
+      <point x="507" y="688" type="curve"/>
+      <point x="507" y="670"/>
+      <point x="483" y="651"/>
+      <point x="483" y="624" type="curve"/>
+      <point x="483" y="594"/>
+      <point x="505" y="576"/>
+      <point x="543" y="576" type="curve"/>
+      <point x="605" y="576"/>
+      <point x="643" y="609"/>
+      <point x="643" y="662" type="curve"/>
+      <point x="643" y="739"/>
+      <point x="566" y="782"/>
+      <point x="424" y="782" type="curve"/>
+      <point x="231" y="782"/>
+      <point x="110" y="682"/>
+      <point x="110" y="520" type="curve"/>
+    </contour>
+    <contour>
+      <point x="331" y="-239" type="line"/>
+      <point x="588" y="-239"/>
+      <point x="650" y="-132"/>
+      <point x="650" y="45" type="curve" smooth="yes"/>
+      <point x="650" y="260" type="line"/>
+      <point x="470" y="260" type="line"/>
+      <point x="470" y="53" type="line" smooth="yes"/>
+      <point x="470" y="-107"/>
+      <point x="426" y="-170"/>
+      <point x="331" y="-174" type="curve"/>
+    </contour>
+    <component base="_LC-ligature-dotlessi" xOffset="-10"/>
+  </outline>
+</glyph>

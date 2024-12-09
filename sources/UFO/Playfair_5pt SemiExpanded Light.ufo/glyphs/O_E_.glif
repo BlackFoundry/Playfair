@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <advance width="1259"/>
+  <unicode hex="0152"/>
+  <anchor x="622" y="0" name="bottom"/>
+  <anchor x="610" y="708" name="top"/>
+  <anchor x="610" y="688" name="top_low_1"/>
+  <anchor x="610" y="668" name="top_low_2"/>
+  <anchor x="610" y="648" name="top_low_3"/>
+  <outline>
+    <contour>
+      <point x="496" y="-14" type="curve" smooth="yes"/>
+      <point x="578" y="-14"/>
+      <point x="599" y="3"/>
+      <point x="703" y="3" type="curve" smooth="yes"/>
+      <point x="723" y="3"/>
+      <point x="780" y="3"/>
+      <point x="808" y="3" type="curve" smooth="yes"/>
+      <point x="840" y="3" type="line"/>
+      <point x="962" y="3"/>
+      <point x="1056" y="2"/>
+      <point x="1127" y="0" type="curve"/>
+      <point x="1127" y="88"/>
+      <point x="1133" y="165"/>
+      <point x="1147" y="250" type="curve"/>
+      <point x="1074" y="250" type="line"/>
+      <point x="1034" y="104"/>
+      <point x="995" y="73"/>
+      <point x="863" y="73" type="curve"/>
+      <point x="850" y="73" type="line" smooth="yes"/>
+      <point x="759" y="73"/>
+      <point x="745" y="84"/>
+      <point x="745" y="156" type="curve" smooth="yes"/>
+      <point x="745" y="633" type="line"/>
+      <point x="853" y="633" type="line"/>
+      <point x="980" y="633"/>
+      <point x="1022" y="611"/>
+      <point x="1047" y="506" type="curve"/>
+      <point x="1120" y="506" type="line"/>
+      <point x="1112" y="574"/>
+      <point x="1108" y="636"/>
+      <point x="1108" y="706" type="curve"/>
+      <point x="1045" y="704"/>
+      <point x="963" y="703"/>
+      <point x="855" y="704" type="curve"/>
+      <point x="694" y="706" type="line" smooth="yes"/>
+      <point x="593" y="706"/>
+      <point x="576" y="722"/>
+      <point x="500" y="722" type="curve" smooth="yes"/>
+      <point x="261" y="722"/>
+      <point x="102" y="571"/>
+      <point x="102" y="345" type="curve" smooth="yes"/>
+      <point x="102" y="125"/>
+      <point x="255" y="-14"/>
+    </contour>
+    <contour>
+      <point x="493" y="54" type="curve" smooth="yes"/>
+      <point x="324" y="54"/>
+      <point x="202" y="181"/>
+      <point x="202" y="357" type="curve" smooth="yes"/>
+      <point x="202" y="534"/>
+      <point x="319" y="654"/>
+      <point x="494" y="654" type="curve" smooth="yes"/>
+      <point x="593" y="654"/>
+      <point x="652" y="616"/>
+      <point x="652" y="551" type="curve" smooth="yes"/>
+      <point x="652" y="157" type="line" smooth="yes"/>
+      <point x="652" y="95"/>
+      <point x="589" y="54"/>
+    </contour>
+    <contour>
+      <point x="707" y="321" type="line"/>
+      <point x="886" y="321" type="line"/>
+      <point x="886" y="391" type="line"/>
+      <point x="707" y="391" type="line"/>
+    </contour>
+    <contour>
+      <point x="886" y="214" type="curve"/>
+      <point x="956" y="214" type="line"/>
+      <point x="951" y="290"/>
+      <point x="951" y="323"/>
+      <point x="951" y="356" type="curve" smooth="yes"/>
+      <point x="951" y="389"/>
+      <point x="951" y="422"/>
+      <point x="956" y="498" type="curve"/>
+      <point x="886" y="498" type="line"/>
+      <point x="879" y="433"/>
+      <point x="853" y="391"/>
+      <point x="785" y="391" type="curve"/>
+      <point x="785" y="321" type="line"/>
+      <point x="853" y="321"/>
+      <point x="879" y="279"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>4</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

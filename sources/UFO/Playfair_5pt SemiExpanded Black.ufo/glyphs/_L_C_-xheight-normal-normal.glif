@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-xheight-normal-normal" format="2">
+  <advance width="452"/>
+  <anchor x="136" y="260" name="_stem"/>
+  <anchor x="226" y="519" name="top"/>
+  <outline>
+    <contour>
+      <point x="136" y="260" type="line"/>
+      <point x="316" y="260" type="line"/>
+      <point x="316" y="363" type="line"/>
+      <point x="316" y="423"/>
+      <point x="333" y="441"/>
+      <point x="388" y="446" type="curve"/>
+      <point x="420" y="449" type="line"/>
+      <point x="420" y="519" type="line"/>
+      <point x="362" y="518"/>
+      <point x="299" y="516"/>
+      <point x="226" y="516" type="curve"/>
+      <point x="226" y="516" type="line"/>
+      <point x="226" y="516" type="line"/>
+      <point x="153" y="516"/>
+      <point x="90" y="518"/>
+      <point x="32" y="519" type="curve"/>
+      <point x="32" y="449" type="line"/>
+      <point x="64" y="446" type="line"/>
+      <point x="119" y="441"/>
+      <point x="136" y="423"/>
+      <point x="136" y="363" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

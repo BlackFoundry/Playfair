@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhornacute.smcp" format="2">
+  <advance width="829"/>
+  <outline>
+    <component base="uhorn.smcp"/>
+    <component base="acutecomb.smcp" xOffset="339"/>
+  </outline>
+</glyph>

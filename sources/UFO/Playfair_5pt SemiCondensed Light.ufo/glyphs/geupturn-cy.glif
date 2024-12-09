@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="geupturn-cy" format="2">
+  <advance width="550"/>
+  <unicode hex="0491"/>
+  <anchor x="186" y="256" name="#entry"/>
+  <anchor x="276" y="256" name="#exit"/>
+  <anchor x="-152" y="0" name="%entry"/>
+  <anchor x="186" y="0" name="%exit"/>
+  <anchor x="10" y="0" name="^entry"/>
+  <anchor x="437" y="0" name="^exit"/>
+  <anchor x="186" y="256" name="stem"/>
+  <outline>
+    <contour>
+      <point x="231" y="3" type="curve"/>
+      <point x="231" y="3" type="line"/>
+      <point x="231" y="3" type="line"/>
+      <point x="316" y="3"/>
+      <point x="367" y="1"/>
+      <point x="424" y="0" type="curve"/>
+      <point x="424" y="70" type="line"/>
+      <point x="369" y="75" type="line"/>
+      <point x="302" y="81"/>
+      <point x="276" y="101"/>
+      <point x="276" y="162" type="curve"/>
+      <point x="276" y="256" type="line"/>
+      <point x="186" y="256" type="line"/>
+      <point x="186" y="162" type="line"/>
+      <point x="186" y="101"/>
+      <point x="164" y="80"/>
+      <point x="105" y="75" type="curve"/>
+      <point x="50" y="70" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="103" y="1"/>
+      <point x="151" y="3"/>
+    </contour>
+    <component base="_LC-gheupturn-cy-upper" xOffset="10"/>
+  </outline>
+</glyph>

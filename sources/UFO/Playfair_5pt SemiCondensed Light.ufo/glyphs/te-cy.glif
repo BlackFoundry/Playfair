@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="te-cy" format="2">
+  <advance width="584"/>
+  <unicode hex="0442"/>
+  <anchor x="247" y="256" name="#entry"/>
+  <anchor x="337" y="256" name="#exit"/>
+  <anchor x="-91" y="0" name="%entry"/>
+  <anchor x="247" y="0" name="%exit"/>
+  <anchor x="71" y="0" name="^entry"/>
+  <anchor x="498" y="0" name="^exit"/>
+  <anchor x="247" y="256" name="stem"/>
+  <outline>
+    <contour>
+      <point x="292" y="3" type="curve"/>
+      <point x="292" y="3" type="line"/>
+      <point x="292" y="3" type="line"/>
+      <point x="372" y="3"/>
+      <point x="420" y="1"/>
+      <point x="473" y="0" type="curve"/>
+      <point x="473" y="70" type="line"/>
+      <point x="418" y="75" type="line"/>
+      <point x="359" y="80"/>
+      <point x="337" y="101"/>
+      <point x="337" y="162" type="curve"/>
+      <point x="337" y="256" type="line"/>
+      <point x="247" y="256" type="line"/>
+      <point x="247" y="162" type="line"/>
+      <point x="247" y="101"/>
+      <point x="225" y="80"/>
+      <point x="166" y="75" type="curve"/>
+      <point x="111" y="70" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="164" y="1"/>
+      <point x="212" y="3"/>
+    </contour>
+    <component base="_LC-te-cy-upper"/>
+  </outline>
+</glyph>

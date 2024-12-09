@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longs_i.liga" format="2">
+  <advance width="759"/>
+  <anchor x="190" y="0" name="bottom_1"/>
+  <anchor x="569" y="0" name="bottom_2"/>
+  <anchor x="379.5" y="0" name="caret_1"/>
+  <anchor x="190" y="773" name="top_1"/>
+  <anchor x="569" y="773" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="200" y="3" type="curve"/>
+      <point x="200" y="3" type="line"/>
+      <point x="200" y="3" type="line"/>
+      <point x="261" y="3"/>
+      <point x="310" y="1"/>
+      <point x="358" y="0" type="curve"/>
+      <point x="358" y="70" type="line"/>
+      <point x="341" y="72" type="line"/>
+      <point x="299" y="79"/>
+      <point x="290" y="90"/>
+      <point x="290" y="137" type="curve"/>
+      <point x="290" y="260" type="line"/>
+      <point x="110" y="260" type="line"/>
+      <point x="110" y="137" type="line"/>
+      <point x="110" y="91"/>
+      <point x="101" y="80"/>
+      <point x="48" y="73" type="curve"/>
+      <point x="24" y="70" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="77" y="1"/>
+      <point x="132" y="3"/>
+    </contour>
+    <contour>
+      <point x="110" y="260" type="line"/>
+      <point x="290" y="260" type="line"/>
+      <point x="290" y="556" type="line"/>
+      <point x="290" y="667"/>
+      <point x="332" y="712"/>
+      <point x="421" y="712" type="curve"/>
+      <point x="464" y="712"/>
+      <point x="488" y="703"/>
+      <point x="488" y="688" type="curve"/>
+      <point x="488" y="670"/>
+      <point x="464" y="651"/>
+      <point x="464" y="623" type="curve"/>
+      <point x="464" y="594"/>
+      <point x="486" y="576"/>
+      <point x="524" y="576" type="curve"/>
+      <point x="584" y="576"/>
+      <point x="622" y="608"/>
+      <point x="622" y="663" type="curve"/>
+      <point x="622" y="739"/>
+      <point x="548" y="782"/>
+      <point x="411" y="782" type="curve"/>
+      <point x="224" y="782"/>
+      <point x="110" y="685"/>
+      <point x="110" y="522" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.black-foundry.variable-components</key>
+      <array>
+        <dict>
+          <key>base</key>
+          <string>_longsbar</string>
+          <key>location</key>
+          <dict/>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <real>0.0</real>
+            <key>scaleX</key>
+            <real>1.0</real>
+            <key>scaleY</key>
+            <real>1.0</real>
+            <key>skewX</key>
+            <real>0.0</real>
+            <key>skewY</key>
+            <real>0.0</real>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>-10</integer>
+            <key>translateY</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>base</key>
+          <string>_LC-idotless-optical</string>
+          <key>location</key>
+          <dict>
+            <key>Group</key>
+            <integer>1</integer>
+          </dict>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <real>0.0</real>
+            <key>scaleX</key>
+            <real>1.0</real>
+            <key>scaleY</key>
+            <real>1.0</real>
+            <key>skewX</key>
+            <real>0.0</real>
+            <key>skewY</key>
+            <real>0.0</real>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>364</integer>
+            <key>translateY</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

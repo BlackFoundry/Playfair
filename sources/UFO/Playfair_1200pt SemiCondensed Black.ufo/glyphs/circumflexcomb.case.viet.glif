@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.case.viet" format="2">
+  <advance width="479"/>
+  <anchor x="240" y="708" name="_top"/>
+  <anchor x="127" y="828" name="left"/>
+  <anchor x="355" y="828" name="right"/>
+  <anchor x="240" y="940" name="top"/>
+  <anchor x="240" y="920" name="top_low_1"/>
+  <anchor x="240" y="900" name="top_low_2"/>
+  <anchor x="240" y="880" name="top_low_3"/>
+  <anchor x="240" y="860" name="top_low_4"/>
+  <anchor x="240" y="840" name="top_low_5"/>
+  <outline>
+    <contour>
+      <point x="31" y="743" type="line"/>
+      <point x="258" y="845" type="line"/>
+      <point x="159" y="813" type="line"/>
+      <point x="448" y="743" type="line"/>
+      <point x="449" y="744" type="line"/>
+      <point x="244" y="927" type="line"/>
+      <point x="243" y="927" type="line"/>
+      <point x="30" y="744" type="line"/>
+    </contour>
+  </outline>
+</glyph>

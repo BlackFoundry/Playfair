@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pstroke.smcp" format="2">
+  <advance width="650"/>
+  <outline>
+    <component base="p.smcp"/>
+    <component base="_P-stroke" xOffset="-29" yOffset="60"/>
+  </outline>
+</glyph>

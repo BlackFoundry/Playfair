@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA7AE" format="2">
+  <advance width="622"/>
+  <unicode hex="A7AE"/>
+  <anchor x="316" y="0" name="bottom"/>
+  <anchor x="311" y="4" name="bottomstroke"/>
+  <anchor x="316" y="354" name="center"/>
+  <anchor x="316" y="708" name="top"/>
+  <anchor x="311" y="704" name="topstroke"/>
+  <outline>
+    <contour>
+      <point x="240" y="704" type="curve"/>
+      <point x="381" y="704" type="line"/>
+      <point x="501" y="704"/>
+      <point x="541" y="660"/>
+      <point x="587" y="478" type="curve"/>
+      <point x="588" y="478" type="line"/>
+      <point x="578" y="561"/>
+      <point x="573" y="636"/>
+      <point x="572" y="708" type="curve"/>
+      <point x="522" y="706"/>
+      <point x="452" y="705"/>
+      <point x="343" y="705" type="curve"/>
+      <point x="278" y="705" type="line"/>
+      <point x="169" y="705"/>
+      <point x="99" y="706"/>
+      <point x="49" y="708" type="curve"/>
+      <point x="48" y="636"/>
+      <point x="43" y="561"/>
+      <point x="33" y="478" type="curve"/>
+      <point x="34" y="478" type="line"/>
+      <point x="80" y="660"/>
+      <point x="120" y="704"/>
+    </contour>
+    <contour>
+      <point x="382" y="4" type="curve"/>
+      <point x="241" y="4" type="line"/>
+      <point x="121" y="4"/>
+      <point x="81" y="48"/>
+      <point x="35" y="230" type="curve"/>
+      <point x="34" y="230" type="line"/>
+      <point x="44" y="147"/>
+      <point x="49" y="72"/>
+      <point x="50" y="0" type="curve"/>
+      <point x="100" y="2"/>
+      <point x="170" y="3"/>
+      <point x="279" y="3" type="curve"/>
+      <point x="344" y="3" type="line"/>
+      <point x="453" y="3"/>
+      <point x="523" y="2"/>
+      <point x="573" y="0" type="curve"/>
+      <point x="574" y="72"/>
+      <point x="579" y="147"/>
+      <point x="589" y="230" type="curve"/>
+      <point x="588" y="230" type="line"/>
+      <point x="542" y="48"/>
+      <point x="502" y="4"/>
+    </contour>
+    <component base="_UC-uniA7AE-stroke" xOffset="234"/>
+  </outline>
+</glyph>

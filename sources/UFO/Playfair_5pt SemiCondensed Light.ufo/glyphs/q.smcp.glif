@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q.smcp" format="2">
+  <advance width="759"/>
+  <outline>
+    <component base="o.smcp"/>
+    <component base="_UC-Q-tail" xOffset="78"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_longs_l.ligature" format="2">
+  <advance width="737"/>
+  <outline>
+    <component base="__fl-liga" xOffset="5"/>
+    <component base="_longs-bar" xOffset="6"/>
+  </outline>
+</glyph>

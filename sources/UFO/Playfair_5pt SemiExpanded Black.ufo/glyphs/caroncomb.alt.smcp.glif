@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.alt.smcp" format="2">
+  <advance width="259"/>
+  <anchor x="-62" y="608" name="_right"/>
+  <outline>
+    <component base="caroncomb.alt.case" xOffset="-34" yOffset="-100"/>
+  </outline>
+</glyph>

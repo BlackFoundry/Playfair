@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tse-cy" format="2">
+  <advance width="767"/>
+  <unicode hex="0446"/>
+  <outline>
+    <component base="_tse-dzhe-cy_base"/>
+    <component base="_LC-descender-cy-serifless" xOffset="377"/>
+  </outline>
+</glyph>

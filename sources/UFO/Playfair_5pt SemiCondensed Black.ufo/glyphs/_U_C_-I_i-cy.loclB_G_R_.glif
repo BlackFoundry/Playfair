@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-Ii-cy.loclBGR" format="2">
+  <advance width="891"/>
+  <anchor x="130" y="0" name="^entry"/>
+  <anchor x="558" y="0" name="^exit"/>
+  <anchor x="130" y="528" name="_stem"/>
+  <anchor x="761" y="0" name="baseline_right"/>
+  <anchor x="446" y="0" name="bottom"/>
+  <anchor x="445" y="509" name="center"/>
+  <anchor x="558" y="250" name="stem"/>
+  <anchor x="446" y="708" name="top"/>
+  <anchor x="446" y="688" name="top_low_1"/>
+  <anchor x="446" y="668" name="top_low_2"/>
+  <anchor x="446" y="648" name="top_low_3"/>
+  <outline>
+    <contour>
+      <point x="558" y="250" type="line"/>
+      <point x="761" y="250" type="line"/>
+      <point x="761" y="552" type="line"/>
+      <point x="761" y="616"/>
+      <point x="773" y="627"/>
+      <point x="829" y="634" type="curve"/>
+      <point x="861" y="637" type="line"/>
+      <point x="861" y="707" type="line"/>
+      <point x="807" y="706"/>
+      <point x="722" y="705"/>
+      <point x="675" y="705" type="curve"/>
+      <point x="660" y="705" type="line"/>
+      <point x="626" y="705"/>
+      <point x="592" y="706"/>
+      <point x="558" y="708" type="curve"/>
+    </contour>
+    <contour>
+      <point x="216" y="3" type="curve"/>
+      <point x="231" y="3" type="line"/>
+      <point x="265" y="3"/>
+      <point x="299" y="2"/>
+      <point x="333" y="0" type="curve"/>
+      <point x="333" y="528" type="line"/>
+      <point x="130" y="528" type="line"/>
+      <point x="130" y="156" type="line"/>
+      <point x="130" y="92"/>
+      <point x="118" y="81"/>
+      <point x="62" y="74" type="curve"/>
+      <point x="30" y="71" type="line"/>
+      <point x="30" y="1" type="line"/>
+      <point x="84" y="2"/>
+      <point x="169" y="3"/>
+    </contour>
+    <contour>
+      <point x="333" y="0" type="line"/>
+      <point x="579" y="580" type="line"/>
+      <point x="558" y="708" type="line"/>
+      <point x="312" y="129" type="line"/>
+    </contour>
+  </outline>
+</glyph>

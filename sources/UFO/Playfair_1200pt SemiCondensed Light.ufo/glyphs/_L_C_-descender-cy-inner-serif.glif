@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-descender-cy-inner-serif" format="2">
+  <advance width="312"/>
+  <anchor x="106" y="256" name="_stem"/>
+  <outline>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="196" y="256" type="line"/>
+      <point x="106" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="182" y="-3"/>
+      <point x="229" y="-33"/>
+      <point x="276" y="-162" type="curve"/>
+      <point x="277" y="-162" type="line"/>
+      <point x="272" y="-104"/>
+      <point x="270" y="-49"/>
+      <point x="272" y="3" type="curve"/>
+      <point x="241" y="1"/>
+      <point x="208" y="1"/>
+      <point x="177" y="1" type="curve"/>
+      <point x="110" y="1" type="line"/>
+      <point x="107" y="1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar8.afrc" format="2">
+  <advance width="3840"/>
+  <outline>
+    <component base="bar1.afrc"/>
+    <component base="bar1.afrc" xOffset="480"/>
+    <component base="bar1.afrc" xOffset="960"/>
+    <component base="bar1.afrc" xOffset="1440"/>
+    <component base="bar1.afrc" xOffset="1920"/>
+    <component base="bar1.afrc" xOffset="2400"/>
+    <component base="bar1.afrc" xOffset="2880"/>
+    <component base="bar1.afrc" xOffset="3360"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek.smcp" format="2">
+  <advance width="453"/>
+  <outline>
+    <component base="i.smcp"/>
+    <component base="ogonekcomb.smcp" xOffset="24"/>
+  </outline>
+</glyph>

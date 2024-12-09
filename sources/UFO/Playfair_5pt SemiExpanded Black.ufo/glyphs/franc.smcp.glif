@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc.smcp" format="2">
+  <advance width="806"/>
+  <outline>
+    <component base="ge-cy.smcp"/>
+    <component base="strokeshortoverlaycomb.smcp" xOffset="-19" yOffset="45"/>
+    <component base="strokeshortoverlaycomb.smcp" xOffset="-19" yOffset="-110"/>
+  </outline>
+</glyph>

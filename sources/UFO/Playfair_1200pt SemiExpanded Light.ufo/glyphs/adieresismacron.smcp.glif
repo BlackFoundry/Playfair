@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adieresismacron.smcp" format="2">
+  <advance width="764"/>
+  <outline>
+    <component base="a.smcp"/>
+    <component base="dieresiscomb.case" xOffset="108" yOffset="-120"/>
+    <component base="macroncomb.case" xOffset="144" yOffset="52"/>
+  </outline>
+</glyph>

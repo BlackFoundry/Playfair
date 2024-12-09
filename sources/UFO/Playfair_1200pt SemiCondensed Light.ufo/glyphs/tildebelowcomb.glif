@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildebelowcomb" format="2">
+  <advance width="381"/>
+  <unicode hex="0330"/>
+  <anchor x="191" y="0" name="_bottom"/>
+  <anchor x="191" y="-228" name="bottom"/>
+  <anchor x="191" y="-155" name="bottom_double"/>
+  <anchor x="191" y="-127" name="bottom_macron"/>
+  <outline>
+    <contour>
+      <point x="30" y="-223" type="curve"/>
+      <point x="31" y="-223" type="line"/>
+      <point x="36" y="-180"/>
+      <point x="57" y="-157"/>
+      <point x="91" y="-157" type="curve" smooth="yes"/>
+      <point x="149" y="-157"/>
+      <point x="189" y="-223"/>
+      <point x="254" y="-223" type="curve" smooth="yes"/>
+      <point x="308" y="-223"/>
+      <point x="342" y="-180"/>
+      <point x="351" y="-100" type="curve"/>
+      <point x="350" y="-100" type="line"/>
+      <point x="343" y="-145"/>
+      <point x="323" y="-167"/>
+      <point x="291" y="-167" type="curve" smooth="yes"/>
+      <point x="234" y="-167"/>
+      <point x="190" y="-100"/>
+      <point x="126" y="-100" type="curve" smooth="yes"/>
+      <point x="74" y="-100"/>
+      <point x="39" y="-145"/>
+    </contour>
+  </outline>
+</glyph>

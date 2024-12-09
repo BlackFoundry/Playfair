@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_dotaccentcomb.light" format="2">
+  <advance width="272"/>
+  <anchor x="76" y="338" name="_left"/>
+  <anchor x="136" y="520" name="_top"/>
+  <anchor x="136" y="720" name="top"/>
+  <anchor x="136" y="700" name="top_low_1"/>
+  <anchor x="136" y="680" name="top_low_2"/>
+  <anchor x="136" y="660" name="top_low_3"/>
+  <anchor x="136" y="640" name="top_low_4"/>
+  <anchor x="136" y="620" name="top_low_5"/>
+  <outline>
+    <contour>
+      <point x="136" y="614" type="curve" smooth="yes"/>
+      <point x="187" y="614"/>
+      <point x="225" y="649"/>
+      <point x="225" y="696" type="curve" smooth="yes"/>
+      <point x="225" y="743"/>
+      <point x="187" y="778"/>
+      <point x="136" y="778" type="curve" smooth="yes"/>
+      <point x="85" y="778"/>
+      <point x="47" y="744"/>
+      <point x="47" y="696" type="curve" smooth="yes"/>
+      <point x="47" y="648"/>
+      <point x="85" y="614"/>
+    </contour>
+  </outline>
+</glyph>

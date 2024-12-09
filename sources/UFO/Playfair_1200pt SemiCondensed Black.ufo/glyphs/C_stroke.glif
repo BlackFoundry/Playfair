@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cstroke" format="2">
+  <advance width="718"/>
+  <unicode hex="023B"/>
+  <outline>
+    <component base="C"/>
+    <component base="_UC-C-stroke" xOffset="104"/>
+  </outline>
+</glyph>

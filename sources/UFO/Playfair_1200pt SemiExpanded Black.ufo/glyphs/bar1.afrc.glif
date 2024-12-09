@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar1.afrc" format="2">
+  <advance width="580"/>
+  <anchor x="0" y="0" name="#entry"/>
+  <anchor x="580" y="0" name="#exit"/>
+  <outline>
+    <contour>
+      <point x="-20" y="356" type="line"/>
+      <point x="600" y="356" type="line"/>
+      <point x="600" y="357" type="line"/>
+      <point x="-20" y="357" type="line"/>
+    </contour>
+  </outline>
+</glyph>

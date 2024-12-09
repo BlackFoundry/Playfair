@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ystroke" format="2">
+  <advance width="681"/>
+  <unicode hex="024E"/>
+  <outline>
+    <component base="Y"/>
+    <component base="_Y-stroke" xOffset="14" yOffset="-14"/>
+  </outline>
+</glyph>

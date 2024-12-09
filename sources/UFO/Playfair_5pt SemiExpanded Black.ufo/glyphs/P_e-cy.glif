@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pe-cy" format="2">
+  <advance width="1130"/>
+  <unicode hex="041F"/>
+  <outline>
+    <component base="_UC-Pe-cy-upper" xOffset="6"/>
+    <component base="_UC-bottom-stem-narrow-normal" xOffset="593"/>
+    <component base="_UC-bottom-stem-narrow-normal" xScale="-1" xOffset="538"/>
+  </outline>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-bottom-stem-normal-normal" format="2">
+  <advance width="463"/>
+  <anchor x="130" y="0" name="^entry"/>
+  <anchor x="333" y="0" name="_baseline_right"/>
+  <anchor x="423" y="0" name="_bottomright"/>
+  <anchor x="130" y="250" name="_stem"/>
+  <anchor x="333" y="250" name="_stem-mirrored"/>
+  <outline>
+    <contour>
+      <point x="216" y="3" type="curve"/>
+      <point x="232" y="3" type="line"/>
+      <point x="247" y="3" type="line"/>
+      <point x="326" y="3"/>
+      <point x="387" y="1"/>
+      <point x="423" y="0" type="curve"/>
+      <point x="423" y="1" type="line"/>
+      <point x="401" y="4" type="line"/>
+      <point x="345" y="13"/>
+      <point x="333" y="23"/>
+      <point x="333" y="87" type="curve"/>
+      <point x="333" y="250" type="line"/>
+      <point x="130" y="250" type="line"/>
+      <point x="130" y="87" type="line"/>
+      <point x="130" y="23"/>
+      <point x="118" y="13"/>
+      <point x="62" y="4" type="curve"/>
+      <point x="40" y="1" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="76" y="1"/>
+      <point x="137" y="3"/>
+    </contour>
+  </outline>
+</glyph>

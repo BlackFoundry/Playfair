@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-y-stroke" format="2">
+  <advance width="858"/>
+  <anchor x="419" y="269" name="_center"/>
+  <outline>
+    <contour>
+      <point x="30" y="234" type="line"/>
+      <point x="359" y="234" type="line"/>
+      <point x="309" y="304" type="line"/>
+      <point x="30" y="304" type="line"/>
+    </contour>
+    <contour>
+      <point x="568" y="234" type="line"/>
+      <point x="828" y="234" type="line"/>
+      <point x="828" y="304" type="line"/>
+      <point x="598" y="304" type="line"/>
+    </contour>
+  </outline>
+</glyph>

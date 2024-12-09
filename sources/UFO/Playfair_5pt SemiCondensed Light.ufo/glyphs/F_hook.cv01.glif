@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fhook.cv01" format="2">
+  <advance width="696"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <anchor x="274" y="150" name="center"/>
+  <anchor x="210" y="250" name="stem"/>
+  <anchor x="382" y="708" name="top"/>
+  <anchor x="382" y="688" name="top_low_1"/>
+  <anchor x="382" y="668" name="top_low_2"/>
+  <anchor x="382" y="648" name="top_low_3"/>
+  <outline>
+    <contour>
+      <point x="210" y="250" type="line"/>
+      <point x="303" y="250" type="line"/>
+      <point x="303" y="635" type="line"/>
+      <point x="375" y="635" type="line"/>
+      <point x="485" y="635"/>
+      <point x="516" y="613"/>
+      <point x="545" y="508" type="curve"/>
+      <point x="618" y="508" type="line"/>
+      <point x="612" y="569"/>
+      <point x="609" y="634"/>
+      <point x="608" y="708" type="curve"/>
+      <point x="564" y="706"/>
+      <point x="505" y="705"/>
+      <point x="426" y="705" type="curve"/>
+      <point x="258" y="705" type="line"/>
+      <point x="246" y="705" type="line"/>
+      <point x="186" y="705"/>
+      <point x="106" y="707"/>
+      <point x="70" y="708" type="curve"/>
+      <point x="70" y="638" type="line"/>
+      <point x="115" y="634" type="line"/>
+      <point x="191" y="627"/>
+      <point x="210" y="611"/>
+      <point x="210" y="552" type="curve"/>
+    </contour>
+    <contour>
+      <point x="275" y="301" type="line"/>
+      <point x="445" y="301" type="line"/>
+      <point x="445" y="371" type="line"/>
+      <point x="275" y="371" type="line"/>
+    </contour>
+    <contour>
+      <point x="431" y="184" type="curve"/>
+      <point x="501" y="184" type="line"/>
+      <point x="496" y="265"/>
+      <point x="496" y="301"/>
+      <point x="496" y="336" type="curve" smooth="yes"/>
+      <point x="496" y="371"/>
+      <point x="496" y="407"/>
+      <point x="501" y="488" type="curve"/>
+      <point x="431" y="488" type="line"/>
+      <point x="425" y="417"/>
+      <point x="408" y="371"/>
+      <point x="350" y="371" type="curve"/>
+      <point x="350" y="301" type="line"/>
+      <point x="408" y="301"/>
+      <point x="425" y="255"/>
+    </contour>
+    <component base="_UC-lower-left-hook" xOffset="-50"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-u-stroke.smcp" format="2">
+  <advance width="565"/>
+  <anchor x="259" y="304" name="_center"/>
+  <outline>
+    <contour>
+      <point x="16" y="-193" type="line"/>
+      <point x="499" y="790" type="line"/>
+      <point x="498" y="791" type="line"/>
+      <point x="15" y="-192" type="line"/>
+    </contour>
+  </outline>
+</glyph>

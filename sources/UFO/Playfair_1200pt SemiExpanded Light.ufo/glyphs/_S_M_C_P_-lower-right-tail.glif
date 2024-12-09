@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-lower-right-tail" format="2">
+  <advance width="378"/>
+  <anchor x="30" y="250" name="#entry"/>
+  <anchor x="30" y="0" name="_baseline_left"/>
+  <anchor x="123" y="0" name="_baseline_right"/>
+  <anchor x="30" y="250" name="_stem"/>
+  <anchor x="167" y="-231" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="229" y="-239" type="curve" smooth="yes"/>
+      <point x="299" y="-239"/>
+      <point x="348" y="-202"/>
+      <point x="348" y="-150" type="curve" smooth="yes"/>
+      <point x="348" y="-113"/>
+      <point x="318" y="-83"/>
+      <point x="279" y="-83" type="curve" smooth="yes"/>
+      <point x="248" y="-83"/>
+      <point x="228" y="-101"/>
+      <point x="228" y="-127" type="curve" smooth="yes"/>
+      <point x="228" y="-160"/>
+      <point x="274" y="-187"/>
+      <point x="274" y="-210" type="curve" smooth="yes"/>
+      <point x="274" y="-226"/>
+      <point x="263" y="-238"/>
+      <point x="229" y="-238" type="curve" smooth="yes"/>
+      <point x="160" y="-238"/>
+      <point x="123" y="-179"/>
+      <point x="123" y="-19" type="curve" smooth="yes"/>
+      <point x="123" y="250" type="line"/>
+      <point x="30" y="250" type="line"/>
+      <point x="30" y="4" type="line" smooth="yes"/>
+      <point x="30" y="-186"/>
+      <point x="110" y="-239"/>
+    </contour>
+  </outline>
+</glyph>

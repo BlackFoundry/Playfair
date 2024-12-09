@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="baht.tf" format="2">
+  <advance width="623"/>
+  <outline>
+    <contour>
+      <point x="11" y="0" type="line"/>
+      <point x="29" y="2"/>
+      <point x="101" y="3"/>
+      <point x="185" y="3" type="curve" smooth="yes"/>
+      <point x="289" y="3"/>
+      <point x="309" y="0"/>
+      <point x="340" y="0" type="curve" smooth="yes"/>
+      <point x="510" y="0"/>
+      <point x="606" y="72"/>
+      <point x="606" y="196" type="curve" smooth="yes"/>
+      <point x="606" y="300"/>
+      <point x="534" y="362"/>
+      <point x="401" y="371" type="curve"/>
+      <point x="401" y="373" type="line"/>
+      <point x="516" y="404"/>
+      <point x="563" y="454"/>
+      <point x="563" y="541" type="curve" smooth="yes"/>
+      <point x="563" y="654"/>
+      <point x="488" y="708"/>
+      <point x="322" y="708" type="curve" smooth="yes"/>
+      <point x="293" y="708"/>
+      <point x="271" y="705"/>
+      <point x="188" y="705" type="curve" smooth="yes"/>
+      <point x="101" y="705"/>
+      <point x="28" y="706"/>
+      <point x="11" y="708" type="curve"/>
+      <point x="11" y="638" type="line"/>
+      <point x="63" y="636"/>
+      <point x="83" y="633"/>
+      <point x="83" y="552" type="curve" smooth="yes"/>
+      <point x="83" y="156" type="line" smooth="yes"/>
+      <point x="83" y="74"/>
+      <point x="64" y="72"/>
+      <point x="11" y="70" type="curve"/>
+    </contour>
+    <contour>
+      <point x="336" y="73" type="curve" smooth="yes"/>
+      <point x="298" y="73"/>
+      <point x="283" y="92"/>
+      <point x="283" y="156" type="curve" smooth="yes"/>
+      <point x="283" y="638" type="line"/>
+      <point x="301" y="638" type="line" smooth="yes"/>
+      <point x="357" y="638"/>
+      <point x="383" y="597"/>
+      <point x="383" y="529" type="curve" smooth="yes"/>
+      <point x="383" y="450"/>
+      <point x="347" y="401"/>
+      <point x="294" y="401" type="curve" smooth="yes"/>
+      <point x="223" y="401" type="line"/>
+      <point x="223" y="334" type="line"/>
+      <point x="286" y="334" type="line" smooth="yes"/>
+      <point x="358" y="334"/>
+      <point x="400" y="283"/>
+      <point x="400" y="189" type="curve" smooth="yes"/>
+      <point x="400" y="114"/>
+      <point x="377" y="73"/>
+    </contour>
+    <component base="_baht-bar" xOffset="271"/>
+  </outline>
+</glyph>

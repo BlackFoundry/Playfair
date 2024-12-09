@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i.smcp" format="2">
+  <advance width="393"/>
+  <anchor x="29" y="0" name="#entry"/>
+  <anchor x="363" y="0" name="^exit"/>
+  <anchor x="198" y="0" name="bottom"/>
+  <anchor x="197" y="304" name="center"/>
+  <anchor x="298" y="0" name="ogonek"/>
+  <anchor x="198" y="608" name="top"/>
+  <anchor x="198" y="588" name="top_low_1"/>
+  <anchor x="198" y="568" name="top_low_2"/>
+  <anchor x="198" y="548" name="top_low_3"/>
+  <anchor x="198" y="528" name="top_low_4"/>
+  <anchor x="198" y="508" name="top_low_5"/>
+  <outline>
+    <contour>
+      <point x="186" y="3" type="curve"/>
+      <point x="197" y="3" type="line"/>
+      <point x="207" y="3" type="line"/>
+      <point x="280" y="3"/>
+      <point x="334" y="1"/>
+      <point x="363" y="0" type="curve"/>
+      <point x="363" y="1" type="line"/>
+      <point x="347" y="3" type="line"/>
+      <point x="302" y="8"/>
+      <point x="293" y="24"/>
+      <point x="293" y="87" type="curve"/>
+      <point x="293" y="521" type="line"/>
+      <point x="293" y="584"/>
+      <point x="302" y="600"/>
+      <point x="347" y="605" type="curve"/>
+      <point x="363" y="607" type="line"/>
+      <point x="363" y="608" type="line"/>
+      <point x="334" y="607"/>
+      <point x="280" y="605"/>
+      <point x="207" y="605" type="curve"/>
+      <point x="197" y="605" type="line"/>
+      <point x="186" y="605" type="line"/>
+      <point x="113" y="605"/>
+      <point x="59" y="607"/>
+      <point x="30" y="608" type="curve"/>
+      <point x="30" y="607" type="line"/>
+      <point x="46" y="605" type="line"/>
+      <point x="91" y="600"/>
+      <point x="100" y="584"/>
+      <point x="100" y="521" type="curve"/>
+      <point x="100" y="87" type="line"/>
+      <point x="100" y="24"/>
+      <point x="91" y="8"/>
+      <point x="46" y="3" type="curve"/>
+      <point x="30" y="1" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="59" y="1"/>
+      <point x="113" y="3"/>
+    </contour>
+  </outline>
+</glyph>

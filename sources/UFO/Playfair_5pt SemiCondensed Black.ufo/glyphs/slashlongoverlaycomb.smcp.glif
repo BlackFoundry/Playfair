@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashlongoverlaycomb.smcp" format="2">
+  <advance width="785"/>
+  <anchor x="399" y="304" name="_center"/>
+  <outline>
+    <contour>
+      <point x="274" y="40" type="line"/>
+      <point x="590" y="525" type="line"/>
+      <point x="532" y="570" type="line"/>
+      <point x="214" y="85" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="-84" type="line"/>
+      <point x="266" y="41" type="line"/>
+      <point x="205" y="84" type="line"/>
+      <point x="114" y="-40" type="line"/>
+    </contour>
+    <contour>
+      <point x="593" y="524" type="line"/>
+      <point x="680" y="654" type="line"/>
+      <point x="620" y="695" type="line"/>
+      <point x="534" y="569" type="line"/>
+    </contour>
+  </outline>
+</glyph>

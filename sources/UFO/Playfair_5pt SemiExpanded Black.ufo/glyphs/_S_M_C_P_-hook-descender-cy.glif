@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-hook-descender-cy" format="2">
+  <advance width="495"/>
+  <anchor x="326" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="268" y="-138" type="curve"/>
+      <point x="329" y="-173" type="line"/>
+      <point x="360" y="-124"/>
+      <point x="416" y="-53"/>
+      <point x="465" y="0" type="curve"/>
+      <point x="465" y="71" type="line"/>
+      <point x="228" y="71" type="line"/>
+      <point x="219" y="81" type="line"/>
+      <point x="180" y="71" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="146" y="0" type="line" smooth="yes"/>
+      <point x="306" y="0"/>
+      <point x="327" y="-36"/>
+    </contour>
+  </outline>
+</glyph>

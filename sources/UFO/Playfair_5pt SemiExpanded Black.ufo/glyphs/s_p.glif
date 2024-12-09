@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s_p" format="2">
+  <advance width="1385"/>
+  <anchor x="346" y="0" name="bottom_1"/>
+  <anchor x="1039" y="0" name="bottom_2"/>
+  <anchor x="692.5" y="0" name="caret_1"/>
+  <anchor x="346" y="520" name="top_1"/>
+  <anchor x="1039" y="520" name="top_2"/>
+  <outline>
+    <component base="s"/>
+    <component base="_s-liga-connecting-stroke" xOffset="392"/>
+    <component base="_p-liga" xOffset="676"/>
+  </outline>
+</glyph>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_cedillacomb-E.case" format="2">
+  <advance width="273"/>
+  <anchor x="145" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="92" y="-245" type="curve" smooth="yes"/>
+      <point x="202" y="-245"/>
+      <point x="265" y="-202"/>
+      <point x="265" y="-126" type="curve" smooth="yes"/>
+      <point x="265" y="-64"/>
+      <point x="212" y="-5"/>
+      <point x="146" y="6" type="curve"/>
+      <point x="90" y="6" type="line"/>
+      <point x="150" y="-9"/>
+      <point x="191" y="-58"/>
+      <point x="191" y="-117" type="curve" smooth="yes"/>
+      <point x="191" y="-171"/>
+      <point x="155" y="-198"/>
+      <point x="83" y="-198" type="curve" smooth="yes"/>
+      <point x="64" y="-198"/>
+      <point x="38" y="-196"/>
+      <point x="19" y="-193" type="curve"/>
+      <point x="11" y="-237" type="line"/>
+      <point x="36" y="-242"/>
+      <point x="65" y="-245"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>5</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>25 Apr 24 at 12:16 (layer #10)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>25 Apr 24 at 12:16 (layer #8)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>25 Apr 24 at 12:16 (layer #11)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>25 Apr 24 at 12:16 (layer #9)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>25 Apr 24 at 12:16 (layer #14)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>25 Apr 24 at 12:16 (layer #12)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>25 Apr 24 at 12:16 (layer #15)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Black (layer #2)</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Light (layer #0)</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Black (layer #3)</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Light (layer #1)</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Black (layer #6)</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Light (layer #4)</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Black (layer #7)</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Light (layer #5)</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>25 Apr 24 at 12:16 (layer #13)</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>1200pt SemiCondensed Black</key>
+        <string>25 Apr 24 at 12:16</string>
+        <key>1200pt SemiCondensed Light</key>
+        <string>25 Apr 24 at 12:16</string>
+        <key>1200pt SemiExpanded Black</key>
+        <string>25 Apr 24 at 12:16</string>
+        <key>1200pt SemiExpanded Light</key>
+        <string>25 Apr 24 at 12:16</string>
+        <key>5pt SemiCondensed Black</key>
+        <string>25 Apr 24 at 12:16</string>
+        <key>5pt SemiCondensed Light</key>
+        <string>25 Apr 24 at 12:16</string>
+        <key>5pt SemiExpanded Black</key>
+        <string>25 Apr 24 at 12:16</string>
+        <key>5pt SemiExpanded Light</key>
+        <string>25 Apr 24 at 12:16</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

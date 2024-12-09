@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-Tse-cy_lower" format="2">
+  <advance width="820"/>
+  <anchor x="721" y="0" name="#exit"/>
+  <anchor x="518" y="250" name="_stem"/>
+  <anchor x="412" y="0" name="center"/>
+  <outline>
+    <contour>
+      <point x="186" y="3" type="curve"/>
+      <point x="201" y="3" type="line"/>
+      <point x="721" y="3" type="line"/>
+      <point x="721" y="250" type="line"/>
+      <point x="518" y="250" type="line"/>
+      <point x="518" y="3" type="line"/>
+      <point x="520" y="4" type="line"/>
+      <point x="301" y="4" type="line"/>
+      <point x="303" y="3" type="line"/>
+      <point x="303" y="250" type="line"/>
+      <point x="100" y="250" type="line"/>
+      <point x="100" y="87" type="line"/>
+      <point x="100" y="24"/>
+      <point x="91" y="8"/>
+      <point x="46" y="3" type="curve"/>
+      <point x="30" y="1" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="59" y="1"/>
+      <point x="113" y="3"/>
+    </contour>
+  </outline>
+</glyph>

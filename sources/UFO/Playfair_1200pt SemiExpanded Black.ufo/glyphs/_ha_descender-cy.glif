@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_ha_descender-cy" format="2">
+  <advance width="245"/>
+  <anchor x="224" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="219" y="-185" type="curve"/>
+      <point x="220" y="-185" type="line"/>
+      <point x="215" y="-135"/>
+      <point x="217" y="-75"/>
+      <point x="225" y="1" type="curve"/>
+      <point x="103" y="5" type="line"/>
+      <point x="20" y="4" type="line"/>
+      <point x="148" y="4"/>
+      <point x="192" y="-38"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-yat-cy-bar" format="2">
+  <advance width="606"/>
+  <anchor x="307" y="512" name="#exit"/>
+  <outline>
+    <contour>
+      <point x="213" y="504" type="curve"/>
+      <point x="404" y="504" type="line"/>
+      <point x="501" y="504"/>
+      <point x="535" y="487"/>
+      <point x="572" y="412" type="curve"/>
+      <point x="573" y="412" type="line"/>
+      <point x="571" y="446"/>
+      <point x="569" y="477"/>
+      <point x="569" y="508" type="curve"/>
+      <point x="535" y="506"/>
+      <point x="488" y="505"/>
+      <point x="413" y="505" type="curve"/>
+      <point x="209" y="505" type="line"/>
+      <point x="131" y="505"/>
+      <point x="82" y="506"/>
+      <point x="46" y="508" type="curve"/>
+      <point x="45" y="445"/>
+      <point x="41" y="380"/>
+      <point x="33" y="308" type="curve"/>
+      <point x="34" y="308" type="line"/>
+      <point x="73" y="466"/>
+      <point x="109" y="504"/>
+    </contour>
+  </outline>
+</glyph>

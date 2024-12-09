@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="1341"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <component base="W" xOffset="36"/>
+    <component base="_won-bar" xOffset="29" yOffset="1"/>
+  </outline>
+</glyph>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_longs_h.ligature" format="2">
+  <advance width="1391"/>
+  <anchor x="771" y="256" name="#entry"/>
+  <anchor x="1083" y="256" name="#exit"/>
+  <anchor x="940" y="0" name="bottom"/>
+  <anchor x="771" y="256" name="reversedExit"/>
+  <anchor x="1083" y="256" name="stem"/>
+  <anchor x="927" y="512" name="top"/>
+  <outline>
+    <contour>
+      <point x="1083" y="256" type="line"/>
+      <point x="1173" y="256" type="line"/>
+      <point x="1173" y="299" type="line" smooth="yes"/>
+      <point x="1173" y="453"/>
+      <point x="1108" y="529"/>
+      <point x="975" y="529" type="curve" smooth="yes"/>
+      <point x="856" y="529"/>
+      <point x="770" y="469"/>
+      <point x="723" y="355" type="curve"/>
+      <point x="728" y="301" type="line"/>
+      <point x="782" y="397"/>
+      <point x="859" y="447"/>
+      <point x="955" y="447" type="curve" smooth="yes"/>
+      <point x="1045" y="447"/>
+      <point x="1083" y="400"/>
+      <point x="1083" y="290" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.black-foundry.variable-components</key>
+      <array>
+        <dict>
+          <key>base</key>
+          <string>__f_h1st-stroke-liga_</string>
+          <key>location</key>
+          <dict>
+            <key>Group</key>
+            <integer>1</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>base</key>
+          <string>_LC-baseline-narrow-normal</string>
+          <key>location</key>
+          <dict/>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <real>0.0</real>
+            <key>scaleX</key>
+            <real>1.0</real>
+            <key>scaleY</key>
+            <real>1.0</real>
+            <key>skewX</key>
+            <real>0.0</real>
+            <key>skewY</key>
+            <real>0.0</real>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>730</integer>
+            <key>translateY</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>base</key>
+          <string>_longs-bar</string>
+          <key>location</key>
+          <dict/>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <real>0.0</real>
+            <key>scaleX</key>
+            <real>1.0</real>
+            <key>scaleY</key>
+            <real>1.0</real>
+            <key>skewX</key>
+            <real>0.0</real>
+            <key>skewY</key>
+            <real>0.0</real>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>20</integer>
+            <key>translateY</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>5</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

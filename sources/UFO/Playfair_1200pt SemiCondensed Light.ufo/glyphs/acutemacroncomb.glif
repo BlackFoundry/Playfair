@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutemacroncomb" format="2">
+  <advance width="374"/>
+  <unicode hex="1DC7"/>
+  <anchor x="188" y="512" name="_top"/>
+  <anchor x="188" y="773" name="top"/>
+  <outline>
+    <contour>
+      <point x="112" y="699" type="line"/>
+      <point x="344" y="699" type="line"/>
+      <point x="344" y="700" type="line"/>
+      <point x="112" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="31" y="602" type="line"/>
+      <point x="114" y="700" type="line"/>
+      <point x="112" y="700" type="line"/>
+      <point x="30" y="603" type="line"/>
+    </contour>
+  </outline>
+</glyph>

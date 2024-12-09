@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.lf" format="2">
+  <advance width="539"/>
+  <outline>
+    <contour>
+      <point x="17" y="185" type="line"/>
+      <point x="508" y="185" type="line"/>
+      <point x="508" y="252" type="line"/>
+      <point x="57" y="252" type="line"/>
+      <point x="69" y="215" type="line"/>
+      <point x="311" y="583" type="line"/>
+      <point x="311" y="708" type="line"/>
+      <point x="17" y="261" type="line"/>
+    </contour>
+    <contour>
+      <point x="156" y="0" type="line"/>
+      <point x="191" y="1"/>
+      <point x="270" y="4"/>
+      <point x="336" y="4" type="curve" smooth="yes"/>
+      <point x="396" y="4"/>
+      <point x="459" y="1"/>
+      <point x="488" y="0" type="curve"/>
+      <point x="488" y="71" type="line"/>
+      <point x="409" y="71"/>
+      <point x="382" y="89"/>
+      <point x="382" y="143" type="curve" smooth="yes"/>
+      <point x="382" y="708" type="line"/>
+      <point x="311" y="708" type="line"/>
+      <point x="292" y="577" type="line"/>
+      <point x="292" y="143" type="line" smooth="yes"/>
+      <point x="292" y="89"/>
+      <point x="259" y="71"/>
+      <point x="156" y="71" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

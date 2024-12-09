@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.smcp" format="2">
+  <advance width="482"/>
+  <anchor x="242" y="608" name="_top"/>
+  <anchor x="413" y="739" name="right"/>
+  <anchor x="242" y="828" name="top"/>
+  <outline>
+    <component base="circumflexcomb.case" yOffset="-100"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tretroflexhook" format="2">
+  <advance width="505"/>
+  <unicode hex="0288"/>
+  <outline>
+    <component base="_t-upper-body"/>
+    <component base="_LC-t-bar"/>
+    <component base="_LC-descender-right-hook" xOffset="121" yOffset="-4"/>
+  </outline>
+</glyph>

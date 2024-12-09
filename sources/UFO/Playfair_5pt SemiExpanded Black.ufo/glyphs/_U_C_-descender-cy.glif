@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-descender-cy" format="2">
+  <advance width="505"/>
+  <anchor x="326" y="0" name="#entry"/>
+  <outline>
+    <contour>
+      <point x="30" y="3" type="line"/>
+      <point x="185" y="3" type="line"/>
+      <point x="297" y="3"/>
+      <point x="358" y="-45"/>
+      <point x="402" y="-156" type="curve"/>
+      <point x="475" y="-156" type="line"/>
+      <point x="466" y="-69"/>
+      <point x="463" y="4"/>
+      <point x="464" y="76" type="curve"/>
+      <point x="402" y="74"/>
+      <point x="317" y="73"/>
+      <point x="192" y="73" type="curve"/>
+      <point x="110" y="73" type="line"/>
+    </contour>
+  </outline>
+</glyph>

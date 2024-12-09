@@ -1,0 +1,558 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <array>
+    <array>
+      <string>public.default</string>
+      <string>glyphs</string>
+    </array>
+    <array>
+      <string>1200pt SemiCondensed Light (layer #0)</string>
+      <string>glyphs.1200pt S_emiC_ondensed L_ight _layer #0_</string>
+    </array>
+    <array>
+      <string>1200pt SemiExpanded Light (layer #1)</string>
+      <string>glyphs.1200pt S_emiE_xpanded L_ight _layer #1_</string>
+    </array>
+    <array>
+      <string>1200pt SemiCondensed Black (layer #2)</string>
+      <string>glyphs.1200pt S_emiC_ondensed B_lack _layer #2_</string>
+    </array>
+    <array>
+      <string>1200pt SemiExpanded Black (layer #3)</string>
+      <string>glyphs.1200pt S_emiE_xpanded B_lack _layer #3_</string>
+    </array>
+    <array>
+      <string>5pt SemiCondensed Light (layer #4)</string>
+      <string>glyphs.5pt S_emiC_ondensed L_ight _layer #4_</string>
+    </array>
+    <array>
+      <string>5pt SemiExpanded Light (layer #5)</string>
+      <string>glyphs.5pt S_emiE_xpanded L_ight _layer #5_</string>
+    </array>
+    <array>
+      <string>5pt SemiCondensed Black (layer #6)</string>
+      <string>glyphs.5pt S_emiC_ondensed B_lack _layer #6_</string>
+    </array>
+    <array>
+      <string>5pt SemiExpanded Black (layer #7)</string>
+      <string>glyphs.5pt S_emiE_xpanded B_lack _layer #7_</string>
+    </array>
+    <array>
+      <string>24 Jun 21, 10:15 (layer #9)</string>
+      <string>glyphs.24 J_un 21, 10_15 _layer #9_</string>
+    </array>
+    <array>
+      <string>13 Jan 24 at 19:08 (layer #8)</string>
+      <string>glyphs.13 J_an 24 at 19_08 _layer #8_</string>
+    </array>
+    <array>
+      <string>13 Jan 24 at 20:54 (layer #9)</string>
+      <string>glyphs.13 J_an 24 at 20_54 _layer #9_</string>
+    </array>
+    <array>
+      <string>13 Jan 24 at 21:00 (layer #10)</string>
+      <string>glyphs.13 J_an 24 at 21_00 _layer #10_</string>
+    </array>
+    <array>
+      <string>14 Jan 24 at 09:44 (layer #11)</string>
+      <string>glyphs.14 J_an 24 at 09_44 _layer #11_</string>
+    </array>
+    <array>
+      <string>21 Apr 23 at 13:35 (layer #8)</string>
+      <string>glyphs.21 A_pr 23 at 13_35 _layer #8_</string>
+    </array>
+    <array>
+      <string>21 Apr 23 at 13:35 (layer #9)</string>
+      <string>glyphs.21 A_pr 23 at 13_35 _layer #9_</string>
+    </array>
+    <array>
+      <string>21 Apr 23 at 13:35 (layer #10)</string>
+      <string>glyphs.21 A_pr 23 at 13_35 _layer #10_</string>
+    </array>
+    <array>
+      <string>21 Apr 23 at 13:35 (layer #11)</string>
+      <string>glyphs.21 A_pr 23 at 13_35 _layer #11_</string>
+    </array>
+    <array>
+      <string>21 Apr 23 at 13:35 (layer #12)</string>
+      <string>glyphs.21 A_pr 23 at 13_35 _layer #12_</string>
+    </array>
+    <array>
+      <string>21 Apr 23 at 13:35 (layer #13)</string>
+      <string>glyphs.21 A_pr 23 at 13_35 _layer #13_</string>
+    </array>
+    <array>
+      <string>21 Apr 23 at 13:35 (layer #14)</string>
+      <string>glyphs.21 A_pr 23 at 13_35 _layer #14_</string>
+    </array>
+    <array>
+      <string>21 Apr 23 at 13:35 (layer #15)</string>
+      <string>glyphs.21 A_pr 23 at 13_35 _layer #15_</string>
+    </array>
+    <array>
+      <string>Needlepoint SemiCondensed Upright 28 Jun 24 at 14:45 (layer #8)</string>
+      <string>glyphs.N_eedlepoint S_emiC_ondensed U_pright 28 J_un 24 at 14_45 _layer #8_</string>
+    </array>
+    <array>
+      <string>Needlepoint SemiExpanded Upright 28 Jun 24 at 14:45 (layer #9)</string>
+      <string>glyphs.N_eedlepoint S_emiE_xpanded U_pright 28 J_un 24 at 14_45 _layer #9_</string>
+    </array>
+    <array>
+      <string>Needlepoint Black SemiCondensed Upright 28 Jun 24 at 14:45 (layer #10)</string>
+      <string>glyphs.N_eedlepoint B_lack S_emiC_ondensed U_pright 28 J_un 24 at 14_45 _layer #10_</string>
+    </array>
+    <array>
+      <string>Needlepoint Black SemiExpanded Upright 28 Jun 24 at 14:45 (layer #11)</string>
+      <string>glyphs.N_eedlepoint B_lack S_emiE_xpanded U_pright 28 J_un 24 at 14_45 _layer #11_</string>
+    </array>
+    <array>
+      <string>Agate SemiCondensed Upright 28 Jun 24 at 14:45 (layer #12)</string>
+      <string>glyphs.A_gate S_emiC_ondensed U_pright 28 J_un 24 at 14_45 _layer #12_</string>
+    </array>
+    <array>
+      <string>Agate SemiExpanded Upright 28 Jun 24 at 14:45 (layer #13)</string>
+      <string>glyphs.A_gate S_emiE_xpanded U_pright 28 J_un 24 at 14_45 _layer #13_</string>
+    </array>
+    <array>
+      <string>Agate Black SemiCondensed Upright 28 Jun 24 at 14:45 (layer #14)</string>
+      <string>glyphs.A_gate B_lack S_emiC_ondensed U_pright 28 J_un 24 at 14_45 _layer #14_</string>
+    </array>
+    <array>
+      <string>Agate Black SemiExpanded Upright 28 Jun 24 at 14:45 (layer #15)</string>
+      <string>glyphs.A_gate B_lack S_emiE_xpanded U_pright 28 J_un 24 at 14_45 _layer #15_</string>
+    </array>
+    <array>
+      <string>Needlepoint SemiCondensed [5‹oz‹ (layer #15)</string>
+      <string>glyphs.N_eedlepoint S_emiC_ondensed _5‹oz‹ _layer #15_</string>
+    </array>
+    <array>
+      <string>Needlepoint SemiExpanded [5‹oz‹ (layer #14)</string>
+      <string>glyphs.N_eedlepoint S_emiE_xpanded _5‹oz‹ _layer #14_</string>
+    </array>
+    <array>
+      <string>Needlepoint Black SemiCondensed [5‹oz‹ (layer #13)</string>
+      <string>glyphs.N_eedlepoint B_lack S_emiC_ondensed _5‹oz‹ _layer #13_</string>
+    </array>
+    <array>
+      <string>Needlepoint Black SemiExpanded [5‹oz‹ (layer #12)</string>
+      <string>glyphs.N_eedlepoint B_lack S_emiE_xpanded _5‹oz‹ _layer #12_</string>
+    </array>
+    <array>
+      <string>Agate SemiCondensed [5‹oz‹ (layer #11)</string>
+      <string>glyphs.A_gate S_emiC_ondensed _5‹oz‹ _layer #11_</string>
+    </array>
+    <array>
+      <string>Agate SemiExpanded [5‹oz‹ (layer #10)</string>
+      <string>glyphs.A_gate S_emiE_xpanded _5‹oz‹ _layer #10_</string>
+    </array>
+    <array>
+      <string>Agate Black SemiCondensed [5‹oz‹ (layer #9)</string>
+      <string>glyphs.A_gate B_lack S_emiC_ondensed _5‹oz‹ _layer #9_</string>
+    </array>
+    <array>
+      <string>Agate Black SemiExpanded [5‹oz‹ (layer #8)</string>
+      <string>glyphs.A_gate B_lack S_emiE_xpanded _5‹oz‹ _layer #8_</string>
+    </array>
+    <array>
+      <string>11 Jan 22, 12:37 (layer #15)</string>
+      <string>glyphs.11 J_an 22, 12_37 _layer #15_</string>
+    </array>
+    <array>
+      <string>11 Jan 22, 12:37 (layer #14)</string>
+      <string>glyphs.11 J_an 22, 12_37 _layer #14_</string>
+    </array>
+    <array>
+      <string>11 Jan 22, 12:37 (layer #13)</string>
+      <string>glyphs.11 J_an 22, 12_37 _layer #13_</string>
+    </array>
+    <array>
+      <string>11 Jan 22, 12:37 (layer #12)</string>
+      <string>glyphs.11 J_an 22, 12_37 _layer #12_</string>
+    </array>
+    <array>
+      <string>11 Jan 22, 12:37 (layer #11)</string>
+      <string>glyphs.11 J_an 22, 12_37 _layer #11_</string>
+    </array>
+    <array>
+      <string>11 Jan 22, 12:37 (layer #10)</string>
+      <string>glyphs.11 J_an 22, 12_37 _layer #10_</string>
+    </array>
+    <array>
+      <string>11 Jan 22, 12:37 (layer #9)</string>
+      <string>glyphs.11 J_an 22, 12_37 _layer #9_</string>
+    </array>
+    <array>
+      <string>11 Jan 22, 12:36 (layer #8)</string>
+      <string>glyphs.11 J_an 22, 12_36 _layer #8_</string>
+    </array>
+    <array>
+      <string>11 Jan 22, 12:42 (layer #8)</string>
+      <string>glyphs.11 J_an 22, 12_42 _layer #8_</string>
+    </array>
+    <array>
+      <string>11 Jan 22, 12:42 (layer #9)</string>
+      <string>glyphs.11 J_an 22, 12_42 _layer #9_</string>
+    </array>
+    <array>
+      <string>11 Jan 22, 12:42 (layer #10)</string>
+      <string>glyphs.11 J_an 22, 12_42 _layer #10_</string>
+    </array>
+    <array>
+      <string>11 Jan 22, 12:42 (layer #15)</string>
+      <string>glyphs.11 J_an 22, 12_42 _layer #15_</string>
+    </array>
+    <array>
+      <string>11 Jan 22, 12:42 (layer #14)</string>
+      <string>glyphs.11 J_an 22, 12_42 _layer #14_</string>
+    </array>
+    <array>
+      <string>11 Jan 22, 12:42 (layer #13)</string>
+      <string>glyphs.11 J_an 22, 12_42 _layer #13_</string>
+    </array>
+    <array>
+      <string>11 Jan 22, 12:42 (layer #12)</string>
+      <string>glyphs.11 J_an 22, 12_42 _layer #12_</string>
+    </array>
+    <array>
+      <string>11 Jan 22, 12:42 (layer #11)</string>
+      <string>glyphs.11 J_an 22, 12_42 _layer #11_</string>
+    </array>
+    <array>
+      <string>4 May 23 at 10:07 (layer #8)</string>
+      <string>glyphs.4 M_ay 23 at 10_07 _layer #8_</string>
+    </array>
+    <array>
+      <string>Nov 11 17, 02:26 (layer #8)</string>
+      <string>glyphs.N_ov 11 17, 02_26 _layer #8_</string>
+    </array>
+    <array>
+      <string>Nov 14 17, 18:50 (layer #9)</string>
+      <string>glyphs.N_ov 14 17, 18_50 _layer #9_</string>
+    </array>
+    <array>
+      <string>Nov 11 17, 02:26 (layer #19)</string>
+      <string>glyphs.N_ov 11 17, 02_26 _layer #19_</string>
+    </array>
+    <array>
+      <string>Nov 11 17, 02:26 (layer #15)</string>
+      <string>glyphs.N_ov 11 17, 02_26 _layer #15_</string>
+    </array>
+    <array>
+      <string>Nov 11 17, 02:26 (layer #17)</string>
+      <string>glyphs.N_ov 11 17, 02_26 _layer #17_</string>
+    </array>
+    <array>
+      <string>Nov 11 17, 02:26 (layer #10)</string>
+      <string>glyphs.N_ov 11 17, 02_26 _layer #10_</string>
+    </array>
+    <array>
+      <string>Nov 11 17, 02:26 (layer #13)</string>
+      <string>glyphs.N_ov 11 17, 02_26 _layer #13_</string>
+    </array>
+    <array>
+      <string>Nov 11 17, 02:26 (layer #21)</string>
+      <string>glyphs.N_ov 11 17, 02_26 _layer #21_</string>
+    </array>
+    <array>
+      <string>Nov 11 17, 02:26 (layer #23)</string>
+      <string>glyphs.N_ov 11 17, 02_26 _layer #23_</string>
+    </array>
+    <array>
+      <string>slim outstroke (layer #8)</string>
+      <string>glyphs.slim outstroke _layer #8_</string>
+    </array>
+    <array>
+      <string>slim outstroke (layer #18)</string>
+      <string>glyphs.slim outstroke _layer #18_</string>
+    </array>
+    <array>
+      <string>slim outstroke (layer #14)</string>
+      <string>glyphs.slim outstroke _layer #14_</string>
+    </array>
+    <array>
+      <string>slim outstroke (layer #16)</string>
+      <string>glyphs.slim outstroke _layer #16_</string>
+    </array>
+    <array>
+      <string>slim outstroke (layer #9)</string>
+      <string>glyphs.slim outstroke _layer #9_</string>
+    </array>
+    <array>
+      <string>slim outstroke (layer #12)</string>
+      <string>glyphs.slim outstroke _layer #12_</string>
+    </array>
+    <array>
+      <string>slim outstroke (layer #20)</string>
+      <string>glyphs.slim outstroke _layer #20_</string>
+    </array>
+    <array>
+      <string>slim outstroke (layer #22)</string>
+      <string>glyphs.slim outstroke _layer #22_</string>
+    </array>
+    <array>
+      <string>2 Feb 22, 13:47 (layer #8)</string>
+      <string>glyphs.2 F_eb 22, 13_47 _layer #8_</string>
+    </array>
+    <array>
+      <string>2 Feb 22, 13:48 (layer #9)</string>
+      <string>glyphs.2 F_eb 22, 13_48 _layer #9_</string>
+    </array>
+    <array>
+      <string>2 Feb 22, 13:48 (layer #10)</string>
+      <string>glyphs.2 F_eb 22, 13_48 _layer #10_</string>
+    </array>
+    <array>
+      <string>2 Feb 22, 13:48 (layer #11)</string>
+      <string>glyphs.2 F_eb 22, 13_48 _layer #11_</string>
+    </array>
+    <array>
+      <string>2 Feb 22, 13:48 (layer #12)</string>
+      <string>glyphs.2 F_eb 22, 13_48 _layer #12_</string>
+    </array>
+    <array>
+      <string>2 Feb 22, 13:48 (layer #13)</string>
+      <string>glyphs.2 F_eb 22, 13_48 _layer #13_</string>
+    </array>
+    <array>
+      <string>2 Feb 22, 13:48 (layer #14)</string>
+      <string>glyphs.2 F_eb 22, 13_48 _layer #14_</string>
+    </array>
+    <array>
+      <string>2 Feb 22, 13:48 (layer #15)</string>
+      <string>glyphs.2 F_eb 22, 13_48 _layer #15_</string>
+    </array>
+    <array>
+      <string>16 Nov 23 at 08:48 (layer #8)</string>
+      <string>glyphs.16 N_ov 23 at 08_48 _layer #8_</string>
+    </array>
+    <array>
+      <string>16 Nov 23 at 08:56 (layer #9)</string>
+      <string>glyphs.16 N_ov 23 at 08_56 _layer #9_</string>
+    </array>
+    <array>
+      <string>12 Jan 24 at 09:47 (layer #10)</string>
+      <string>glyphs.12 J_an 24 at 09_47 _layer #10_</string>
+    </array>
+    <array>
+      <string>Straight strokes (layer #10)</string>
+      <string>glyphs.S_traight strokes _layer #10_</string>
+    </array>
+    <array>
+      <string>Descending loop (layer #8)</string>
+      <string>glyphs.D_escending loop _layer #8_</string>
+    </array>
+    <array>
+      <string>Right drop terminal (layer #9)</string>
+      <string>glyphs.R_ight drop terminal _layer #9_</string>
+    </array>
+    <array>
+      <string>Straight strokes (layer #11)</string>
+      <string>glyphs.S_traight strokes _layer #11_</string>
+    </array>
+    <array>
+      <string>back curl (layer #8)</string>
+      <string>glyphs.back curl _layer #8_</string>
+    </array>
+    <array>
+      <string>back curl (layer #13)</string>
+      <string>glyphs.back curl _layer #13_</string>
+    </array>
+    <array>
+      <string>back curl (layer #11)</string>
+      <string>glyphs.back curl _layer #11_</string>
+    </array>
+    <array>
+      <string>back curl (layer #12)</string>
+      <string>glyphs.back curl _layer #12_</string>
+    </array>
+    <array>
+      <string>back curl (layer #9)</string>
+      <string>glyphs.back curl _layer #9_</string>
+    </array>
+    <array>
+      <string>back curl (layer #10)</string>
+      <string>glyphs.back curl _layer #10_</string>
+    </array>
+    <array>
+      <string>back curl (layer #14)</string>
+      <string>glyphs.back curl _layer #14_</string>
+    </array>
+    <array>
+      <string>back curl (layer #15)</string>
+      <string>glyphs.back curl _layer #15_</string>
+    </array>
+    <array>
+      <string>outstroke (layer #8)</string>
+      <string>glyphs.outstroke _layer #8_</string>
+    </array>
+    <array>
+      <string>outstroke (layer #12)</string>
+      <string>glyphs.outstroke _layer #12_</string>
+    </array>
+    <array>
+      <string>outstroke (layer #14)</string>
+      <string>glyphs.outstroke _layer #14_</string>
+    </array>
+    <array>
+      <string>outstroke (layer #20)</string>
+      <string>glyphs.outstroke _layer #20_</string>
+    </array>
+    <array>
+      <string>outstroke (layer #10)</string>
+      <string>glyphs.outstroke _layer #10_</string>
+    </array>
+    <array>
+      <string>outstroke (layer #16)</string>
+      <string>glyphs.outstroke _layer #16_</string>
+    </array>
+    <array>
+      <string>outstroke (layer #18)</string>
+      <string>glyphs.outstroke _layer #18_</string>
+    </array>
+    <array>
+      <string>outstroke (layer #22)</string>
+      <string>glyphs.outstroke _layer #22_</string>
+    </array>
+    <array>
+      <string>Round v1 (layer #8)</string>
+      <string>glyphs.R_ound v1 _layer #8_</string>
+    </array>
+    <array>
+      <string>Round v1 (layer #9)</string>
+      <string>glyphs.R_ound v1 _layer #9_</string>
+    </array>
+    <array>
+      <string>Round v1 (layer #10)</string>
+      <string>glyphs.R_ound v1 _layer #10_</string>
+    </array>
+    <array>
+      <string>Round v1 (layer #11)</string>
+      <string>glyphs.R_ound v1 _layer #11_</string>
+    </array>
+    <array>
+      <string>Round v1 (layer #12)</string>
+      <string>glyphs.R_ound v1 _layer #12_</string>
+    </array>
+    <array>
+      <string>Round v1 (layer #13)</string>
+      <string>glyphs.R_ound v1 _layer #13_</string>
+    </array>
+    <array>
+      <string>Round v1 (layer #14)</string>
+      <string>glyphs.R_ound v1 _layer #14_</string>
+    </array>
+    <array>
+      <string>Round v1 (layer #15)</string>
+      <string>glyphs.R_ound v1 _layer #15_</string>
+    </array>
+    <array>
+      <string>Sideways ball (layer #8)</string>
+      <string>glyphs.S_ideways ball _layer #8_</string>
+    </array>
+    <array>
+      <string>Upwards droplet (layer #9)</string>
+      <string>glyphs.U_pwards droplet _layer #9_</string>
+    </array>
+    <array>
+      <string>Ital k curved leg [oz&lt;410] (layer #8)</string>
+      <string>glyphs.I_tal k curved leg _oz_410_ _layer #8_</string>
+    </array>
+    <array>
+      <string>Serif leg (layer #16)</string>
+      <string>glyphs.S_erif leg _layer #16_</string>
+    </array>
+    <array>
+      <string>Ital k curved leg (layer #17)</string>
+      <string>glyphs.I_tal k curved leg _layer #17_</string>
+    </array>
+    <array>
+      <string>Ital k curved leg [oz&lt;410] (layer #9)</string>
+      <string>glyphs.I_tal k curved leg _oz_410_ _layer #9_</string>
+    </array>
+    <array>
+      <string>Ital k curved leg (layer #18)</string>
+      <string>glyphs.I_tal k curved leg _layer #18_</string>
+    </array>
+    <array>
+      <string>Ital k curved leg [oz&lt;410] (layer #10)</string>
+      <string>glyphs.I_tal k curved leg _oz_410_ _layer #10_</string>
+    </array>
+    <array>
+      <string>Ital k curved leg (layer #19)</string>
+      <string>glyphs.I_tal k curved leg _layer #19_</string>
+    </array>
+    <array>
+      <string>Ital k curved leg [oz&lt;410] (layer #11)</string>
+      <string>glyphs.I_tal k curved leg _oz_410_ _layer #11_</string>
+    </array>
+    <array>
+      <string>Ital k curved leg (layer #20)</string>
+      <string>glyphs.I_tal k curved leg _layer #20_</string>
+    </array>
+    <array>
+      <string>Ital k curved leg [oz&lt;410] (layer #12)</string>
+      <string>glyphs.I_tal k curved leg _oz_410_ _layer #12_</string>
+    </array>
+    <array>
+      <string>Ital k curved leg (layer #21)</string>
+      <string>glyphs.I_tal k curved leg _layer #21_</string>
+    </array>
+    <array>
+      <string>Ital k curved leg [oz&lt;410] (layer #13)</string>
+      <string>glyphs.I_tal k curved leg _oz_410_ _layer #13_</string>
+    </array>
+    <array>
+      <string>Ital k curved leg (layer #22)</string>
+      <string>glyphs.I_tal k curved leg _layer #22_</string>
+    </array>
+    <array>
+      <string>Ital k curved leg [oz&lt;410] (layer #14)</string>
+      <string>glyphs.I_tal k curved leg _oz_410_ _layer #14_</string>
+    </array>
+    <array>
+      <string>Ital k curved leg (layer #23)</string>
+      <string>glyphs.I_tal k curved leg _layer #23_</string>
+    </array>
+    <array>
+      <string>Ital k curved leg [oz&lt;410] (layer #15)</string>
+      <string>glyphs.I_tal k curved leg _oz_410_ _layer #15_</string>
+    </array>
+    <array>
+      <string>Ital k curved leg (layer #24)</string>
+      <string>glyphs.I_tal k curved leg _layer #24_</string>
+    </array>
+    <array>
+      <string>1 Jul 24 at 15:36 (layer #8)</string>
+      <string>glyphs.1 J_ul 24 at 15_36 _layer #8_</string>
+    </array>
+    <array>
+      <string>1 Jul 24 at 15:36 (layer #9)</string>
+      <string>glyphs.1 J_ul 24 at 15_36 _layer #9_</string>
+    </array>
+    <array>
+      <string>1 Jul 24 at 15:36 (layer #10)</string>
+      <string>glyphs.1 J_ul 24 at 15_36 _layer #10_</string>
+    </array>
+    <array>
+      <string>1 Jul 24 at 15:36 (layer #11)</string>
+      <string>glyphs.1 J_ul 24 at 15_36 _layer #11_</string>
+    </array>
+    <array>
+      <string>1 Jul 24 at 15:36 (layer #12)</string>
+      <string>glyphs.1 J_ul 24 at 15_36 _layer #12_</string>
+    </array>
+    <array>
+      <string>1 Jul 24 at 15:36 (layer #13)</string>
+      <string>glyphs.1 J_ul 24 at 15_36 _layer #13_</string>
+    </array>
+    <array>
+      <string>1 Jul 24 at 15:36 (layer #14)</string>
+      <string>glyphs.1 J_ul 24 at 15_36 _layer #14_</string>
+    </array>
+    <array>
+      <string>1 Jul 24 at 15:36 (layer #15)</string>
+      <string>glyphs.1 J_ul 24 at 15_36 _layer #15_</string>
+    </array>
+  </array>
+</plist>

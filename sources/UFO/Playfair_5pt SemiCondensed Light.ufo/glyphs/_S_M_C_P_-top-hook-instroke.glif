@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-top-hook-instroke" format="2">
+  <advance width="584"/>
+  <anchor x="320" y="0" name="^exit"/>
+  <outline>
+    <contour>
+      <point x="320" y="358" type="line"/>
+      <point x="413" y="358" type="line"/>
+      <point x="413" y="452" type="line"/>
+      <point x="413" y="511"/>
+      <point x="427" y="526"/>
+      <point x="484" y="535" type="curve"/>
+      <point x="511" y="538" type="line"/>
+      <point x="511" y="608" type="line"/>
+      <point x="482" y="607"/>
+      <point x="418" y="605"/>
+      <point x="370" y="605" type="curve"/>
+      <point x="367" y="605" type="line"/>
+      <point x="366" y="605" type="line"/>
+      <point x="319" y="605"/>
+      <point x="282" y="608"/>
+      <point x="241" y="608" type="curve"/>
+      <point x="115" y="608"/>
+      <point x="55" y="541"/>
+      <point x="55" y="449" type="curve"/>
+      <point x="55" y="397"/>
+      <point x="81" y="366"/>
+      <point x="125" y="366" type="curve"/>
+      <point x="162" y="366"/>
+      <point x="185" y="388"/>
+      <point x="185" y="424" type="curve"/>
+      <point x="185" y="461"/>
+      <point x="160" y="482"/>
+      <point x="160" y="510" type="curve"/>
+      <point x="160" y="527"/>
+      <point x="170" y="543"/>
+      <point x="237" y="543" type="curve"/>
+      <point x="299" y="543"/>
+      <point x="320" y="528"/>
+      <point x="320" y="452" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

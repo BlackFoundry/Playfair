@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emacronacute.smcp" format="2">
+  <advance width="739"/>
+  <outline>
+    <component base="e.smcp"/>
+    <component base="macroncomb.case" xOffset="126" yOffset="-120"/>
+    <component base="acutecomb.case" xOffset="309" yOffset="52"/>
+  </outline>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright.smcp" format="2">
+  <advance width="446"/>
+  <outline>
+    <component base="parenleft.smcp" xScale="-1" xOffset="446"/>
+  </outline>
+</glyph>

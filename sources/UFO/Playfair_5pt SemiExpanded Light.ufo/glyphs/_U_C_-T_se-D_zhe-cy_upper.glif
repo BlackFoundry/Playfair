@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-Tse-Dzhe-cy_upper" format="2">
+  <advance width="1127"/>
+  <anchor x="778" y="250" name="stem"/>
+  <outline>
+    <contour>
+      <point x="256" y="250" type="line"/>
+      <point x="349" y="250" type="line"/>
+      <point x="349" y="552" type="line"/>
+      <point x="349" y="612"/>
+      <point x="362" y="626"/>
+      <point x="426" y="634" type="curve"/>
+      <point x="465" y="638" type="line"/>
+      <point x="465" y="708" type="line"/>
+      <point x="419" y="706"/>
+      <point x="354" y="705"/>
+      <point x="307" y="705" type="curve"/>
+      <point x="302" y="705" type="line"/>
+      <point x="292" y="705" type="line"/>
+      <point x="232" y="705"/>
+      <point x="149" y="706"/>
+      <point x="90" y="708" type="curve"/>
+      <point x="90" y="638" type="line"/>
+      <point x="156" y="632" type="line"/>
+      <point x="239" y="624"/>
+      <point x="256" y="610"/>
+      <point x="256" y="552" type="curve"/>
+    </contour>
+    <contour>
+      <point x="778" y="250" type="line"/>
+      <point x="871" y="250" type="line"/>
+      <point x="871" y="552" type="line"/>
+      <point x="871" y="610"/>
+      <point x="888" y="624"/>
+      <point x="971" y="632" type="curve"/>
+      <point x="1037" y="638" type="line"/>
+      <point x="1037" y="708" type="line"/>
+      <point x="978" y="706"/>
+      <point x="895" y="705"/>
+      <point x="835" y="705" type="curve"/>
+      <point x="824" y="705" type="line"/>
+      <point x="820" y="705" type="line"/>
+      <point x="773" y="705"/>
+      <point x="708" y="706"/>
+      <point x="662" y="708" type="curve"/>
+      <point x="662" y="638" type="line"/>
+      <point x="701" y="634" type="line"/>
+      <point x="765" y="626"/>
+      <point x="778" y="612"/>
+      <point x="778" y="552" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>4</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

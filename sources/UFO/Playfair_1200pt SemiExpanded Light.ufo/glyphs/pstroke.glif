@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pstroke" format="2">
+  <advance width="713"/>
+  <unicode hex="1D7D"/>
+  <outline>
+    <component base="p"/>
+    <component base="_LC-p-stroke-overlay" xOffset="-32" yOffset="-15"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scarondotaccent" format="2">
+  <advance width="555"/>
+  <unicode hex="1E67"/>
+  <outline>
+    <component base="s"/>
+    <component base="caroncomb" xOffset="62" yOffset="-20"/>
+    <component base="_dotaccentcomb.light" xOffset="131" yOffset="220"/>
+  </outline>
+</glyph>

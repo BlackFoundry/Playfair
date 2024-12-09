@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omod" format="2">
+  <advance width="463"/>
+  <unicode hex="1D52"/>
+  <outline>
+    <contour>
+      <point x="231" y="355" type="curve" smooth="yes"/>
+      <point x="354" y="355"/>
+      <point x="436" y="418"/>
+      <point x="436" y="538" type="curve" smooth="yes"/>
+      <point x="436" y="658"/>
+      <point x="354" y="722"/>
+      <point x="231" y="722" type="curve" smooth="yes"/>
+      <point x="109" y="722"/>
+      <point x="27" y="658"/>
+      <point x="27" y="538" type="curve" smooth="yes"/>
+      <point x="27" y="418"/>
+      <point x="109" y="355"/>
+    </contour>
+    <contour>
+      <point x="231" y="402" type="curve" smooth="yes"/>
+      <point x="198" y="402"/>
+      <point x="173" y="442"/>
+      <point x="173" y="538" type="curve" smooth="yes"/>
+      <point x="173" y="641"/>
+      <point x="198" y="675"/>
+      <point x="231" y="675" type="curve" smooth="yes"/>
+      <point x="265" y="675"/>
+      <point x="290" y="641"/>
+      <point x="290" y="538" type="curve" smooth="yes"/>
+      <point x="290" y="442"/>
+      <point x="265" y="402"/>
+    </contour>
+  </outline>
+</glyph>

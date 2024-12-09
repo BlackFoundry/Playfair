@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaboverightcomb.case" format="2">
+  <advance width="388"/>
+  <anchor x="194" y="708" name="_topright"/>
+  <outline>
+    <component base="dotaccentcomb.case"/>
+  </outline>
+</glyph>

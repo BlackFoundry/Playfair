@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip.smcp" format="2">
+  <advance width="737"/>
+  <outline>
+    <component base="k.smcp" xOffset="29"/>
+    <component base="_kip-bar" yOffset="-141"/>
+  </outline>
+</glyph>

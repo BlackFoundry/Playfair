@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="en-cy" format="2">
+  <advance width="727"/>
+  <unicode hex="043D"/>
+  <anchor x="506" y="256" name="#entry"/>
+  <anchor x="596" y="256" name="#exit"/>
+  <anchor x="222" y="0" name="%entry"/>
+  <anchor x="506" y="0" name="%exit"/>
+  <anchor x="375" y="0" name="^entry"/>
+  <anchor x="711" y="0" name="^exit"/>
+  <anchor x="506" y="256" name="stem"/>
+  <outline>
+    <contour>
+      <point x="551" y="3" type="curve"/>
+      <point x="551" y="3" type="line"/>
+      <point x="551" y="3" type="line"/>
+      <point x="596" y="3"/>
+      <point x="639" y="1"/>
+      <point x="691" y="0" type="curve"/>
+      <point x="691" y="1" type="line"/>
+      <point x="671" y="2" type="line"/>
+      <point x="618" y="5"/>
+      <point x="596" y="23"/>
+      <point x="596" y="73" type="curve"/>
+      <point x="596" y="256" type="line"/>
+      <point x="506" y="256" type="line"/>
+      <point x="506" y="73" type="line"/>
+      <point x="506" y="23"/>
+      <point x="484" y="5"/>
+      <point x="431" y="2" type="curve"/>
+      <point x="411" y="1" type="line"/>
+      <point x="411" y="0" type="line"/>
+      <point x="463" y="1"/>
+      <point x="506" y="3"/>
+    </contour>
+    <component base="_LC-en-cy_upper"/>
+    <component base="_LC-en-cy-bar" xOffset="159"/>
+  </outline>
+</glyph>

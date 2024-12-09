@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-pe-cy-upper" format="2">
+  <advance width="1119"/>
+  <anchor x="734" y="250" name="stem"/>
+  <anchor x="192" y="250" name="stem-mirrored"/>
+  <outline>
+    <contour>
+      <point x="192" y="250" type="line"/>
+      <point x="385" y="250" type="line"/>
+      <point x="385" y="552" type="line"/>
+      <point x="370" y="538" type="line"/>
+      <point x="748" y="538" type="line"/>
+      <point x="734" y="552" type="line"/>
+      <point x="734" y="250" type="line"/>
+      <point x="927" y="250" type="line"/>
+      <point x="927" y="452" type="line"/>
+      <point x="927" y="515"/>
+      <point x="938" y="526"/>
+      <point x="1010" y="533" type="curve"/>
+      <point x="1065" y="538" type="line"/>
+      <point x="1065" y="608" type="line"/>
+      <point x="1013" y="606"/>
+      <point x="895" y="605"/>
+      <point x="836" y="605" type="curve"/>
+      <point x="826" y="605" type="line"/>
+      <point x="293" y="605" type="line"/>
+      <point x="283" y="605" type="line"/>
+      <point x="224" y="605"/>
+      <point x="106" y="606"/>
+      <point x="54" y="608" type="curve"/>
+      <point x="54" y="538" type="line"/>
+      <point x="109" y="533" type="line"/>
+      <point x="181" y="526"/>
+      <point x="192" y="515"/>
+      <point x="192" y="452" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

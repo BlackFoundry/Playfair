@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-s-stroke" format="2">
+  <advance width="475"/>
+  <anchor x="240" y="257" name="_center"/>
+  <outline>
+    <contour>
+      <point x="157" y="-193" type="line"/>
+      <point x="211" y="20" type="line"/>
+      <point x="144" y="39" type="line"/>
+      <point x="89" y="-179" type="line"/>
+    </contour>
+    <contour>
+      <point x="333" y="471" type="line"/>
+      <point x="387" y="681" type="line"/>
+      <point x="319" y="697" type="line"/>
+      <point x="264" y="487" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>4</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>16 Jan 24 at 17:28 (layer #10)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>16 Jan 24 at 17:28 (layer #8)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>16 Jan 24 at 17:28 (layer #11)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>16 Jan 24 at 17:28 (layer #9)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>16 Jan 24 at 17:28 (layer #14)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>16 Jan 24 at 17:28 (layer #12)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>16 Jan 24 at 17:28 (layer #15)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Black (layer #2)</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Light (layer #0)</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Black (layer #3)</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Light (layer #1)</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Black (layer #6)</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Light (layer #4)</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Black (layer #7)</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Light (layer #5)</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>16 Jan 24 at 17:28 (layer #13)</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>1200pt SemiCondensed Black</key>
+        <string>16 Jan 24 at 17:28</string>
+        <key>1200pt SemiCondensed Light</key>
+        <string>16 Jan 24 at 17:28</string>
+        <key>1200pt SemiExpanded Black</key>
+        <string>16 Jan 24 at 17:28</string>
+        <key>1200pt SemiExpanded Light</key>
+        <string>16 Jan 24 at 17:28</string>
+        <key>5pt SemiCondensed Black</key>
+        <string>16 Jan 24 at 17:28</string>
+        <key>5pt SemiCondensed Light</key>
+        <string>16 Jan 24 at 17:28</string>
+        <key>5pt SemiExpanded Black</key>
+        <string>16 Jan 24 at 17:28</string>
+        <key>5pt SemiExpanded Light</key>
+        <string>16 Jan 24 at 17:28</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

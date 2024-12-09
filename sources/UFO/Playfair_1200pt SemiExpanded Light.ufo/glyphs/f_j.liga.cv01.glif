@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_j.liga.cv01" format="2">
+  <advance width="700"/>
+  <anchor x="175" y="0" name="bottom_1"/>
+  <anchor x="525" y="0" name="bottom_2"/>
+  <anchor x="350" y="0" name="caret_1"/>
+  <anchor x="175" y="771" name="top_1"/>
+  <anchor x="525" y="771" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="181" y="3" type="curve"/>
+      <point x="181" y="3" type="line"/>
+      <point x="181" y="3" type="line"/>
+      <point x="231" y="3"/>
+      <point x="279" y="1"/>
+      <point x="337" y="0" type="curve"/>
+      <point x="337" y="1" type="line"/>
+      <point x="305" y="2" type="line"/>
+      <point x="248" y="5"/>
+      <point x="226" y="23"/>
+      <point x="226" y="73" type="curve"/>
+      <point x="226" y="256" type="line"/>
+      <point x="136" y="256" type="line"/>
+      <point x="136" y="73" type="line"/>
+      <point x="136" y="23"/>
+      <point x="114" y="5"/>
+      <point x="61" y="2" type="curve"/>
+      <point x="41" y="1" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="93" y="1"/>
+      <point x="136" y="3"/>
+    </contour>
+    <contour>
+      <point x="136" y="256" type="line"/>
+      <point x="226" y="256" type="line"/>
+      <point x="226" y="562" type="line"/>
+      <point x="226" y="715"/>
+      <point x="282" y="779"/>
+      <point x="409" y="779" type="curve"/>
+      <point x="469" y="779"/>
+      <point x="512" y="766"/>
+      <point x="512" y="747" type="curve"/>
+      <point x="512" y="727"/>
+      <point x="477" y="703"/>
+      <point x="477" y="670" type="curve"/>
+      <point x="477" y="646"/>
+      <point x="495" y="628"/>
+      <point x="526" y="628" type="curve"/>
+      <point x="566" y="628"/>
+      <point x="588" y="652"/>
+      <point x="588" y="683" type="curve"/>
+      <point x="588" y="741"/>
+      <point x="508" y="782"/>
+      <point x="394" y="782" type="curve"/>
+      <point x="229" y="782"/>
+      <point x="136" y="690"/>
+      <point x="136" y="523" type="curve"/>
+    </contour>
+    <component base="_LC-ligature-dotlessi" xOffset="6"/>
+    <component base="_LC-descender-left-hook" xOffset="170"/>
+  </outline>
+</glyph>

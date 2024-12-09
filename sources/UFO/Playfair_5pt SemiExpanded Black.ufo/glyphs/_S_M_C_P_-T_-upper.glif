@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-T-upper" format="2">
+  <advance width="865"/>
+  <anchor x="433" y="608" name="top"/>
+  <anchor x="433" y="588" name="top_low_1"/>
+  <anchor x="433" y="568" name="top_low_2"/>
+  <anchor x="433" y="548" name="top_low_3"/>
+  <anchor x="433" y="528" name="top_low_4"/>
+  <anchor x="433" y="508" name="top_low_5"/>
+  <anchor x="433" y="565" name="topstroke"/>
+  <outline>
+    <contour>
+      <point x="295" y="535" type="curve"/>
+      <point x="570" y="535" type="line"/>
+      <point x="659" y="535"/>
+      <point x="712" y="468"/>
+      <point x="750" y="328" type="curve"/>
+      <point x="823" y="328" type="line"/>
+      <point x="810" y="433"/>
+      <point x="806" y="521"/>
+      <point x="807" y="608" type="curve"/>
+      <point x="747" y="606"/>
+      <point x="664" y="605"/>
+      <point x="542" y="605" type="curve"/>
+      <point x="323" y="605" type="line"/>
+      <point x="201" y="605"/>
+      <point x="118" y="606"/>
+      <point x="58" y="608" type="curve"/>
+      <point x="59" y="521"/>
+      <point x="55" y="433"/>
+      <point x="42" y="328" type="curve"/>
+      <point x="115" y="328" type="line"/>
+      <point x="153" y="468"/>
+      <point x="206" y="535"/>
+    </contour>
+    <component base="_UC-T-upper-stroke.smcp" xOffset="306"/>
+  </outline>
+</glyph>

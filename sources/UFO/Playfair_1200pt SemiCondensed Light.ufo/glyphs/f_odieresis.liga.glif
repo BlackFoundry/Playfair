@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_odieresis.liga" format="2">
+  <advance width="874"/>
+  <anchor x="219" y="0" name="bottom_1"/>
+  <anchor x="656" y="0" name="bottom_2"/>
+  <anchor x="437" y="0" name="caret_1"/>
+  <anchor x="219" y="771" name="top_1"/>
+  <anchor x="656" y="771" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="154" y="3" type="curve"/>
+      <point x="154" y="3" type="line"/>
+      <point x="154" y="3" type="line"/>
+      <point x="201" y="3"/>
+      <point x="244" y="1"/>
+      <point x="293" y="0" type="curve"/>
+      <point x="293" y="1" type="line"/>
+      <point x="264" y="3" type="line"/>
+      <point x="214" y="7"/>
+      <point x="199" y="23"/>
+      <point x="199" y="73" type="curve"/>
+      <point x="199" y="256" type="line"/>
+      <point x="109" y="256" type="line"/>
+      <point x="109" y="73" type="line"/>
+      <point x="109" y="23"/>
+      <point x="92" y="6"/>
+      <point x="44" y="2" type="curve"/>
+      <point x="33" y="1" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="76" y="1"/>
+      <point x="113" y="3"/>
+    </contour>
+    <contour>
+      <point x="109" y="256" type="line"/>
+      <point x="199" y="256" type="line"/>
+      <point x="199" y="584" type="line"/>
+      <point x="199" y="711"/>
+      <point x="251" y="781"/>
+      <point x="371" y="781" type="curve"/>
+      <point x="430" y="781"/>
+      <point x="457" y="764"/>
+      <point x="457" y="745" type="curve"/>
+      <point x="457" y="722"/>
+      <point x="433" y="704"/>
+      <point x="433" y="674" type="curve"/>
+      <point x="433" y="648"/>
+      <point x="455" y="628"/>
+      <point x="483" y="628" type="curve"/>
+      <point x="516" y="628"/>
+      <point x="538" y="651"/>
+      <point x="538" y="683" type="curve"/>
+      <point x="538" y="739"/>
+      <point x="464" y="782"/>
+      <point x="367" y="782" type="curve"/>
+      <point x="193" y="782"/>
+      <point x="109" y="695"/>
+      <point x="109" y="514" type="curve"/>
+    </contour>
+    <contour>
+      <point x="29" y="511" type="line"/>
+      <point x="306" y="511" type="line"/>
+      <point x="306" y="512" type="line"/>
+      <point x="29" y="512" type="line"/>
+    </contour>
+    <component base="_2ndTittle" xOffset="581"/>
+    <component base="o" xOffset="306"/>
+  </outline>
+</glyph>

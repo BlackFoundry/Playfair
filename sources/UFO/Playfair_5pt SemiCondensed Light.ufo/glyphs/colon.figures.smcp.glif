@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon.figures.smcp" format="2">
+  <advance width="436"/>
+  <outline>
+    <component base="colon" xOffset="50" yOffset="46"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Geupturn-cy" format="2">
+  <advance width="634"/>
+  <unicode hex="0490"/>
+  <outline>
+    <component base="_UC-Gheupturn-cy-upper" xOffset="-2"/>
+    <component base="_UC-bottom-stem-normal-wide"/>
+  </outline>
+</glyph>

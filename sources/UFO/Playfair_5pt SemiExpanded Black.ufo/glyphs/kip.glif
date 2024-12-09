@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance width="1161"/>
+  <unicode hex="20AD"/>
+  <outline>
+    <component base="K" xOffset="79"/>
+    <component base="_kip-bar" yOffset="-97"/>
+  </outline>
+</glyph>

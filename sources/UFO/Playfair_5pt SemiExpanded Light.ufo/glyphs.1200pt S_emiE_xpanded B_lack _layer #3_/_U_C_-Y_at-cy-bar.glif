@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-Yat-cy-bar" format="2">
+  <advance width="798"/>
+  <anchor x="400" y="520" name="#exit"/>
+  <outline>
+    <contour>
+      <point x="358" y="604" type="curve"/>
+      <point x="442" y="604" type="line"/>
+      <point x="604" y="604"/>
+      <point x="693" y="543"/>
+      <point x="759" y="432" type="curve"/>
+      <point x="760" y="432" type="line"/>
+      <point x="755" y="493"/>
+      <point x="753" y="554"/>
+      <point x="756" y="608" type="curve"/>
+      <point x="686" y="606"/>
+      <point x="599" y="605"/>
+      <point x="456" y="605" type="curve"/>
+      <point x="344" y="605" type="line"/>
+      <point x="201" y="605"/>
+      <point x="114" y="606"/>
+      <point x="44" y="608" type="curve"/>
+      <point x="47" y="546"/>
+      <point x="44" y="477"/>
+      <point x="38" y="408" type="curve"/>
+      <point x="39" y="408" type="line"/>
+      <point x="104" y="531"/>
+      <point x="195" y="604"/>
+    </contour>
+  </outline>
+</glyph>

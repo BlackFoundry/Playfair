@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="699"/>
+  <unicode hex="0054"/>
+  <anchor x="451" y="0" name="#exit"/>
+  <anchor x="451" y="0" name="%exit"/>
+  <anchor x="350" y="0" name="bottom"/>
+  <anchor x="350" y="354" name="center"/>
+  <anchor x="350" y="285" name="center_lowered"/>
+  <outline>
+    <contour>
+      <point x="334" y="3" type="curve"/>
+      <point x="349" y="3" type="line"/>
+      <point x="365" y="3" type="line"/>
+      <point x="444" y="3"/>
+      <point x="503" y="1"/>
+      <point x="535" y="0" type="curve"/>
+      <point x="535" y="1" type="line"/>
+      <point x="512" y="3" type="line"/>
+      <point x="461" y="10"/>
+      <point x="451" y="25"/>
+      <point x="451" y="87" type="curve"/>
+      <point x="451" y="250" type="line"/>
+      <point x="248" y="250" type="line"/>
+      <point x="248" y="87" type="line"/>
+      <point x="248" y="25"/>
+      <point x="237" y="10"/>
+      <point x="186" y="4" type="curve"/>
+      <point x="164" y="1" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="195" y="1"/>
+      <point x="254" y="3"/>
+    </contour>
+    <component base="_UC-T-upper"/>
+  </outline>
+</glyph>

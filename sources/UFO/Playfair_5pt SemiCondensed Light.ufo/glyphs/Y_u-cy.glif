@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yu-cy" format="2">
+  <advance width="1212"/>
+  <unicode hex="042E"/>
+  <outline>
+    <component base="I"/>
+    <component base="_UC-Yu-cy-O" xOffset="234"/>
+  </outline>
+</glyph>

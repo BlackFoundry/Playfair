@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-ascender-left-inserif" format="2">
+  <advance width="362"/>
+  <anchor x="286" y="260" name="#entry"/>
+  <anchor x="286" y="260" name="#exit"/>
+  <anchor x="106" y="260" name="^exit"/>
+  <anchor x="195" y="0" name="_baselineMiddle"/>
+  <anchor x="106" y="0" name="_lower-left"/>
+  <anchor x="106" y="260" name="_stem"/>
+  <anchor x="106" y="520" name="_xheight"/>
+  <anchor x="53" y="608" name="bar-left"/>
+  <anchor x="223" y="608" name="center"/>
+  <anchor x="106" y="260" name="stem"/>
+  <anchor x="336" y="771" name="top.ascender"/>
+  <outline>
+    <contour>
+      <point x="106" y="260" type="line"/>
+      <point x="286" y="260" type="line"/>
+      <point x="286" y="771" type="line"/>
+      <point x="286" y="782" type="line"/>
+      <point x="241" y="774"/>
+      <point x="187" y="769"/>
+      <point x="115" y="769" type="curve"/>
+      <point x="75" y="769"/>
+      <point x="49" y="770"/>
+      <point x="20" y="771" type="curve"/>
+      <point x="20" y="701" type="line"/>
+      <point x="44" y="698" type="line"/>
+      <point x="97" y="691"/>
+      <point x="106" y="680"/>
+      <point x="106" y="634" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

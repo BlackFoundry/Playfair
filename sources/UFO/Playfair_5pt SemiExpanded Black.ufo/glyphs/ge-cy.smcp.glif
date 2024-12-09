@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ge-cy.smcp" format="2">
+  <advance width="806"/>
+  <anchor x="188" y="0" name="^exit"/>
+  <anchor x="299" y="196" name="bottom-franc"/>
+  <anchor x="299" y="276" name="center"/>
+  <anchor x="188" y="250" name="stem"/>
+  <anchor x="404" y="608" name="top"/>
+  <anchor x="299" y="351" name="top-franc"/>
+  <outline>
+    <contour>
+      <point x="188" y="250" type="line"/>
+      <point x="381" y="250" type="line"/>
+      <point x="381" y="535" type="line"/>
+      <point x="473" y="535" type="line"/>
+      <point x="586" y="535"/>
+      <point x="647" y="484"/>
+      <point x="691" y="368" type="curve"/>
+      <point x="764" y="368" type="line"/>
+      <point x="754" y="458"/>
+      <point x="751" y="534"/>
+      <point x="752" y="608" type="curve"/>
+      <point x="688" y="606"/>
+      <point x="602" y="605"/>
+      <point x="474" y="605" type="curve"/>
+      <point x="285" y="605" type="line"/>
+      <point x="279" y="605" type="line"/>
+      <point x="220" y="605"/>
+      <point x="102" y="606"/>
+      <point x="50" y="608" type="curve"/>
+      <point x="50" y="538" type="line"/>
+      <point x="105" y="533" type="line"/>
+      <point x="177" y="526"/>
+      <point x="188" y="515"/>
+      <point x="188" y="452" type="curve"/>
+    </contour>
+    <component base="_SMCP-bottom-stem-normal-wide"/>
+  </outline>
+</glyph>

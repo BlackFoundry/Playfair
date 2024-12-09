@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k" format="2">
+  <advance width="890"/>
+  <unicode hex="006B"/>
+  <outline>
+    <component base="_LC-baseline-normal-narrow"/>
+    <component base="_LC-ascender-left-inserif"/>
+    <component base="_LC-k-legs" xOffset="253"/>
+  </outline>
+</glyph>

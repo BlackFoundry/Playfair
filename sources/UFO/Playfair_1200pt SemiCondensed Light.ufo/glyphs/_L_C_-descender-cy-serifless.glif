@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-descender-cy-serifless" format="2">
+  <advance width="310"/>
+  <anchor x="106" y="256" name="#entry"/>
+  <anchor x="106" y="256" name="_stem"/>
+  <outline>
+    <contour>
+      <point x="106" y="3" type="line"/>
+      <point x="196" y="3" type="line"/>
+      <point x="196" y="256" type="line"/>
+      <point x="106" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="3" type="line"/>
+      <point x="108" y="3" type="line"/>
+      <point x="182" y="0"/>
+      <point x="229" y="-30"/>
+      <point x="276" y="-159" type="curve"/>
+      <point x="277" y="-159" type="line"/>
+      <point x="272" y="-101"/>
+      <point x="270" y="-46"/>
+      <point x="272" y="6" type="curve"/>
+      <point x="241" y="4"/>
+      <point x="208" y="4"/>
+      <point x="177" y="4" type="curve"/>
+      <point x="108" y="4" type="line"/>
+      <point x="187" y="4" type="line"/>
+      <point x="107" y="13" type="line"/>
+    </contour>
+  </outline>
+</glyph>

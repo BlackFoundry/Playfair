@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lbelt.smcp" format="2">
+  <advance width="588"/>
+  <outline>
+    <component base="l.smcp"/>
+    <component base="_L-belt" xOffset="-94" yOffset="41"/>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="clickretroflex" format="2">
+  <advance width="386"/>
+  <unicode hex="01C3"/>
+  <outline>
+    <contour>
+      <point x="103" y="310" type="line"/>
+      <point x="283" y="310" type="line"/>
+      <point x="283" y="771" type="line"/>
+      <point x="103" y="771" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="0" type="line"/>
+      <point x="283" y="0" type="line"/>
+      <point x="283" y="180" type="line"/>
+      <point x="103" y="180" type="line"/>
+    </contour>
+  </outline>
+</glyph>

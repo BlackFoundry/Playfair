@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-U-bottom" format="2">
+  <advance width="683"/>
+  <anchor x="84" y="0" name="^entry"/>
+  <anchor x="368" y="0" name="bottom"/>
+  <anchor x="368" y="354" name="center"/>
+  <anchor x="477" y="0" name="ogonek"/>
+  <anchor x="598" y="458" name="stem"/>
+  <anchor x="368" y="708" name="top"/>
+  <anchor x="368" y="688" name="top_low_1"/>
+  <anchor x="368" y="668" name="top_low_2"/>
+  <anchor x="368" y="648" name="top_low_3"/>
+  <outline>
+    <contour>
+      <point x="361" y="-14" type="curve" smooth="yes"/>
+      <point x="539" y="-14"/>
+      <point x="599" y="83"/>
+      <point x="599" y="270" type="curve" smooth="yes"/>
+      <point x="599" y="458" type="line"/>
+      <point x="598" y="458" type="line"/>
+      <point x="598" y="270" type="line" smooth="yes"/>
+      <point x="598" y="98"/>
+      <point x="544" y="11"/>
+      <point x="434" y="11" type="curve" smooth="yes"/>
+      <point x="334" y="11"/>
+      <point x="287" y="70"/>
+      <point x="287" y="184" type="curve" smooth="yes"/>
+      <point x="287" y="458" type="line"/>
+      <point x="84" y="458" type="line"/>
+      <point x="84" y="278" type="line" smooth="yes"/>
+      <point x="84" y="72"/>
+      <point x="165" y="-14"/>
+    </contour>
+  </outline>
+</glyph>

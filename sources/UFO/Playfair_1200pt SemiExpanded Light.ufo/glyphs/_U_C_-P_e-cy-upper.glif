@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-Pe-cy-upper" format="2">
+  <advance width="897"/>
+  <anchor x="652" y="250" name="stem"/>
+  <anchor x="152" y="250" name="stem-mirrored"/>
+  <outline>
+    <contour>
+      <point x="152" y="250" type="line"/>
+      <point x="245" y="250" type="line"/>
+      <point x="245" y="705" type="line"/>
+      <point x="242" y="704" type="line"/>
+      <point x="655" y="704" type="line"/>
+      <point x="652" y="705" type="line"/>
+      <point x="652" y="250" type="line"/>
+      <point x="745" y="250" type="line"/>
+      <point x="745" y="621" type="line"/>
+      <point x="745" y="683"/>
+      <point x="758" y="697"/>
+      <point x="818" y="704" type="curve"/>
+      <point x="845" y="707" type="line"/>
+      <point x="845" y="708" type="line"/>
+      <point x="811" y="707"/>
+      <point x="769" y="705"/>
+      <point x="709" y="705" type="curve"/>
+      <point x="698" y="705" type="line"/>
+      <point x="198" y="705" type="line"/>
+      <point x="188" y="705" type="line"/>
+      <point x="128" y="705"/>
+      <point x="86" y="707"/>
+      <point x="52" y="708" type="curve"/>
+      <point x="52" y="707" type="line"/>
+      <point x="79" y="704" type="line"/>
+      <point x="139" y="697"/>
+      <point x="152" y="683"/>
+      <point x="152" y="621" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upDownArrow" format="2">
+  <advance width="598"/>
+  <unicode hex="2195"/>
+  <outline>
+    <contour>
+      <point x="75" y="352" type="line"/>
+      <point x="147" y="388"/>
+      <point x="220" y="405"/>
+      <point x="299" y="405" type="curve" smooth="yes"/>
+      <point x="378" y="405"/>
+      <point x="451" y="388"/>
+      <point x="523" y="352" type="curve"/>
+      <point x="523" y="353" type="line"/>
+      <point x="428" y="411"/>
+      <point x="367" y="473"/>
+      <point x="299" y="586" type="curve"/>
+      <point x="231" y="473"/>
+      <point x="170" y="411"/>
+      <point x="75" y="353" type="curve"/>
+    </contour>
+    <contour>
+      <point x="299" y="-10" type="curve"/>
+      <point x="367" y="103"/>
+      <point x="428" y="165"/>
+      <point x="523" y="223" type="curve"/>
+      <point x="523" y="224" type="line"/>
+      <point x="451" y="188"/>
+      <point x="378" y="171"/>
+      <point x="299" y="171" type="curve" smooth="yes"/>
+      <point x="220" y="171"/>
+      <point x="147" y="188"/>
+      <point x="75" y="224" type="curve"/>
+      <point x="75" y="223" type="line"/>
+      <point x="170" y="165"/>
+      <point x="231" y="103"/>
+    </contour>
+    <contour>
+      <point x="298" y="157" type="line"/>
+      <point x="299" y="157" type="line"/>
+      <point x="299" y="415" type="line"/>
+      <point x="298" y="415" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nhookleft" format="2">
+  <advance width="737"/>
+  <unicode hex="019D"/>
+  <outline>
+    <component base="_UC-N-upper"/>
+    <component base="_UC-N-hook" xOffset="-137"/>
+  </outline>
+</glyph>

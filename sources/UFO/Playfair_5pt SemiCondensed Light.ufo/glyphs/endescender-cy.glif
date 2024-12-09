@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endescender-cy" format="2">
+  <advance width="770"/>
+  <unicode hex="04A3"/>
+  <outline>
+    <component base="_LC-en-cy_upper" xOffset="10"/>
+    <component base="_LC-descender-cy-inner-serif" xOffset="397"/>
+    <component base="_LC-en-cy-bar" xOffset="213"/>
+  </outline>
+</glyph>

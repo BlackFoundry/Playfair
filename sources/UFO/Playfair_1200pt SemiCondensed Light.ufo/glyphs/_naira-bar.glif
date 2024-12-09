@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_naira-bar" format="2">
+  <advance width="737"/>
+  <anchor x="369" y="453" name="_center"/>
+  <outline>
+    <contour>
+      <point x="591" y="452" type="line"/>
+      <point x="715" y="452" type="line"/>
+      <point x="715" y="453" type="line"/>
+      <point x="591" y="453" type="line"/>
+    </contour>
+    <contour>
+      <point x="22" y="452" type="line"/>
+      <point x="127" y="452" type="line"/>
+      <point x="127" y="453" type="line"/>
+      <point x="22" y="453" type="line"/>
+    </contour>
+  </outline>
+</glyph>

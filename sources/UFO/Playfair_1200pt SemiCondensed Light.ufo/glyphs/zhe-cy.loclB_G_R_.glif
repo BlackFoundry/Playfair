@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-cy.loclBGR" format="2">
+  <advance width="858"/>
+  <anchor x="383" y="256" name="#entry"/>
+  <anchor x="473" y="256" name="#exit"/>
+  <anchor x="162" y="0" name="%entry"/>
+  <anchor x="383" y="0" name="%exit"/>
+  <anchor x="278" y="0" name="^entry"/>
+  <anchor x="564" y="0" name="^exit"/>
+  <anchor x="383" y="256" name="stem"/>
+  <outline>
+    <contour>
+      <point x="428" y="3" type="curve"/>
+      <point x="428" y="3" type="line"/>
+      <point x="428" y="3" type="line"/>
+      <point x="469" y="3"/>
+      <point x="506" y="1"/>
+      <point x="549" y="0" type="curve"/>
+      <point x="549" y="1" type="line"/>
+      <point x="538" y="2" type="line"/>
+      <point x="490" y="6"/>
+      <point x="473" y="23"/>
+      <point x="473" y="73" type="curve"/>
+      <point x="473" y="256" type="line"/>
+      <point x="383" y="256" type="line"/>
+      <point x="383" y="73" type="line"/>
+      <point x="383" y="23"/>
+      <point x="366" y="6"/>
+      <point x="318" y="2" type="curve"/>
+      <point x="307" y="1" type="line"/>
+      <point x="307" y="0" type="line"/>
+      <point x="350" y="1"/>
+      <point x="387" y="3"/>
+    </contour>
+    <component base="_zhe-cy-wings.loclBGR"/>
+    <component base="_LC-ascender-left-inserif" xOffset="278"/>
+  </outline>
+</glyph>

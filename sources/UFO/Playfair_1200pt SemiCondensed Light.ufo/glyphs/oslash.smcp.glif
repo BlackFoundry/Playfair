@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash.smcp" format="2">
+  <advance width="721"/>
+  <outline>
+    <component base="o.smcp"/>
+    <component base="slashlongoverlaycomb.smcp" xOffset="-4"/>
+  </outline>
+</glyph>

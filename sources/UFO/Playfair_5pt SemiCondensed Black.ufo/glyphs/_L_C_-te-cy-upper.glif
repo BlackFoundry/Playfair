@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-te-cy-upper" format="2">
+  <advance width="576"/>
+  <anchor x="198" y="520" name="xheight"/>
+  <outline>
+    <contour>
+      <point x="254" y="449" type="curve"/>
+      <point x="322" y="448" type="line"/>
+      <point x="418" y="448"/>
+      <point x="446" y="432"/>
+      <point x="479" y="286" type="curve"/>
+      <point x="552" y="286" type="line"/>
+      <point x="546" y="367"/>
+      <point x="544" y="446"/>
+      <point x="545" y="518" type="curve"/>
+      <point x="503" y="515"/>
+      <point x="461" y="515"/>
+      <point x="419" y="515" type="curve"/>
+      <point x="322" y="515" type="line"/>
+      <point x="254" y="515" type="line"/>
+      <point x="157" y="516" type="line"/>
+      <point x="115" y="516"/>
+      <point x="73" y="516"/>
+      <point x="31" y="519" type="curve"/>
+      <point x="32" y="447"/>
+      <point x="30" y="368"/>
+      <point x="24" y="287" type="curve"/>
+      <point x="97" y="287" type="line"/>
+      <point x="130" y="433"/>
+      <point x="158" y="449"/>
+    </contour>
+    <component base="_LC-stem-xheight-upper" xOffset="168"/>
+  </outline>
+</glyph>

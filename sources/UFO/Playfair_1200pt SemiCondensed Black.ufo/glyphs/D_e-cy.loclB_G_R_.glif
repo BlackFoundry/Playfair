@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="De-cy.loclBGR" format="2">
+  <advance width="845"/>
+  <outline>
+    <component base="_UC-De-cy-descender"/>
+    <component base="_UC-De-cy-upper.loclBGR" xOffset="69"/>
+    <component base="_UC-descender-cy" xOffset="502"/>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-Softsign-cy-stem" format="2">
+  <advance width="607"/>
+  <anchor x="289" y="520" name="#entry"/>
+  <anchor x="188" y="0" name="^exit"/>
+  <outline>
+    <contour>
+      <point x="188" y="250" type="line"/>
+      <point x="391" y="250" type="line"/>
+      <point x="391" y="552" type="line"/>
+      <point x="391" y="611"/>
+      <point x="403" y="624"/>
+      <point x="464" y="630" type="curve"/>
+      <point x="557" y="637" type="line"/>
+      <point x="557" y="707" type="line"/>
+      <point x="495" y="706"/>
+      <point x="368" y="705"/>
+      <point x="302" y="705" type="curve"/>
+      <point x="289" y="705" type="line"/>
+      <point x="279" y="705" type="line"/>
+      <point x="220" y="705"/>
+      <point x="102" y="706"/>
+      <point x="50" y="708" type="curve"/>
+      <point x="50" y="638" type="line"/>
+      <point x="105" y="633" type="line"/>
+      <point x="177" y="626"/>
+      <point x="188" y="615"/>
+      <point x="188" y="552" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

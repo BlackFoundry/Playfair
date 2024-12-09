@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-Ustroke-cy" format="2">
+  <advance width="613"/>
+  <anchor x="307" y="255" name="_center"/>
+  <outline>
+    <contour>
+      <point x="30" y="194" type="line"/>
+      <point x="583" y="194" type="line"/>
+      <point x="583" y="264" type="line"/>
+      <point x="30" y="264" type="line"/>
+    </contour>
+  </outline>
+</glyph>

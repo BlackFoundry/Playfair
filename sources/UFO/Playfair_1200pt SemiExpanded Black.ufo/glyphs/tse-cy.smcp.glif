@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tse-cy.smcp" format="2">
+  <advance width="942"/>
+  <outline>
+    <component base="_SMCP-tse-dzhe-cy-upper"/>
+    <component base="_SMCP-tse-cy-lower"/>
+    <component base="_UC-descender-cy" xOffset="581"/>
+  </outline>
+</glyph>

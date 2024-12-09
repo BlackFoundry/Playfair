@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Heng.cv01" format="2">
+  <advance width="891"/>
+  <outline>
+    <component base="_UC-top-stem-normal-narrow"/>
+    <component base="_UC-H-upper"/>
+    <component base="_UC-lower-right-hook" xOffset="301"/>
+  </outline>
+</glyph>

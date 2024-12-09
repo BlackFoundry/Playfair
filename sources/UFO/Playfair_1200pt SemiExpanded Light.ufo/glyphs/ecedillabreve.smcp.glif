@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecedillabreve.smcp" format="2">
+  <advance width="711"/>
+  <outline>
+    <component base="e.smcp"/>
+    <component base="brevecomb.smcp" xOffset="113"/>
+    <component base="_cedillacomb-E.case" xOffset="245"/>
+  </outline>
+</glyph>

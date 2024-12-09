@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft.tosf" format="2">
+  <advance width="615"/>
+  <outline>
+    <component base="parenleft" xOffset="46"/>
+  </outline>
+</glyph>

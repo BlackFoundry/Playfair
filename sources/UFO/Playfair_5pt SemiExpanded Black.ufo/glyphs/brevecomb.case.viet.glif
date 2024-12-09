@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.case.viet" format="2">
+  <advance width="570"/>
+  <anchor x="285" y="708" name="_top"/>
+  <anchor x="285" y="940" name="top"/>
+  <anchor x="285" y="920" name="top_low_1"/>
+  <anchor x="285" y="900" name="top_low_2"/>
+  <anchor x="285" y="880" name="top_low_3"/>
+  <anchor x="285" y="860" name="top_low_4"/>
+  <anchor x="285" y="840" name="top_low_5"/>
+  <outline>
+    <contour>
+      <point x="285" y="765" type="curve" smooth="yes"/>
+      <point x="406" y="765"/>
+      <point x="507" y="816"/>
+      <point x="540" y="893" type="curve"/>
+      <point x="498" y="930" type="line"/>
+      <point x="448" y="890"/>
+      <point x="384" y="867"/>
+      <point x="284" y="867" type="curve" smooth="yes"/>
+      <point x="183" y="867"/>
+      <point x="117" y="890"/>
+      <point x="72" y="930" type="curve"/>
+      <point x="30" y="893" type="line"/>
+      <point x="63" y="816"/>
+      <point x="163" y="765"/>
+    </contour>
+  </outline>
+</glyph>

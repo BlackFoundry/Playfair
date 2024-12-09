@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-T-upper" format="2">
+  <advance width="733"/>
+  <anchor x="367" y="708" name="top"/>
+  <anchor x="367" y="688" name="top_low_1"/>
+  <anchor x="367" y="668" name="top_low_2"/>
+  <anchor x="367" y="648" name="top_low_3"/>
+  <anchor x="367" y="704" name="topstroke"/>
+  <outline>
+    <contour>
+      <point x="335" y="704" type="curve"/>
+      <point x="398" y="704" type="line"/>
+      <point x="556" y="704"/>
+      <point x="628" y="676"/>
+      <point x="692" y="478" type="curve"/>
+      <point x="693" y="478" type="line"/>
+      <point x="680" y="565"/>
+      <point x="674" y="641"/>
+      <point x="677" y="708" type="curve"/>
+      <point x="606" y="706"/>
+      <point x="522" y="705"/>
+      <point x="399" y="705" type="curve"/>
+      <point x="334" y="705" type="line"/>
+      <point x="211" y="705"/>
+      <point x="127" y="706"/>
+      <point x="56" y="708" type="curve"/>
+      <point x="59" y="641"/>
+      <point x="53" y="565"/>
+      <point x="40" y="478" type="curve"/>
+      <point x="41" y="478" type="line"/>
+      <point x="105" y="676"/>
+      <point x="177" y="704"/>
+    </contour>
+    <component base="_UC-T-upper-stroke" xOffset="290"/>
+  </outline>
+</glyph>

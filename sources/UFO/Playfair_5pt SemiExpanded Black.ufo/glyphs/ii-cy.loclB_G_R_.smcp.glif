@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ii-cy.loclBGR.smcp" format="2">
+  <advance width="1110"/>
+  <outline>
+    <component base="_SMCP-top-stem-normal-normal"/>
+    <component base="_SMCP-Ii-cy.loclBGR"/>
+    <component base="_SMCP-bottom-stem-normal-normal" xOffset="541"/>
+  </outline>
+</glyph>

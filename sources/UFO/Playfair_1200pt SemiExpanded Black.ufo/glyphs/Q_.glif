@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="967"/>
+  <unicode hex="0051"/>
+  <outline>
+    <component base="O"/>
+    <component base="_UC-Q-tail" xOffset="105"/>
+  </outline>
+</glyph>

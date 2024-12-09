@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronacutecomb" format="2">
+  <advance width="480"/>
+  <unicode hex="1DC4"/>
+  <outline>
+    <component base="gravemacroncomb" xScale="-1" xOffset="480"/>
+  </outline>
+</glyph>

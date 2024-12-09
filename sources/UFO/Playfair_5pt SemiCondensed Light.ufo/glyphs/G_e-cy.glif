@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ge-cy" format="2">
+  <advance width="646"/>
+  <unicode hex="0413"/>
+  <anchor x="210" y="0" name="^exit"/>
+  <anchor x="276" y="256" name="bottom-franc"/>
+  <anchor x="266" y="356" name="center"/>
+  <anchor x="210" y="250" name="stem"/>
+  <anchor x="351" y="708" name="top"/>
+  <anchor x="276" y="411" name="top-franc"/>
+  <outline>
+    <contour>
+      <point x="210" y="250" type="line"/>
+      <point x="303" y="250" type="line"/>
+      <point x="303" y="635" type="line"/>
+      <point x="361" y="635" type="line"/>
+      <point x="475" y="635"/>
+      <point x="507" y="605"/>
+      <point x="540" y="463" type="curve"/>
+      <point x="613" y="463" type="line"/>
+      <point x="604" y="538"/>
+      <point x="599" y="618"/>
+      <point x="598" y="708" type="curve"/>
+      <point x="542" y="706"/>
+      <point x="466" y="705"/>
+      <point x="364" y="705" type="curve"/>
+      <point x="258" y="705" type="line"/>
+      <point x="246" y="705" type="line"/>
+      <point x="186" y="705"/>
+      <point x="106" y="707"/>
+      <point x="70" y="708" type="curve"/>
+      <point x="70" y="638" type="line"/>
+      <point x="115" y="634" type="line"/>
+      <point x="191" y="627"/>
+      <point x="210" y="611"/>
+      <point x="210" y="552" type="curve"/>
+    </contour>
+    <component base="_UC-bottom-stem-normal-wide"/>
+  </outline>
+</glyph>

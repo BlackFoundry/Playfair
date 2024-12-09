@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-descender-cy-inner-serif" format="2">
+  <advance width="423"/>
+  <anchor x="123" y="256" name="_stem"/>
+  <outline>
+    <contour>
+      <point x="123" y="0" type="line"/>
+      <point x="213" y="0" type="line"/>
+      <point x="213" y="256" type="line"/>
+      <point x="123" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="250" y="0"/>
+      <point x="288" y="-29"/>
+      <point x="320" y="-162" type="curve"/>
+      <point x="393" y="-162" type="line"/>
+      <point x="381" y="-82"/>
+      <point x="376" y="-13"/>
+      <point x="376" y="70" type="curve"/>
+      <point x="322" y="68"/>
+      <point x="268" y="67"/>
+      <point x="214" y="67" type="curve"/>
+      <point x="150" y="67" type="line"/>
+      <point x="130" y="67" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>4</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>18 Jun 24 at 13:47 (layer #10)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>18 Jun 24 at 13:47 (layer #8)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>18 Jun 24 at 13:47 (layer #11)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>18 Jun 24 at 13:47 (layer #9)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>18 Jun 24 at 13:47 (layer #14)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>18 Jun 24 at 13:47 (layer #12)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>18 Jun 24 at 13:47 (layer #15)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Black (layer #2)</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Light (layer #0)</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Black (layer #3)</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Light (layer #1)</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Black (layer #6)</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Light (layer #4)</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Black (layer #7)</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Light (layer #5)</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>18 Jun 24 at 13:47 (layer #13)</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>1200pt SemiCondensed Black</key>
+        <string>18 Jun 24 at 13:47</string>
+        <key>1200pt SemiCondensed Light</key>
+        <string>18 Jun 24 at 13:47</string>
+        <key>1200pt SemiExpanded Black</key>
+        <string>18 Jun 24 at 13:47</string>
+        <key>1200pt SemiExpanded Light</key>
+        <string>18 Jun 24 at 13:47</string>
+        <key>5pt SemiCondensed Black</key>
+        <string>18 Jun 24 at 13:47</string>
+        <key>5pt SemiCondensed Light</key>
+        <string>18 Jun 24 at 13:47</string>
+        <key>5pt SemiExpanded Black</key>
+        <string>18 Jun 24 at 13:47</string>
+        <key>5pt SemiExpanded Light</key>
+        <string>18 Jun 24 at 13:47</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

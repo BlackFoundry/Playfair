@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-Gheupturn-cy-upper" format="2">
+  <advance width="636"/>
+  <anchor x="252" y="286" name="bottom-franc"/>
+  <anchor x="214" y="356" name="center"/>
+  <anchor x="152" y="250" name="stem"/>
+  <anchor x="310" y="708" name="top"/>
+  <anchor x="252" y="411" name="top-franc"/>
+  <outline>
+    <contour>
+      <point x="152" y="250" type="line"/>
+      <point x="245" y="250" type="line"/>
+      <point x="245" y="704" type="line"/>
+      <point x="304" y="704" type="line"/>
+      <point x="427" y="704"/>
+      <point x="511" y="703"/>
+      <point x="582" y="701" type="curve"/>
+      <point x="580" y="745"/>
+      <point x="583" y="795"/>
+      <point x="589" y="853" type="curve"/>
+      <point x="588" y="853" type="line"/>
+      <point x="525" y="723"/>
+      <point x="456" y="705"/>
+      <point x="303" y="705" type="curve"/>
+      <point x="200" y="705" type="line"/>
+      <point x="188" y="705" type="line"/>
+      <point x="128" y="705"/>
+      <point x="86" y="707"/>
+      <point x="52" y="708" type="curve"/>
+      <point x="52" y="707" type="line"/>
+      <point x="79" y="704" type="line"/>
+      <point x="139" y="697"/>
+      <point x="152" y="683"/>
+      <point x="152" y="621" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

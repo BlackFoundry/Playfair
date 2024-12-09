@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lbelt" format="2">
+  <advance width="333"/>
+  <unicode hex="026C"/>
+  <outline>
+    <component base="l"/>
+    <component base="_l-belt" xOffset="-95" yOffset="85"/>
+  </outline>
+</glyph>

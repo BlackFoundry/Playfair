@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="723"/>
+  <unicode hex="004C"/>
+  <outline>
+    <component base="_UC-L-lower" xOffset="-2"/>
+    <component base="_UC-bottom-stem-normal-wide" yScale="-1" yOffset="708"/>
+  </outline>
+</glyph>

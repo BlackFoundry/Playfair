@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-bottom-stem-narrow-hook" format="2">
+  <advance width="311"/>
+  <anchor x="97" y="250" name="_stem"/>
+  <outline>
+    <contour>
+      <point x="174" y="-160" type="curve"/>
+      <point x="175" y="-160" type="line"/>
+      <point x="192" y="-124"/>
+      <point x="237" y="-49"/>
+      <point x="271" y="0" type="curve"/>
+      <point x="271" y="1" type="line"/>
+      <point x="188" y="1" type="line"/>
+      <point x="175" y="11" type="line"/>
+      <point x="51" y="1" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="95" y="0" type="line" smooth="yes"/>
+      <point x="195" y="0"/>
+      <point x="222" y="-55"/>
+    </contour>
+    <contour>
+      <point x="140" y="3" type="curve"/>
+      <point x="143" y="3" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="190" y="250" type="line"/>
+      <point x="97" y="250" type="line"/>
+      <point x="97" y="87" type="line"/>
+      <point x="97" y="21"/>
+      <point x="90" y="8"/>
+      <point x="50" y="2" type="curve"/>
+      <point x="40" y="1" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="67" y="2"/>
+      <point x="100" y="3"/>
+    </contour>
+  </outline>
+</glyph>

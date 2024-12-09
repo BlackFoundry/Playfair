@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb.smcp" format="2">
+  <advance width="397"/>
+  <anchor x="162" y="608" name="_right"/>
+  <anchor x="195" y="608" name="_top"/>
+  <outline>
+    <component base="hookabovecomb.case" yOffset="-100"/>
+  </outline>
+</glyph>

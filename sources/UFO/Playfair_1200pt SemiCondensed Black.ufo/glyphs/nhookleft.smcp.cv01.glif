@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nhookleft.smcp.cv01" format="2">
+  <advance width="851"/>
+  <outline>
+    <component base="_SMCP.upper.stem.normal-none"/>
+    <component base="_UC-J-descender-stump.smcp.cv01" xOffset="-137"/>
+    <component base="_SMCP-Eng-arch" xOffset="248"/>
+    <component base="_SMCP-bottom-stem-wide-normal" xOffset="444"/>
+  </outline>
+</glyph>

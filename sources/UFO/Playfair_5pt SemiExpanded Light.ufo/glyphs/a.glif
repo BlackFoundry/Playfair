@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a" format="2">
+  <advance width="786"/>
+  <unicode hex="0061"/>
+  <anchor x="-207" y="256" name="#entry"/>
+  <anchor x="399" y="0" name="bottom"/>
+  <anchor x="368" y="257" name="center"/>
+  <anchor x="679" y="0" name="ogonek"/>
+  <anchor x="365" y="512" name="top"/>
+  <anchor x="365" y="492" name="top_low_1"/>
+  <anchor x="365" y="472" name="top_low_2"/>
+  <anchor x="365" y="452" name="top_low_3"/>
+  <outline>
+    <contour>
+      <point x="595" y="117" type="curve"/>
+      <point x="595" y="331" type="line" smooth="yes"/>
+      <point x="595" y="472"/>
+      <point x="533" y="529"/>
+      <point x="379" y="529" type="curve" smooth="yes"/>
+      <point x="228" y="529"/>
+      <point x="128" y="475"/>
+      <point x="128" y="394" type="curve" smooth="yes"/>
+      <point x="128" y="352"/>
+      <point x="156" y="324"/>
+      <point x="199" y="324" type="curve" smooth="yes"/>
+      <point x="240" y="324"/>
+      <point x="268" y="342"/>
+      <point x="268" y="369" type="curve" smooth="yes"/>
+      <point x="268" y="398"/>
+      <point x="240" y="412"/>
+      <point x="240" y="426" type="curve" smooth="yes"/>
+      <point x="240" y="444"/>
+      <point x="286" y="457"/>
+      <point x="351" y="457" type="curve" smooth="yes"/>
+      <point x="451" y="457"/>
+      <point x="505" y="429"/>
+      <point x="505" y="376" type="curve" smooth="yes"/>
+      <point x="505" y="71" type="line"/>
+      <point x="505" y="15"/>
+      <point x="542" y="-14"/>
+      <point x="611" y="-14" type="curve"/>
+      <point x="671" y="-14"/>
+      <point x="724" y="7"/>
+      <point x="766" y="47" type="curve"/>
+      <point x="735" y="106" type="line"/>
+      <point x="699" y="83"/>
+      <point x="665" y="70"/>
+      <point x="638" y="70" type="curve"/>
+      <point x="609" y="70"/>
+      <point x="595" y="85"/>
+    </contour>
+    <contour>
+      <point x="282" y="-14" type="curve" smooth="yes"/>
+      <point x="375" y="-14"/>
+      <point x="455" y="21"/>
+      <point x="519" y="92" type="curve"/>
+      <point x="518" y="171" type="line"/>
+      <point x="470" y="102"/>
+      <point x="395" y="68"/>
+      <point x="307" y="68" type="curve" smooth="yes"/>
+      <point x="241" y="68"/>
+      <point x="207" y="90"/>
+      <point x="207" y="132" type="curve" smooth="yes"/>
+      <point x="207" y="246"/>
+      <point x="446" y="209"/>
+      <point x="517" y="277" type="curve"/>
+      <point x="506" y="359" type="line"/>
+      <point x="505" y="255"/>
+      <point x="110" y="339"/>
+      <point x="110" y="124" type="curve" smooth="yes"/>
+      <point x="110" y="38"/>
+      <point x="175" y="-14"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>5</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>11 Aug 24 at 10:41 (layer #11)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>11 Aug 24 at 10:41 (layer #9)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>11 Aug 24 at 10:41 (layer #12)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>11 Aug 24 at 10:41 (layer #10)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>11 Aug 24 at 10:41 (layer #15)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>11 Aug 24 at 10:41 (layer #13)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>11 Aug 24 at 10:41 (layer #16)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Black (layer #2)</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Light (layer #0)</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Black (layer #3)</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Light (layer #1)</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiExpanded Light/4 May 23 at 10:07 (layer #8)</key>
+        <string>4 May 23 at 10:07 (layer #8)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Black (layer #6)</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Light (layer #4)</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Black (layer #7)</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Light (layer #5)</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>11 Aug 24 at 10:41 (layer #14)</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>1200pt SemiCondensed Black</key>
+        <string>11 Aug 24 at 10:41</string>
+        <key>1200pt SemiCondensed Light</key>
+        <string>11 Aug 24 at 10:41</string>
+        <key>1200pt SemiExpanded Black</key>
+        <string>11 Aug 24 at 10:41</string>
+        <key>1200pt SemiExpanded Light</key>
+        <string>11 Aug 24 at 10:41</string>
+        <key>5pt SemiCondensed Black</key>
+        <string>11 Aug 24 at 10:41</string>
+        <key>5pt SemiCondensed Light</key>
+        <string>11 Aug 24 at 10:41</string>
+        <key>5pt SemiExpanded Black</key>
+        <string>11 Aug 24 at 10:41</string>
+        <key>5pt SemiExpanded Light</key>
+        <string>11 Aug 24 at 10:41</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustroke" format="2">
+  <advance width="792"/>
+  <unicode hex="A7B8"/>
+  <outline>
+    <component base="U"/>
+    <component base="_UC-U-stroke" xOffset="114"/>
+  </outline>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yat-cy.smcp" format="2">
+  <advance width="940"/>
+  <anchor x="940" y="0" name="#exit"/>
+  <anchor x="304" y="0" name="^entry"/>
+  <outline>
+    <contour>
+      <point x="390" y="3" type="curve"/>
+      <point x="400" y="3" type="line"/>
+      <point x="476" y="3"/>
+      <point x="508" y="0"/>
+      <point x="554" y="0" type="curve" smooth="yes"/>
+      <point x="791" y="0"/>
+      <point x="902" y="53"/>
+      <point x="902" y="166" type="curve" smooth="yes"/>
+      <point x="902" y="270"/>
+      <point x="808" y="317"/>
+      <point x="601" y="317" type="curve" smooth="yes"/>
+      <point x="562" y="317"/>
+      <point x="531" y="315"/>
+      <point x="484" y="310" type="curve"/>
+      <point x="484" y="309" type="line"/>
+      <point x="500" y="311"/>
+      <point x="518" y="312"/>
+      <point x="536" y="312" type="curve" smooth="yes"/>
+      <point x="645" y="312"/>
+      <point x="702" y="260"/>
+      <point x="702" y="159" type="curve" smooth="yes"/>
+      <point x="702" y="63"/>
+      <point x="650" y="1"/>
+      <point x="568" y="1" type="curve" smooth="yes"/>
+      <point x="557" y="1" type="line"/>
+      <point x="506" y="1"/>
+      <point x="497" y="15"/>
+      <point x="497" y="91" type="curve"/>
+      <point x="497" y="250" type="line"/>
+      <point x="304" y="250" type="line"/>
+      <point x="304" y="87" type="line"/>
+      <point x="304" y="23"/>
+      <point x="292" y="13"/>
+      <point x="236" y="4" type="curve"/>
+      <point x="214" y="1" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="250" y="1"/>
+      <point x="311" y="3"/>
+    </contour>
+    <component base="_SMCP-yat-cy-bar"/>
+    <component base="_SMCP-softsign-cy-stem" xOffset="174"/>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_L-double-bar" format="2">
+  <advance width="481"/>
+  <anchor x="242" y="269" name="_center"/>
+  <outline>
+    <contour>
+      <point x="30" y="303" type="line"/>
+      <point x="451" y="303" type="line"/>
+      <point x="451" y="373" type="line"/>
+      <point x="30" y="373" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="163" type="line"/>
+      <point x="451" y="163" type="line"/>
+      <point x="451" y="233" type="line"/>
+      <point x="30" y="233" type="line"/>
+    </contour>
+  </outline>
+</glyph>

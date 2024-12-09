@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i.smcp" format="2">
+  <advance width="335"/>
+  <anchor x="39" y="0" name="#entry"/>
+  <anchor x="295" y="0" name="^exit"/>
+  <anchor x="168" y="0" name="bottom"/>
+  <anchor x="167" y="304" name="center"/>
+  <anchor x="252" y="0" name="ogonek"/>
+  <anchor x="168" y="608" name="top"/>
+  <anchor x="168" y="588" name="top_low_1"/>
+  <anchor x="168" y="568" name="top_low_2"/>
+  <anchor x="168" y="548" name="top_low_3"/>
+  <anchor x="168" y="528" name="top_low_4"/>
+  <anchor x="168" y="508" name="top_low_5"/>
+  <outline>
+    <contour>
+      <point x="157" y="3" type="curve"/>
+      <point x="168" y="3" type="line"/>
+      <point x="178" y="3" type="line"/>
+      <point x="231" y="3"/>
+      <point x="271" y="1"/>
+      <point x="295" y="0" type="curve"/>
+      <point x="295" y="1" type="line"/>
+      <point x="279" y="3" type="line"/>
+      <point x="223" y="10"/>
+      <point x="214" y="22"/>
+      <point x="214" y="87" type="curve"/>
+      <point x="214" y="521" type="line"/>
+      <point x="214" y="586"/>
+      <point x="223" y="598"/>
+      <point x="279" y="605" type="curve"/>
+      <point x="295" y="607" type="line"/>
+      <point x="295" y="608" type="line"/>
+      <point x="271" y="607"/>
+      <point x="231" y="605"/>
+      <point x="178" y="605" type="curve"/>
+      <point x="168" y="605" type="line"/>
+      <point x="157" y="605" type="line"/>
+      <point x="104" y="605"/>
+      <point x="64" y="607"/>
+      <point x="40" y="608" type="curve"/>
+      <point x="40" y="607" type="line"/>
+      <point x="56" y="605" type="line"/>
+      <point x="112" y="598"/>
+      <point x="121" y="586"/>
+      <point x="121" y="521" type="curve"/>
+      <point x="121" y="87" type="line"/>
+      <point x="121" y="22"/>
+      <point x="112" y="10"/>
+      <point x="56" y="3" type="curve"/>
+      <point x="40" y="1" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="64" y="1"/>
+      <point x="104" y="3"/>
+    </contour>
+  </outline>
+</glyph>

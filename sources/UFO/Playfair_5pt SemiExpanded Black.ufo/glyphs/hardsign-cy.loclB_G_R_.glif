@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hardsign-cy.loclBGR" format="2">
+  <advance width="902"/>
+  <outline>
+    <component base="_LC-hardsign-cy-upper" xOffset="-3"/>
+    <component base="_LC-softsign-cy-loclBGR-bowl" xOffset="261"/>
+  </outline>
+</glyph>

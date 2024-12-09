@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-bottom-stem-descender" format="2">
+  <advance width="455"/>
+  <anchor x="196" y="0" name="^entry"/>
+  <anchor x="196" y="250" name="_stem"/>
+  <outline>
+    <contour>
+      <point x="232" y="-228" type="curve"/>
+      <point x="243" y="-228" type="line"/>
+      <point x="253" y="-228" type="line"/>
+      <point x="313" y="-228"/>
+      <point x="396" y="-229"/>
+      <point x="455" y="-231" type="curve"/>
+      <point x="455" y="-161" type="line"/>
+      <point x="389" y="-155" type="line"/>
+      <point x="306" y="-147"/>
+      <point x="289" y="-133"/>
+      <point x="289" y="-75" type="curve"/>
+      <point x="289" y="250" type="line"/>
+      <point x="196" y="250" type="line"/>
+      <point x="196" y="-75" type="line"/>
+      <point x="196" y="-133"/>
+      <point x="179" y="-147"/>
+      <point x="96" y="-155" type="curve"/>
+      <point x="30" y="-161" type="line"/>
+      <point x="30" y="-231" type="line"/>
+      <point x="89" y="-229"/>
+      <point x="172" y="-228"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>4</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

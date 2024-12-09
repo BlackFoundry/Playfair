@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iota-latin" format="2">
+  <advance width="425"/>
+  <unicode hex="0196"/>
+  <outline>
+    <component base="_UC-Iota-upper"/>
+    <component base="_UC-Iota-latin-outstroke" xOffset="71"/>
+  </outline>
+</glyph>

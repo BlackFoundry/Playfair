@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nhookleft.cv01" format="2">
+  <advance width="727"/>
+  <anchor x="506" y="256" name="#entry"/>
+  <anchor x="596" y="256" name="#exit"/>
+  <anchor x="222" y="0" name="%entry"/>
+  <anchor x="506" y="0" name="%exit"/>
+  <anchor x="375" y="0" name="^entry"/>
+  <anchor x="711" y="0" name="^exit"/>
+  <anchor x="376" y="0" name="bottom"/>
+  <anchor x="221" y="256" name="reversedExit"/>
+  <anchor x="506" y="256" name="stem"/>
+  <anchor x="364" y="512" name="top"/>
+  <anchor x="221" y="514" name="topright"/>
+  <outline>
+    <contour>
+      <point x="131" y="256" type="line"/>
+      <point x="221" y="256" type="line"/>
+      <point x="221" y="514" type="line"/>
+      <point x="221" y="526" type="line"/>
+      <point x="189" y="516"/>
+      <point x="147" y="512"/>
+      <point x="100" y="512" type="curve"/>
+      <point x="82" y="512"/>
+      <point x="71" y="512"/>
+      <point x="36" y="514" type="curve"/>
+      <point x="36" y="513" type="line"/>
+      <point x="47" y="512" type="line"/>
+      <point x="111" y="506"/>
+      <point x="131" y="486"/>
+      <point x="131" y="431" type="curve"/>
+    </contour>
+    <contour>
+      <point x="506" y="256" type="line"/>
+      <point x="596" y="256" type="line"/>
+      <point x="596" y="330" type="line" smooth="yes"/>
+      <point x="596" y="456"/>
+      <point x="530" y="529"/>
+      <point x="416" y="529" type="curve" smooth="yes"/>
+      <point x="314" y="529"/>
+      <point x="241" y="471"/>
+      <point x="191" y="351" type="curve"/>
+      <point x="192" y="350" type="line"/>
+      <point x="242" y="463"/>
+      <point x="302" y="514"/>
+      <point x="386" y="514" type="curve" smooth="yes"/>
+      <point x="467" y="514"/>
+      <point x="506" y="468"/>
+      <point x="506" y="373" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="551" y="3" type="curve"/>
+      <point x="551" y="3" type="line"/>
+      <point x="551" y="3" type="line"/>
+      <point x="596" y="3"/>
+      <point x="639" y="1"/>
+      <point x="691" y="0" type="curve"/>
+      <point x="691" y="1" type="line"/>
+      <point x="671" y="2" type="line"/>
+      <point x="618" y="5"/>
+      <point x="596" y="23"/>
+      <point x="596" y="73" type="curve"/>
+      <point x="596" y="256" type="line"/>
+      <point x="506" y="256" type="line"/>
+      <point x="506" y="73" type="line"/>
+      <point x="506" y="23"/>
+      <point x="484" y="5"/>
+      <point x="431" y="2" type="curve"/>
+      <point x="411" y="1" type="line"/>
+      <point x="411" y="0" type="line"/>
+      <point x="463" y="1"/>
+      <point x="506" y="3"/>
+    </contour>
+    <component base="_LC-descender-left-hook" xOffset="-185"/>
+  </outline>
+</glyph>

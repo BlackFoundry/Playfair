@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="istrokemod" format="2">
+  <advance width="352"/>
+  <unicode hex="1DA4"/>
+  <outline>
+    <component base="imod"/>
+    <component base="_LC-imod-stroke" xOffset="-108" yOffset="269"/>
+  </outline>
+</glyph>

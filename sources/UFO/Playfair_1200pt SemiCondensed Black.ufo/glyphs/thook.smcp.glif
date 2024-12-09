@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thook.smcp" format="2">
+  <advance width="689"/>
+  <anchor x="439" y="0" name="#exit"/>
+  <anchor x="343" y="0" name="bottom"/>
+  <anchor x="343" y="608" name="top"/>
+  <outline>
+    <contour>
+      <point x="332" y="3" type="curve"/>
+      <point x="342" y="3" type="line"/>
+      <point x="353" y="3" type="line"/>
+      <point x="432" y="3"/>
+      <point x="491" y="1"/>
+      <point x="523" y="0" type="curve"/>
+      <point x="523" y="1" type="line"/>
+      <point x="500" y="3" type="line"/>
+      <point x="449" y="10"/>
+      <point x="439" y="25"/>
+      <point x="439" y="87" type="curve"/>
+      <point x="439" y="250" type="line"/>
+      <point x="246" y="250" type="line"/>
+      <point x="246" y="87" type="line"/>
+      <point x="246" y="25"/>
+      <point x="236" y="10"/>
+      <point x="185" y="4" type="curve"/>
+      <point x="162" y="1" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="194" y="1"/>
+      <point x="252" y="3"/>
+    </contour>
+    <component base="_SMCP-T-hook-top-stroke"/>
+    <component base="_UC-T-upper-stroke.smcp" xOffset="216"/>
+  </outline>
+</glyph>

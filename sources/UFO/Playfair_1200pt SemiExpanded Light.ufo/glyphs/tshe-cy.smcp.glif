@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tshe-cy.smcp" format="2">
+  <advance width="957"/>
+  <anchor x="413" y="0" name="#exit"/>
+  <anchor x="367" y="0" name="bottom"/>
+  <anchor x="367" y="604" name="topstroke"/>
+  <outline>
+    <contour>
+      <point x="279" y="604" type="curve"/>
+      <point x="455" y="604" type="line"/>
+      <point x="579" y="604"/>
+      <point x="636" y="582"/>
+      <point x="685" y="424" type="curve"/>
+      <point x="686" y="424" type="line"/>
+      <point x="679" y="494"/>
+      <point x="674" y="555"/>
+      <point x="677" y="608" type="curve"/>
+      <point x="621" y="606"/>
+      <point x="554" y="605"/>
+      <point x="456" y="605" type="curve"/>
+      <point x="278" y="605" type="line"/>
+      <point x="180" y="605"/>
+      <point x="113" y="606"/>
+      <point x="56" y="608" type="curve"/>
+      <point x="59" y="541"/>
+      <point x="53" y="465"/>
+      <point x="40" y="378" type="curve"/>
+      <point x="41" y="378" type="line"/>
+      <point x="93" y="576"/>
+      <point x="151" y="604"/>
+    </contour>
+    <contour>
+      <point x="360" y="3" type="curve"/>
+      <point x="367" y="3" type="line"/>
+      <point x="373" y="3" type="line"/>
+      <point x="444" y="3"/>
+      <point x="494" y="1"/>
+      <point x="533" y="0" type="curve"/>
+      <point x="533" y="1" type="line"/>
+      <point x="492" y="5" type="line"/>
+      <point x="426" y="12"/>
+      <point x="413" y="25"/>
+      <point x="413" y="87" type="curve"/>
+      <point x="413" y="250" type="line"/>
+      <point x="320" y="250" type="line"/>
+      <point x="320" y="87" type="line"/>
+      <point x="320" y="25"/>
+      <point x="307" y="12"/>
+      <point x="241" y="5" type="curve"/>
+      <point x="200" y="1" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="239" y="1"/>
+      <point x="289" y="3"/>
+    </contour>
+    <component base="_UC-T-upper-stroke.smcp" xOffset="290"/>
+    <component base="_SMCP-che-cy-curve" xScale="-1" yScale="-1" xOffset="957" yOffset="608"/>
+  </outline>
+</glyph>

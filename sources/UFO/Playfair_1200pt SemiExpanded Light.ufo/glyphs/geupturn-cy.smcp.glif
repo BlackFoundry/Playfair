@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="geupturn-cy.smcp" format="2">
+  <advance width="635"/>
+  <outline>
+    <component base="_SMCP-gheupturn-cy-upper"/>
+    <component base="_SMCP-bottom-stem-normal-wide"/>
+  </outline>
+</glyph>

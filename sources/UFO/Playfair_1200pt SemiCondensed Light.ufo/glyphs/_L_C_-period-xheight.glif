@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-period-xheight" format="2">
+  <advance width="252"/>
+  <anchor x="126" y="512" name="_center"/>
+  <anchor x="126" y="512" name="center"/>
+  <outline>
+    <component base="period" yOffset="423"/>
+  </outline>
+</glyph>

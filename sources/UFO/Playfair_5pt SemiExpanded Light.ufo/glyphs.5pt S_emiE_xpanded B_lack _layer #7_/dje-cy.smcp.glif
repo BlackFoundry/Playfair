@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dje-cy.smcp" format="2">
+  <advance width="1117"/>
+  <anchor x="529" y="0" name="#exit"/>
+  <anchor x="433" y="0" name="bottom"/>
+  <anchor x="433" y="565" name="topstroke"/>
+  <outline>
+    <contour>
+      <point x="295" y="535" type="curve"/>
+      <point x="552" y="535" type="line"/>
+      <point x="661" y="535"/>
+      <point x="707" y="506"/>
+      <point x="742" y="408" type="curve"/>
+      <point x="815" y="408" type="line"/>
+      <point x="808" y="483"/>
+      <point x="806" y="546"/>
+      <point x="807" y="608" type="curve"/>
+      <point x="749" y="606"/>
+      <point x="671" y="605"/>
+      <point x="555" y="605" type="curve"/>
+      <point x="323" y="605" type="line"/>
+      <point x="201" y="605"/>
+      <point x="118" y="606"/>
+      <point x="58" y="608" type="curve"/>
+      <point x="59" y="521"/>
+      <point x="55" y="433"/>
+      <point x="42" y="328" type="curve"/>
+      <point x="115" y="328" type="line"/>
+      <point x="153" y="468"/>
+      <point x="206" y="535"/>
+    </contour>
+    <contour>
+      <point x="425" y="3" type="curve"/>
+      <point x="432" y="3" type="line"/>
+      <point x="440" y="3" type="line"/>
+      <point x="506" y="3"/>
+      <point x="633" y="2"/>
+      <point x="695" y="0" type="curve"/>
+      <point x="695" y="70" type="line"/>
+      <point x="602" y="78" type="line"/>
+      <point x="541" y="83"/>
+      <point x="529" y="97"/>
+      <point x="529" y="156" type="curve"/>
+      <point x="529" y="250" type="line"/>
+      <point x="336" y="250" type="line"/>
+      <point x="336" y="156" type="line"/>
+      <point x="336" y="97"/>
+      <point x="324" y="84"/>
+      <point x="263" y="78" type="curve"/>
+      <point x="170" y="70" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="232" y="2"/>
+      <point x="359" y="3"/>
+    </contour>
+    <component base="_UC-T-upper-stroke.smcp" xOffset="306"/>
+    <component base="_SMCP-dje-cy-curve" xOffset="483"/>
+  </outline>
+</glyph>

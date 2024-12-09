@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-descender-left-hook" format="2">
+  <advance width="504"/>
+  <anchor x="316" y="256" name="#entry"/>
+  <anchor x="316" y="256" name="_stem"/>
+  <anchor x="240" y="-231" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="406" y="-41" type="curve"/>
+      <point x="406" y="256" type="line"/>
+      <point x="316" y="256" type="line"/>
+      <point x="316" y="-79" type="line"/>
+      <point x="316" y="-188"/>
+      <point x="284" y="-240"/>
+      <point x="219" y="-240" type="curve"/>
+      <point x="196" y="-240"/>
+      <point x="184" y="-232"/>
+      <point x="184" y="-217" type="curve"/>
+      <point x="184" y="-198"/>
+      <point x="217" y="-170"/>
+      <point x="217" y="-140" type="curve"/>
+      <point x="217" y="-117"/>
+      <point x="197" y="-100"/>
+      <point x="166" y="-100" type="curve"/>
+      <point x="129" y="-100"/>
+      <point x="103" y="-123"/>
+      <point x="103" y="-156" type="curve"/>
+      <point x="103" y="-208"/>
+      <point x="157" y="-242"/>
+      <point x="238" y="-242" type="curve"/>
+      <point x="329" y="-242"/>
+      <point x="406" y="-191"/>
+    </contour>
+  </outline>
+</glyph>

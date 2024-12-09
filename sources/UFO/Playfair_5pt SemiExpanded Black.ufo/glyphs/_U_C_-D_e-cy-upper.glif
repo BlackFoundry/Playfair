@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-De-cy-upper" format="2">
+  <advance width="969"/>
+  <anchor x="781" y="0" name="#exit"/>
+  <anchor x="578" y="0" name="_baseline"/>
+  <outline>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="311" y="0"/>
+      <point x="321" y="335"/>
+      <point x="349" y="645" type="curve"/>
+      <point x="334" y="638" type="line"/>
+      <point x="591" y="638" type="line"/>
+      <point x="578" y="652" type="line"/>
+      <point x="578" y="40" type="line"/>
+      <point x="781" y="0" type="line"/>
+      <point x="781" y="552" type="line"/>
+      <point x="781" y="615"/>
+      <point x="792" y="626"/>
+      <point x="864" y="633" type="curve"/>
+      <point x="919" y="638" type="line"/>
+      <point x="919" y="708" type="line"/>
+      <point x="867" y="706"/>
+      <point x="749" y="705"/>
+      <point x="690" y="705" type="curve"/>
+      <point x="680" y="705" type="line"/>
+      <point x="373" y="705" type="line"/>
+      <point x="363" y="705" type="line"/>
+      <point x="304" y="705"/>
+      <point x="186" y="706"/>
+      <point x="134" y="708" type="curve"/>
+      <point x="134" y="638" type="line"/>
+      <point x="189" y="633" type="line"/>
+      <point x="261" y="626"/>
+      <point x="271" y="615"/>
+      <point x="268" y="552" type="curve"/>
+      <point x="248" y="262"/>
+      <point x="214" y="70"/>
+      <point x="66" y="70" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

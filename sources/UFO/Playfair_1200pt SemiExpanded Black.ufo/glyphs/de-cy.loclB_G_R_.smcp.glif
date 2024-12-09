@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="de-cy.loclBGR.smcp" format="2">
+  <advance width="924"/>
+  <outline>
+    <component base="_UC-De-cy-descender"/>
+    <component base="_SMCP-De-cy-upper.loclBGR" xOffset="78"/>
+    <component base="_UC-descender-cy" xOffset="563"/>
+  </outline>
+</glyph>

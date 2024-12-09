@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_t-upper-body" format="2">
+  <advance width="425"/>
+  <anchor x="125" y="256" name="#exit"/>
+  <anchor x="171" y="512" name="center"/>
+  <anchor x="303" y="512" name="right"/>
+  <anchor x="125" y="256" name="stem"/>
+  <anchor x="4" y="327" name="tbar"/>
+  <anchor x="181" y="771" name="top"/>
+  <anchor x="274" y="771" name="topright"/>
+  <outline>
+    <contour>
+      <point x="125" y="256" type="line"/>
+      <point x="215" y="256" type="line"/>
+      <point x="215" y="681" type="line"/>
+      <point x="194" y="674"/>
+      <point x="166" y="670"/>
+      <point x="125" y="668" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

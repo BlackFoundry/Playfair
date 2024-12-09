@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ya-cy.loclBGR.alt" format="2">
+  <advance width="869"/>
+  <outline>
+    <contour>
+      <point x="531" y="0" type="line"/>
+      <point x="564" y="2"/>
+      <point x="596" y="3"/>
+      <point x="631" y="3" type="curve" smooth="yes"/>
+      <point x="675" y="3"/>
+      <point x="739" y="2"/>
+      <point x="784" y="0" type="curve"/>
+      <point x="784" y="71" type="line"/>
+      <point x="664" y="71"/>
+      <point x="621" y="90"/>
+      <point x="621" y="143" type="curve" smooth="yes"/>
+      <point x="621" y="348" type="line" smooth="yes"/>
+      <point x="621" y="471"/>
+      <point x="545" y="529"/>
+      <point x="381" y="529" type="curve" smooth="yes"/>
+      <point x="216" y="529"/>
+      <point x="128" y="467"/>
+      <point x="128" y="351" type="curve" smooth="yes"/>
+      <point x="128" y="240"/>
+      <point x="209" y="189"/>
+      <point x="385" y="189" type="curve" smooth="yes"/>
+      <point x="440" y="189"/>
+      <point x="511" y="194"/>
+      <point x="566" y="203" type="curve"/>
+      <point x="565" y="271" type="line"/>
+      <point x="509" y="263"/>
+      <point x="452" y="258"/>
+      <point x="403" y="258" type="curve" smooth="yes"/>
+      <point x="277" y="258"/>
+      <point x="225" y="285"/>
+      <point x="225" y="352" type="curve" smooth="yes"/>
+      <point x="225" y="421"/>
+      <point x="280" y="458"/>
+      <point x="383" y="458" type="curve" smooth="yes"/>
+      <point x="483" y="458"/>
+      <point x="531" y="423"/>
+      <point x="531" y="348" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="90" y="2"/>
+      <point x="136" y="3"/>
+      <point x="191" y="3" type="curve" smooth="yes"/>
+      <point x="283" y="3"/>
+      <point x="346" y="2"/>
+      <point x="388" y="0" type="curve"/>
+      <point x="388" y="71" type="line"/>
+      <point x="260" y="71"/>
+      <point x="245" y="97"/>
+      <point x="283" y="140" type="curve" smooth="yes"/>
+      <point x="364" y="232" type="line"/>
+      <point x="301" y="257" type="line"/>
+      <point x="209" y="153" type="line" smooth="yes"/>
+      <point x="152" y="88"/>
+      <point x="116" y="71"/>
+      <point x="40" y="71" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>0</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>Needlepoint Black SemiCondensed [oz‹410] 26 Apr 23 at 09:45 (layer #27)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>Needlepoint SemiCondensed [oz‹410] 26 Apr 23 at 09:45 (layer #25)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>Needlepoint Black SemiExpanded [oz‹410] 26 Apr 23 at 09:45 (layer #28)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>Needlepoint SemiExpanded [oz‹410] 26 Apr 23 at 09:45 (layer #26)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>Agate Black SemiCondensed [oz‹410] 26 Apr 23 at 09:45 (layer #31)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>Agate SemiCondensed [oz‹410] 26 Apr 23 at 09:45 (layer #29)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>Agate Black SemiExpanded [oz‹410] 26 Apr 23 at 09:45 (layer #32)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Black (layer #2)</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Light (layer #0)</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Black (layer #3)</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Light (layer #1)</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Black (layer #6)</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Light (layer #4)</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Black (layer #7)</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Light (layer #5)</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+        <key>Playfair_5pt SemiExpanded Light/Ital k curved leg (layer #17)</key>
+        <string>Ital k curved leg (layer #17)</string>
+        <key>Playfair_5pt SemiExpanded Light/Ital k curved leg (layer #18)</key>
+        <string>Ital k curved leg (layer #18)</string>
+        <key>Playfair_5pt SemiExpanded Light/Ital k curved leg (layer #19)</key>
+        <string>Ital k curved leg (layer #19)</string>
+        <key>Playfair_5pt SemiExpanded Light/Ital k curved leg (layer #20)</key>
+        <string>Ital k curved leg (layer #20)</string>
+        <key>Playfair_5pt SemiExpanded Light/Ital k curved leg (layer #21)</key>
+        <string>Ital k curved leg (layer #21)</string>
+        <key>Playfair_5pt SemiExpanded Light/Ital k curved leg (layer #22)</key>
+        <string>Ital k curved leg (layer #22)</string>
+        <key>Playfair_5pt SemiExpanded Light/Ital k curved leg (layer #23)</key>
+        <string>Ital k curved leg (layer #23)</string>
+        <key>Playfair_5pt SemiExpanded Light/Ital k curved leg (layer #24)</key>
+        <string>Ital k curved leg (layer #24)</string>
+        <key>Playfair_5pt SemiExpanded Light/Ital k curved leg [oz&lt;410] (layer #10)</key>
+        <string>Ital k curved leg [oz&lt;410] (layer #10)</string>
+        <key>Playfair_5pt SemiExpanded Light/Ital k curved leg [oz&lt;410] (layer #11)</key>
+        <string>Ital k curved leg [oz&lt;410] (layer #11)</string>
+        <key>Playfair_5pt SemiExpanded Light/Ital k curved leg [oz&lt;410] (layer #12)</key>
+        <string>Ital k curved leg [oz&lt;410] (layer #12)</string>
+        <key>Playfair_5pt SemiExpanded Light/Ital k curved leg [oz&lt;410] (layer #13)</key>
+        <string>Ital k curved leg [oz&lt;410] (layer #13)</string>
+        <key>Playfair_5pt SemiExpanded Light/Ital k curved leg [oz&lt;410] (layer #14)</key>
+        <string>Ital k curved leg [oz&lt;410] (layer #14)</string>
+        <key>Playfair_5pt SemiExpanded Light/Ital k curved leg [oz&lt;410] (layer #15)</key>
+        <string>Ital k curved leg [oz&lt;410] (layer #15)</string>
+        <key>Playfair_5pt SemiExpanded Light/Ital k curved leg [oz&lt;410] (layer #8)</key>
+        <string>Ital k curved leg [oz&lt;410] (layer #8)</string>
+        <key>Playfair_5pt SemiExpanded Light/Ital k curved leg [oz&lt;410] (layer #9)</key>
+        <string>Ital k curved leg [oz&lt;410] (layer #9)</string>
+        <key>Playfair_5pt SemiExpanded Light/Serif leg (layer #16)</key>
+        <string>Serif leg (layer #16)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>Agate SemiExpanded [oz‹410] 26 Apr 23 at 09:45 (layer #30)</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>1200pt SemiCondensed Black</key>
+        <string>Needlepoint Black SemiCondensed [oz‹410] 26 Apr 23 at 09:45</string>
+        <key>1200pt SemiCondensed Light</key>
+        <string>Needlepoint SemiCondensed [oz‹410] 26 Apr 23 at 09:45</string>
+        <key>1200pt SemiExpanded Black</key>
+        <string>Needlepoint Black SemiExpanded [oz‹410] 26 Apr 23 at 09:45</string>
+        <key>1200pt SemiExpanded Light</key>
+        <string>Needlepoint SemiExpanded [oz‹410] 26 Apr 23 at 09:45</string>
+        <key>5pt SemiCondensed Black</key>
+        <string>Agate Black SemiCondensed [oz‹410] 26 Apr 23 at 09:45</string>
+        <key>5pt SemiCondensed Light</key>
+        <string>Agate SemiCondensed [oz‹410] 26 Apr 23 at 09:45</string>
+        <key>5pt SemiExpanded Black</key>
+        <string>Agate Black SemiExpanded [oz‹410] 26 Apr 23 at 09:45</string>
+        <key>5pt SemiExpanded Light</key>
+        <string>Agate SemiExpanded [oz‹410] 26 Apr 23 at 09:45</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

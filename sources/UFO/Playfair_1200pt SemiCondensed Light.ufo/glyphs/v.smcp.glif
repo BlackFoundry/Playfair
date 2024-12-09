@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v.smcp" format="2">
+  <advance width="669"/>
+  <anchor x="354" y="0" name="bottom"/>
+  <anchor x="369" y="608" name="top"/>
+  <anchor x="369" y="588" name="top_low_1"/>
+  <anchor x="369" y="568" name="top_low_2"/>
+  <anchor x="369" y="548" name="top_low_3"/>
+  <anchor x="369" y="528" name="top_low_4"/>
+  <anchor x="369" y="508" name="top_low_5"/>
+  <outline>
+    <contour>
+      <point x="343" y="-15" type="line"/>
+      <point x="344" y="-15" type="line"/>
+      <point x="559" y="475" type="line"/>
+      <point x="597" y="564"/>
+      <point x="630" y="595"/>
+      <point x="680" y="605" type="curve"/>
+      <point x="690" y="607" type="line"/>
+      <point x="690" y="608" type="line"/>
+      <point x="673" y="607"/>
+      <point x="646" y="605"/>
+      <point x="605" y="605" type="curve"/>
+      <point x="568" y="605"/>
+      <point x="507" y="606"/>
+      <point x="465" y="608" type="curve"/>
+      <point x="465" y="607" type="line"/>
+      <point x="475" y="606" type="line"/>
+      <point x="563" y="597"/>
+      <point x="588" y="549"/>
+      <point x="552" y="465" type="curve"/>
+      <point x="390" y="93" type="line"/>
+      <point x="392" y="94" type="line"/>
+      <point x="198" y="521" type="line"/>
+      <point x="173" y="586"/>
+      <point x="182" y="598"/>
+      <point x="238" y="605" type="curve"/>
+      <point x="254" y="607" type="line"/>
+      <point x="254" y="608" type="line"/>
+      <point x="225" y="607"/>
+      <point x="178" y="605"/>
+      <point x="114" y="605" type="curve"/>
+      <point x="112" y="605" type="line"/>
+      <point x="106" y="605" type="line"/>
+      <point x="61" y="605"/>
+      <point x="27" y="607"/>
+      <point x="5" y="608" type="curve"/>
+      <point x="5" y="607" type="line"/>
+      <point x="16" y="606" type="line"/>
+      <point x="55" y="602"/>
+      <point x="71" y="586"/>
+      <point x="96" y="531" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

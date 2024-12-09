@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_n-1st-stroke-hook" format="2">
+  <advance width="448"/>
+  <anchor x="308" y="256" name="#exit"/>
+  <anchor x="218" y="256" name="stem"/>
+  <outline>
+    <contour>
+      <point x="218" y="256" type="line"/>
+      <point x="308" y="256" type="line"/>
+      <point x="308" y="514" type="line"/>
+      <point x="308" y="526" type="line"/>
+      <point x="264" y="517"/>
+      <point x="200" y="512"/>
+      <point x="136" y="512" type="curve"/>
+      <point x="102" y="512"/>
+      <point x="74" y="513"/>
+      <point x="55" y="514" type="curve"/>
+      <point x="55" y="444" type="line"/>
+      <point x="116" y="438" type="line"/>
+      <point x="199" y="430"/>
+      <point x="218" y="408"/>
+      <point x="218" y="327" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

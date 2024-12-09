@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_B-stroke" format="2">
+  <advance width="444"/>
+  <anchor x="222" y="369" name="_center"/>
+  <outline>
+    <contour>
+      <point x="46" y="201" type="line"/>
+      <point x="407" y="201" type="line"/>
+      <point x="407" y="202" type="line"/>
+      <point x="46" y="202" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-u-bowl" format="2">
+  <advance width="556"/>
+  <anchor x="516" y="260" name="#exit"/>
+  <anchor x="404" y="0" name="bottom"/>
+  <anchor x="387" y="259" name="center"/>
+  <anchor x="371" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="325" y="-14" type="curve" smooth="yes"/>
+      <point x="414" y="-14"/>
+      <point x="486" y="34"/>
+      <point x="524" y="90" type="curve"/>
+      <point x="526" y="170" type="line"/>
+      <point x="497" y="122"/>
+      <point x="455" y="98"/>
+      <point x="406" y="98" type="curve" smooth="yes"/>
+      <point x="338" y="98"/>
+      <point x="300" y="140"/>
+      <point x="300" y="213" type="curve" smooth="yes"/>
+      <point x="300" y="519" type="line"/>
+      <point x="300" y="530" type="line"/>
+      <point x="252" y="522"/>
+      <point x="196" y="517"/>
+      <point x="120" y="517" type="curve"/>
+      <point x="66" y="517"/>
+      <point x="46" y="518"/>
+      <point x="16" y="519" type="curve"/>
+      <point x="16" y="449" type="line"/>
+      <point x="48" y="446" type="line"/>
+      <point x="103" y="441"/>
+      <point x="120" y="420"/>
+      <point x="120" y="353" type="curve"/>
+      <point x="120" y="195" type="line" smooth="yes"/>
+      <point x="120" y="57"/>
+      <point x="192" y="-14"/>
+    </contour>
+  </outline>
+</glyph>

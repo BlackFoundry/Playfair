@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-iota-upper" format="2">
+  <advance width="411"/>
+  <anchor x="188" y="0" name="^exit"/>
+  <anchor x="289" y="608" name="top"/>
+  <outline>
+    <contour>
+      <point x="188" y="250" type="line"/>
+      <point x="381" y="250" type="line"/>
+      <point x="381" y="608" type="line"/>
+      <point x="381" y="538" type="line"/>
+      <point x="381" y="618" type="line"/>
+      <point x="311" y="609"/>
+      <point x="241" y="605"/>
+      <point x="146" y="605" type="curve"/>
+      <point x="103" y="605"/>
+      <point x="80" y="606"/>
+      <point x="50" y="607" type="curve"/>
+      <point x="50" y="537" type="line"/>
+      <point x="105" y="532" type="line"/>
+      <point x="177" y="525"/>
+      <point x="188" y="514"/>
+      <point x="188" y="451" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon.figures.tf.ss14" format="2">
+  <advance width="715"/>
+  <outline>
+    <component base="colon.figures.lf" xOffset="137"/>
+  </outline>
+</glyph>

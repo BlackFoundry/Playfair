@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a.circled" format="2">
+  <advance width="957"/>
+  <unicode hex="24D0"/>
+  <outline>
+    <component base="_LC-baseline-outstroke-circle"/>
+    <component base="_LC-a-corpus" xOffset="165"/>
+  </outline>
+</glyph>

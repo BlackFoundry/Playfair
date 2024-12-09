@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflexacute.smcp" format="2">
+  <advance width="620"/>
+  <outline>
+    <component base="e.smcp"/>
+    <component base="circumflexcomb.case.viet.narrow" xOffset="112" yOffset="-100"/>
+    <component base="acutecomb.case.viet" xOffset="366" yOffset="20"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gamma-latin" format="2">
+  <advance width="659"/>
+  <unicode hex="0263"/>
+  <outline>
+    <component base="v"/>
+    <component base="_LC.gamma-latin-descender" xOffset="227"/>
+  </outline>
+</glyph>

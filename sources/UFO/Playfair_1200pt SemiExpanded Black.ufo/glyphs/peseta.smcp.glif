@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta.smcp" format="2">
+  <advance width="953"/>
+  <outline>
+    <component base="p.smcp" xOffset="85"/>
+    <component base="_peseta-bar" yOffset="-24"/>
+  </outline>
+</glyph>

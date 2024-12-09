@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaboverightcomb.smcp" format="2">
+  <advance width="280"/>
+  <anchor x="140" y="608" name="_topright"/>
+  <outline>
+    <component base="dotaccentcomb.smcp"/>
+  </outline>
+</glyph>

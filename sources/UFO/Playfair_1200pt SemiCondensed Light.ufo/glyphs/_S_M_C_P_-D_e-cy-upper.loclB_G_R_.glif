@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-De-cy-upper.loclBGR" format="2">
+  <advance width="616"/>
+  <anchor x="559" y="0" name="#exit"/>
+  <anchor x="363" y="0" name="_baseline"/>
+  <outline>
+    <contour>
+      <point x="30" y="-2" type="line"/>
+      <point x="31" y="-3" type="line"/>
+      <point x="264" y="527" type="line"/>
+      <point x="256" y="513" type="line"/>
+      <point x="488" y="3" type="line"/>
+      <point x="586" y="3" type="line"/>
+      <point x="305" y="623" type="line"/>
+      <point x="304" y="623" type="line"/>
+    </contour>
+  </outline>
+</glyph>

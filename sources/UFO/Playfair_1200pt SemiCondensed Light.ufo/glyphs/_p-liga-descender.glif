@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_p-liga-descender" format="2">
+  <advance width="150"/>
+  <anchor x="120" y="260" name="#exit"/>
+  <anchor x="30" y="0" name="^entry"/>
+  <outline>
+    <contour>
+      <point x="30" y="260" type="line"/>
+      <point x="120" y="260" type="line"/>
+      <point x="120" y="622" type="line"/>
+      <point x="95" y="614"/>
+      <point x="65" y="609"/>
+      <point x="30" y="608" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

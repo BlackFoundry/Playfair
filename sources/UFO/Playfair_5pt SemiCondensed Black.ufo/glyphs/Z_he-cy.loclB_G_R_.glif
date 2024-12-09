@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhe-cy.loclBGR" format="2">
+  <advance width="1083"/>
+  <anchor x="642" y="0" name="^exit"/>
+  <outline>
+    <contour>
+      <point x="526" y="3" type="curve"/>
+      <point x="540" y="3" type="line"/>
+      <point x="555" y="3" type="line"/>
+      <point x="590" y="3"/>
+      <point x="653" y="2"/>
+      <point x="692" y="0" type="curve"/>
+      <point x="692" y="70" type="line"/>
+      <point x="685" y="71" type="line"/>
+      <point x="648" y="76"/>
+      <point x="642" y="90"/>
+      <point x="642" y="156" type="curve"/>
+      <point x="642" y="552" type="line"/>
+      <point x="642" y="618"/>
+      <point x="648" y="632"/>
+      <point x="685" y="637" type="curve"/>
+      <point x="692" y="638" type="line"/>
+      <point x="692" y="708" type="line"/>
+      <point x="653" y="706"/>
+      <point x="590" y="705"/>
+      <point x="555" y="705" type="curve"/>
+      <point x="540" y="705" type="line"/>
+      <point x="526" y="705" type="line"/>
+      <point x="491" y="705"/>
+      <point x="428" y="706"/>
+      <point x="389" y="708" type="curve"/>
+      <point x="389" y="638" type="line"/>
+      <point x="396" y="637" type="line"/>
+      <point x="433" y="632"/>
+      <point x="439" y="618"/>
+      <point x="439" y="552" type="curve"/>
+      <point x="439" y="156" type="line"/>
+      <point x="439" y="90"/>
+      <point x="433" y="76"/>
+      <point x="396" y="71" type="curve"/>
+      <point x="389" y="70" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="428" y="2"/>
+      <point x="491" y="3"/>
+    </contour>
+    <component base="_UC-Zhe-cy.loclBGR-wings"/>
+  </outline>
+</glyph>

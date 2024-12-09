@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb.smcp" format="2">
+  <advance width="542"/>
+  <anchor x="272" y="608" name="_top"/>
+  <anchor x="272" y="751" name="top"/>
+  <outline>
+    <component base="brevecomb.case" xOffset="-2" yOffset="-100"/>
+  </outline>
+</glyph>

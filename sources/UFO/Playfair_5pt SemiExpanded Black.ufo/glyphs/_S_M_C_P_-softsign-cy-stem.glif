@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-softsign-cy-stem" format="2">
+  <advance width="597"/>
+  <anchor x="284" y="520" name="#entry"/>
+  <anchor x="188" y="0" name="^exit"/>
+  <anchor x="309" y="451" name="center"/>
+  <outline>
+    <contour>
+      <point x="188" y="250" type="line"/>
+      <point x="381" y="250" type="line"/>
+      <point x="381" y="452" type="line"/>
+      <point x="381" y="511"/>
+      <point x="393" y="524"/>
+      <point x="454" y="530" type="curve"/>
+      <point x="547" y="538" type="line"/>
+      <point x="547" y="608" type="line"/>
+      <point x="485" y="606"/>
+      <point x="358" y="605"/>
+      <point x="292" y="605" type="curve"/>
+      <point x="284" y="605" type="line"/>
+      <point x="279" y="605" type="line"/>
+      <point x="220" y="605"/>
+      <point x="102" y="606"/>
+      <point x="50" y="608" type="curve"/>
+      <point x="50" y="538" type="line"/>
+      <point x="105" y="533" type="line"/>
+      <point x="177" y="526"/>
+      <point x="188" y="515"/>
+      <point x="188" y="452" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

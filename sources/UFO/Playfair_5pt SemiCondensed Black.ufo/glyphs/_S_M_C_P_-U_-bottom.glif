@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-U-bottom" format="2">
+  <advance width="690"/>
+  <anchor x="101" y="0" name="^entry"/>
+  <anchor x="559" y="0" name="^exit"/>
+  <anchor x="381" y="0" name="bottom"/>
+  <anchor x="366" y="297" name="center"/>
+  <anchor x="472" y="0" name="ogonek"/>
+  <anchor x="559" y="428" name="stem"/>
+  <anchor x="375" y="608" name="top"/>
+  <anchor x="375" y="588" name="top_low_1"/>
+  <anchor x="375" y="568" name="top_low_2"/>
+  <anchor x="375" y="548" name="top_low_3"/>
+  <anchor x="375" y="528" name="top_low_4"/>
+  <anchor x="375" y="508" name="top_low_5"/>
+  <outline>
+    <contour>
+      <point x="377" y="-14" type="curve" smooth="yes"/>
+      <point x="545" y="-14"/>
+      <point x="632" y="73"/>
+      <point x="632" y="241" type="curve" smooth="yes"/>
+      <point x="632" y="428" type="line"/>
+      <point x="559" y="428" type="line"/>
+      <point x="559" y="250" type="line" smooth="yes"/>
+      <point x="559" y="131"/>
+      <point x="515" y="71"/>
+      <point x="430" y="71" type="curve" smooth="yes"/>
+      <point x="340" y="71"/>
+      <point x="294" y="126"/>
+      <point x="294" y="234" type="curve" smooth="yes"/>
+      <point x="294" y="428" type="line"/>
+      <point x="101" y="428" type="line"/>
+      <point x="101" y="258" type="line" smooth="yes"/>
+      <point x="101" y="94"/>
+      <point x="211" y="-14"/>
+    </contour>
+  </outline>
+</glyph>

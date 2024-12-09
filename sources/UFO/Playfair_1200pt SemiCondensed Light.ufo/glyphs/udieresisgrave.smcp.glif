@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresisgrave.smcp" format="2">
+  <advance width="677"/>
+  <outline>
+    <component base="u.smcp"/>
+    <component base="dieresiscomb.case" xOffset="131" yOffset="-120"/>
+    <component base="gravecomb.case.viet" xOffset="206" yOffset="32"/>
+  </outline>
+</glyph>

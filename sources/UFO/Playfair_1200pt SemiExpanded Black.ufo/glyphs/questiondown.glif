@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiondown" format="2">
+  <advance width="615"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <component base="_LC-questiondown-lower"/>
+    <component base="_LC-period-xheight" xOffset="182"/>
+  </outline>
+</glyph>

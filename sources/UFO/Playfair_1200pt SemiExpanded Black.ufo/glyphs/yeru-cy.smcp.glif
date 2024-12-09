@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeru-cy.smcp" format="2">
+  <advance width="1179"/>
+  <outline>
+    <component base="softsign-cy.smcp"/>
+    <component base="i-cy.smcp" xOffset="726"/>
+  </outline>
+</glyph>

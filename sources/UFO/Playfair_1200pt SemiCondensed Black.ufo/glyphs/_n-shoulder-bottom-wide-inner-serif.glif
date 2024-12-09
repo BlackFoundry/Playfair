@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_n-shoulder-bottom-wide-inner-serif" format="2">
+  <advance width="399"/>
+  <anchor x="31" y="0" name="#entry"/>
+  <anchor x="152" y="260" name="_stem"/>
+  <anchor x="102" y="0" name="bottom"/>
+  <anchor x="92" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="332" y="73" type="curve"/>
+      <point x="332" y="0" type="line"/>
+      <point x="332" y="260" type="line"/>
+      <point x="152" y="260" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="190" y="2"/>
+      <point x="225" y="3"/>
+      <point x="247" y="3" type="curve"/>
+      <point x="269" y="3"/>
+      <point x="308" y="3"/>
+      <point x="388" y="0" type="curve"/>
+      <point x="388" y="1" type="line"/>
+      <point x="378" y="2" type="line"/>
+      <point x="343" y="6"/>
+      <point x="332" y="24"/>
+    </contour>
+  </outline>
+</glyph>

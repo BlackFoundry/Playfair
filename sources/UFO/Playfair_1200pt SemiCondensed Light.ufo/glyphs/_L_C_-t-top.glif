@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-t-top" format="2">
+  <advance width="354"/>
+  <anchor x="100" y="256" name="_stem"/>
+  <anchor x="145" y="512" name="center"/>
+  <anchor x="258" y="512" name="right"/>
+  <anchor x="154" y="671" name="top"/>
+  <anchor x="233" y="771" name="topright"/>
+  <outline>
+    <contour>
+      <point x="100" y="256" type="line"/>
+      <point x="190" y="256" type="line"/>
+      <point x="190" y="681" type="line"/>
+      <point x="166" y="673"/>
+      <point x="136" y="668"/>
+      <point x="100" y="667" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

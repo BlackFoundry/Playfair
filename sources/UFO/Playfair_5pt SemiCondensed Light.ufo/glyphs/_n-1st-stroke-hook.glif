@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_n-1st-stroke-hook" format="2">
+  <advance width="372"/>
+  <anchor x="266" y="0" name="#exit"/>
+  <anchor x="176" y="0" name="stem"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="75" y="1"/>
+      <point x="154" y="4"/>
+      <point x="220" y="4" type="curve" smooth="yes"/>
+      <point x="280" y="4"/>
+      <point x="343" y="1"/>
+      <point x="372" y="0" type="curve"/>
+      <point x="372" y="71" type="line"/>
+      <point x="293" y="71"/>
+      <point x="266" y="89"/>
+      <point x="266" y="143" type="curve" smooth="yes"/>
+      <point x="266" y="526" type="line"/>
+      <point x="231" y="517"/>
+      <point x="189" y="512"/>
+      <point x="142" y="512" type="curve" smooth="yes"/>
+      <point x="109" y="512"/>
+      <point x="74" y="513"/>
+      <point x="40" y="514" type="curve"/>
+      <point x="40" y="443" type="line"/>
+      <point x="139" y="443"/>
+      <point x="176" y="420"/>
+      <point x="176" y="356" type="curve" smooth="yes"/>
+      <point x="176" y="143" type="line" smooth="yes"/>
+      <point x="176" y="89"/>
+      <point x="143" y="71"/>
+      <point x="40" y="71" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

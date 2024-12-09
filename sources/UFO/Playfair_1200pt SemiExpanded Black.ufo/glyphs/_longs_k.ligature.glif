@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_longs_k.ligature" format="2">
+  <advance width="1105"/>
+  <outline>
+    <component base="_LC-f_l_" xOffset="5"/>
+    <component base="_longs-bar" xOffset="-2"/>
+    <component base="_LC-k-legs" xOffset="629"/>
+  </outline>
+</glyph>

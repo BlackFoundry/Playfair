@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a" format="2">
+  <advance width="717"/>
+  <unicode hex="0061"/>
+  <anchor x="-86" y="0" name="^entry"/>
+  <outline>
+    <component base="_LC-a-corpus"/>
+    <component base="_LC-baseline-outstroke-tail" xOffset="371"/>
+  </outline>
+</glyph>

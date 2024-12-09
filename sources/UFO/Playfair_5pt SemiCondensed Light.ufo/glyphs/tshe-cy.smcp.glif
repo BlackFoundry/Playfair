@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tshe-cy.smcp" format="2">
+  <advance width="872"/>
+  <anchor x="357" y="0" name="#exit"/>
+  <anchor x="311" y="0" name="bottom"/>
+  <anchor x="311" y="565" name="topstroke"/>
+  <outline>
+    <contour>
+      <point x="251" y="535" type="curve"/>
+      <point x="351" y="535" type="line"/>
+      <point x="461" y="535"/>
+      <point x="492" y="513"/>
+      <point x="509" y="408" type="curve"/>
+      <point x="582" y="408" type="line"/>
+      <point x="576" y="469"/>
+      <point x="573" y="534"/>
+      <point x="572" y="608" type="curve"/>
+      <point x="519" y="606"/>
+      <point x="449" y="605"/>
+      <point x="353" y="605" type="curve"/>
+      <point x="285" y="605" type="line"/>
+      <point x="182" y="605"/>
+      <point x="106" y="606"/>
+      <point x="49" y="608" type="curve"/>
+      <point x="48" y="516"/>
+      <point x="43" y="434"/>
+      <point x="33" y="358" type="curve"/>
+      <point x="106" y="358" type="line"/>
+      <point x="130" y="504"/>
+      <point x="157" y="535"/>
+    </contour>
+    <contour>
+      <point x="308" y="3" type="curve"/>
+      <point x="310" y="3" type="line"/>
+      <point x="313" y="3" type="line"/>
+      <point x="385" y="3"/>
+      <point x="477" y="1"/>
+      <point x="525" y="0" type="curve"/>
+      <point x="525" y="70" type="line"/>
+      <point x="443" y="77" type="line"/>
+      <point x="373" y="83"/>
+      <point x="357" y="97"/>
+      <point x="357" y="156" type="curve"/>
+      <point x="357" y="250" type="line"/>
+      <point x="264" y="250" type="line"/>
+      <point x="264" y="156" type="line"/>
+      <point x="264" y="97"/>
+      <point x="248" y="83"/>
+      <point x="178" y="77" type="curve"/>
+      <point x="96" y="70" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="144" y="1"/>
+      <point x="236" y="3"/>
+    </contour>
+    <component base="_UC-T-upper-stroke.smcp" xOffset="234"/>
+    <component base="_SMCP-che-cy-curve" xScale="-1" yScale="-1" xOffset="872" yOffset="608"/>
+  </outline>
+</glyph>

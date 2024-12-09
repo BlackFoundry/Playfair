@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_c-hook" format="2">
+  <advance width="329"/>
+  <anchor x="89" y="514" name="_hook"/>
+  <outline>
+    <contour>
+      <point x="148" y="415" type="curve"/>
+      <point x="149" y="415" type="line"/>
+      <point x="149" y="526"/>
+      <point x="79" y="556"/>
+      <point x="79" y="641" type="curve" smooth="yes"/>
+      <point x="79" y="667"/>
+      <point x="91" y="683"/>
+      <point x="112" y="683" type="curve" smooth="yes"/>
+      <point x="142" y="683"/>
+      <point x="164" y="657"/>
+      <point x="202" y="657" type="curve" smooth="yes"/>
+      <point x="231" y="657"/>
+      <point x="251" y="675"/>
+      <point x="251" y="705" type="curve" smooth="yes"/>
+      <point x="251" y="738"/>
+      <point x="227" y="757"/>
+      <point x="190" y="757" type="curve" smooth="yes"/>
+      <point x="126" y="757"/>
+      <point x="78" y="709"/>
+      <point x="78" y="641" type="curve" smooth="yes"/>
+      <point x="78" y="555"/>
+      <point x="148" y="525"/>
+    </contour>
+  </outline>
+</glyph>

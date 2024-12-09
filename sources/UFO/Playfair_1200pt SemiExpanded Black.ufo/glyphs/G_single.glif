@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gsingle" format="2">
+  <advance width="1000"/>
+  <unicode hex="A7AC"/>
+  <anchor x="678" y="250" name="#exit"/>
+  <anchor x="494" y="0" name="bottom"/>
+  <anchor x="260" y="354" name="middlestroke"/>
+  <anchor x="678" y="250" name="stem"/>
+  <anchor x="455" y="708" name="top"/>
+  <outline>
+    <contour>
+      <point x="422" y="66" type="curve" smooth="yes"/>
+      <point x="560" y="66"/>
+      <point x="632" y="101"/>
+      <point x="684" y="157" type="curve"/>
+      <point x="683" y="158" type="line"/>
+      <point x="637" y="112"/>
+      <point x="578" y="89"/>
+      <point x="508" y="89" type="curve" smooth="yes"/>
+      <point x="350" y="89"/>
+      <point x="260" y="181"/>
+      <point x="260" y="395" type="curve" smooth="yes"/>
+      <point x="260" y="599"/>
+      <point x="361" y="711"/>
+      <point x="532" y="711" type="curve" smooth="yes"/>
+      <point x="600" y="711"/>
+      <point x="655" y="690"/>
+      <point x="709" y="645" type="curve"/>
+      <point x="711" y="648" type="line"/>
+      <point x="667" y="680"/>
+      <point x="618" y="722"/>
+      <point x="479" y="722" type="curve" smooth="yes"/>
+      <point x="220" y="722"/>
+      <point x="50" y="587"/>
+      <point x="50" y="379" type="curve" smooth="yes"/>
+      <point x="50" y="167"/>
+      <point x="189" y="66"/>
+    </contour>
+    <contour>
+      <point x="678" y="250" type="line"/>
+      <point x="881" y="250" type="line"/>
+      <point x="881" y="613" type="line" smooth="yes"/>
+      <point x="881" y="666"/>
+      <point x="885" y="699"/>
+      <point x="897" y="721" type="curve"/>
+      <point x="896" y="722" type="line"/>
+      <point x="850" y="690"/>
+      <point x="752" y="666"/>
+      <point x="678" y="670" type="curve"/>
+    </contour>
+    <component base="_UC-Gsingle-descender" xOffset="67"/>
+  </outline>
+</glyph>

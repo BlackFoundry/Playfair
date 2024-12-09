@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_f_k.ligature" format="2">
+  <advance width="910"/>
+  <outline>
+    <contour>
+      <point x="29" y="511" type="line"/>
+      <point x="306" y="511" type="line"/>
+      <point x="306" y="512" type="line"/>
+      <point x="29" y="512" type="line"/>
+    </contour>
+    <component base="__f_h1st-stroke-liga_" xOffset="4"/>
+    <component base="_LC-k-legs" xOffset="490"/>
+  </outline>
+</glyph>

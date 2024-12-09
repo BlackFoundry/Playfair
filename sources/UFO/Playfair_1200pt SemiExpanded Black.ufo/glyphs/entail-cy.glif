@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="entail-cy" format="2">
+  <advance width="771"/>
+  <unicode hex="04CA"/>
+  <outline>
+    <component base="_LC-en-cy_upper" xOffset="-2"/>
+    <component base="_LC-en-cy-bar" xOffset="195"/>
+    <component base="_LC-hook-descender-cy" xOffset="381"/>
+  </outline>
+</glyph>

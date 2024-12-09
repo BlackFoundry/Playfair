@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="khook" format="2">
+  <advance width="660"/>
+  <unicode hex="0199"/>
+  <anchor x="221" y="256" name="#entry"/>
+  <anchor x="221" y="256" name="#exit"/>
+  <anchor x="606" y="512" name="2ndTittle"/>
+  <anchor x="271" y="0" name="^exit"/>
+  <anchor x="131" y="512" name="bar"/>
+  <anchor x="176" y="512" name="center"/>
+  <anchor x="131" y="256" name="stem"/>
+  <anchor x="316" y="771" name="top"/>
+  <outline>
+    <contour>
+      <point x="131" y="256" type="line"/>
+      <point x="221" y="256" type="line"/>
+      <point x="221" y="568" type="line"/>
+      <point x="221" y="712"/>
+      <point x="266" y="780"/>
+      <point x="358" y="780" type="curve"/>
+      <point x="395" y="780"/>
+      <point x="414" y="768"/>
+      <point x="414" y="745" type="curve"/>
+      <point x="414" y="726"/>
+      <point x="381" y="698"/>
+      <point x="381" y="668" type="curve"/>
+      <point x="381" y="645"/>
+      <point x="401" y="628"/>
+      <point x="432" y="628" type="curve"/>
+      <point x="469" y="628"/>
+      <point x="495" y="651"/>
+      <point x="495" y="684" type="curve"/>
+      <point x="495" y="743"/>
+      <point x="433" y="782"/>
+      <point x="339" y="782" type="curve"/>
+      <point x="218" y="782"/>
+      <point x="131" y="692"/>
+      <point x="131" y="544" type="curve"/>
+    </contour>
+    <component base="_LC-baseline-normal-narrow"/>
+    <component base="_LC-k-legs" xOffset="184"/>
+  </outline>
+</glyph>

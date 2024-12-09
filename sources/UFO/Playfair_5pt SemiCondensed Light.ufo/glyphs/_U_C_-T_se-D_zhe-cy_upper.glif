@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-Tse-Dzhe-cy_upper" format="2">
+  <advance width="921"/>
+  <anchor x="618" y="250" name="stem"/>
+  <outline>
+    <contour>
+      <point x="210" y="250" type="line"/>
+      <point x="303" y="250" type="line"/>
+      <point x="303" y="552" type="line"/>
+      <point x="303" y="611"/>
+      <point x="317" y="626"/>
+      <point x="374" y="635" type="curve"/>
+      <point x="401" y="638" type="line"/>
+      <point x="401" y="708" type="line"/>
+      <point x="372" y="707"/>
+      <point x="308" y="705"/>
+      <point x="260" y="705" type="curve"/>
+      <point x="256" y="705" type="line"/>
+      <point x="246" y="705" type="line"/>
+      <point x="186" y="705"/>
+      <point x="106" y="707"/>
+      <point x="70" y="708" type="curve"/>
+      <point x="70" y="638" type="line"/>
+      <point x="115" y="634" type="line"/>
+      <point x="191" y="627"/>
+      <point x="210" y="611"/>
+      <point x="210" y="552" type="curve"/>
+    </contour>
+    <contour>
+      <point x="618" y="250" type="line"/>
+      <point x="711" y="250" type="line"/>
+      <point x="711" y="552" type="line"/>
+      <point x="711" y="611"/>
+      <point x="730" y="627"/>
+      <point x="806" y="634" type="curve"/>
+      <point x="851" y="638" type="line"/>
+      <point x="851" y="708" type="line"/>
+      <point x="815" y="707"/>
+      <point x="735" y="705"/>
+      <point x="675" y="705" type="curve"/>
+      <point x="664" y="705" type="line"/>
+      <point x="661" y="705" type="line"/>
+      <point x="613" y="705"/>
+      <point x="549" y="707"/>
+      <point x="520" y="708" type="curve"/>
+      <point x="520" y="638" type="line"/>
+      <point x="547" y="635" type="line"/>
+      <point x="604" y="626"/>
+      <point x="618" y="611"/>
+      <point x="618" y="552" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

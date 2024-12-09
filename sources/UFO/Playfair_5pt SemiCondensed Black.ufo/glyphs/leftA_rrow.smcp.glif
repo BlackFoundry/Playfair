@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftArrow.smcp" format="2">
+  <advance width="646"/>
+  <outline>
+    <component base="leftArrow" yOffset="51"/>
+  </outline>
+</glyph>

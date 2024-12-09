@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb" format="2">
+  <advance width="480"/>
+  <unicode hex="0302"/>
+  <anchor x="240" y="520" name="_top"/>
+  <anchor x="111" y="680" name="left"/>
+  <anchor x="369" y="680" name="right"/>
+  <anchor x="240" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="31" y="580" type="line"/>
+      <point x="212" y="708" type="line"/>
+      <point x="152" y="704" type="line"/>
+      <point x="449" y="580" type="line"/>
+      <point x="450" y="581" type="line"/>
+      <point x="240" y="835" type="line"/>
+      <point x="239" y="835" type="line"/>
+      <point x="30" y="581" type="line"/>
+    </contour>
+  </outline>
+</glyph>

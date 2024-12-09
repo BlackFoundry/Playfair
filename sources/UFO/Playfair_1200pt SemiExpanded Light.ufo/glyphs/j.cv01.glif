@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j.cv01" format="2">
+  <advance width="344"/>
+  <outline>
+    <component base="jdotless.cv01"/>
+    <component base="dotaccentcomb" xOffset="36"/>
+  </outline>
+</glyph>

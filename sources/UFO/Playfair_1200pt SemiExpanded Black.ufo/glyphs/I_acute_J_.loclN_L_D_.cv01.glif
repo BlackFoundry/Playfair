@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iacute_J.loclNLD.cv01" format="2">
+  <advance width="946"/>
+  <anchor x="473" y="0" name="caret_1"/>
+  <outline>
+    <component base="I"/>
+    <component base="acutecomb.case" xOffset="144"/>
+    <component base="J.cv01" xOffset="475"/>
+    <component base="acutecomb.case" xOffset="627"/>
+  </outline>
+</glyph>

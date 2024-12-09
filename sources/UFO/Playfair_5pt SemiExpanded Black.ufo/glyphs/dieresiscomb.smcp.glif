@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.smcp" format="2">
+  <advance width="637"/>
+  <anchor x="319" y="608" name="_top"/>
+  <anchor x="319" y="828" name="top"/>
+  <anchor x="319" y="756" name="top_lowered"/>
+  <outline>
+    <component base="dieresiscomb.case" yOffset="-100"/>
+  </outline>
+</glyph>

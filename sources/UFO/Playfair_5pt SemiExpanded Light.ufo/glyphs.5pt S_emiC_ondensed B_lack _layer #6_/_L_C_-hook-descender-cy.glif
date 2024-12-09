@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-hook-descender-cy" format="2">
+  <advance width="388"/>
+  <anchor x="77" y="260" name="_stem"/>
+  <outline>
+    <contour>
+      <point x="240" y="-173" type="line"/>
+      <point x="271" y="-121"/>
+      <point x="322" y="-45"/>
+      <point x="358" y="0" type="curve"/>
+      <point x="358" y="71" type="line"/>
+      <point x="252" y="71" type="line"/>
+      <point x="241" y="81" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="133" y="0" type="line" smooth="yes"/>
+      <point x="219" y="0"/>
+      <point x="228" y="-43"/>
+      <point x="177" y="-141" type="curve"/>
+    </contour>
+    <contour>
+      <point x="167" y="3" type="curve"/>
+      <point x="167" y="3" type="line"/>
+      <point x="257" y="0" type="line"/>
+      <point x="257" y="260" type="line"/>
+      <point x="77" y="260" type="line"/>
+      <point x="77" y="137" type="line"/>
+      <point x="77" y="88"/>
+      <point x="68" y="76"/>
+      <point x="37" y="71" type="curve"/>
+      <point x="30" y="70" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="72" y="1"/>
+      <point x="114" y="3"/>
+    </contour>
+  </outline>
+</glyph>

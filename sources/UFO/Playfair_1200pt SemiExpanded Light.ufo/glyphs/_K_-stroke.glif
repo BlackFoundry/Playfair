@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_K-stroke" format="2">
+  <advance width="477"/>
+  <anchor x="238" y="354" name="_stroke"/>
+  <outline>
+    <contour>
+      <point x="60" y="353" type="line"/>
+      <point x="417" y="353" type="line"/>
+      <point x="417" y="354" type="line"/>
+      <point x="60" y="354" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hhook" format="2">
+  <advance width="1055"/>
+  <unicode hex="A7AA"/>
+  <outline>
+    <component base="_UC-top-hook-instroke"/>
+    <component base="_UC-H-upper" xOffset="162"/>
+    <component base="_UC-bottom-stem-narrow-normal" xOffset="662"/>
+  </outline>
+</glyph>

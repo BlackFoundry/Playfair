@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_g-stroke-overlay" format="2">
+  <advance width="668"/>
+  <anchor x="334" y="0" name="_center"/>
+  <outline>
+    <contour>
+      <point x="149" y="-92" type="line"/>
+      <point x="496" y="-92" type="line"/>
+      <point x="508" y="-57" type="line"/>
+      <point x="149" y="-57" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="-109" type="line"/>
+      <point x="149" y="-109" type="line"/>
+      <point x="149" y="-39" type="line"/>
+      <point x="30" y="-39" type="line"/>
+    </contour>
+    <contour>
+      <point x="492" y="-109" type="line"/>
+      <point x="638" y="-109" type="line"/>
+      <point x="638" y="-39" type="line"/>
+      <point x="518" y="-39" type="line"/>
+    </contour>
+  </outline>
+</glyph>

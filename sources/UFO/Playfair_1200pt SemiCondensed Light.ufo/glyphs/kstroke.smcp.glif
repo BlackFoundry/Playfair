@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kstroke.smcp" format="2">
+  <advance width="642"/>
+  <outline>
+    <component base="k.smcp"/>
+    <component base="_K-stroke" xOffset="-40" yOffset="116"/>
+  </outline>
+</glyph>

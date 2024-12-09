@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sobliquestroke.smcp" format="2">
+  <advance width="829"/>
+  <outline>
+    <component base="s.smcp"/>
+    <component base="_SMCP-S-stroke" xOffset="113"/>
+  </outline>
+</glyph>

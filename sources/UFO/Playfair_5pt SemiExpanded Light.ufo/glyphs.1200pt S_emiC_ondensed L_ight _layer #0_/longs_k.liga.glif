@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longs_k.liga" format="2">
+  <advance width="910"/>
+  <anchor x="228" y="0" name="bottom_1"/>
+  <anchor x="683" y="0" name="bottom_2"/>
+  <anchor x="455" y="0" name="caret_1"/>
+  <anchor x="228" y="771" name="top_1"/>
+  <anchor x="683" y="771" name="top_2"/>
+  <outline>
+    <component base="_LC-f_l_" xOffset="4"/>
+    <component base="_longs-bar" xOffset="-1"/>
+    <component base="_LC-k-legs" xOffset="490"/>
+  </outline>
+</glyph>

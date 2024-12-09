@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X" format="2">
+  <advance width="949"/>
+  <unicode hex="0058"/>
+  <anchor x="474" y="0" name="bottom"/>
+  <anchor x="927" y="0" name="bottomright"/>
+  <anchor x="474" y="708" name="top"/>
+  <anchor x="474" y="688" name="top_low_1"/>
+  <anchor x="474" y="668" name="top_low_2"/>
+  <anchor x="474" y="648" name="top_low_3"/>
+  <outline>
+    <contour>
+      <point x="809" y="4" type="curve"/>
+      <point x="816" y="4" type="line"/>
+      <point x="825" y="3" type="line"/>
+      <point x="872" y="3"/>
+      <point x="938" y="1"/>
+      <point x="967" y="-1" type="curve"/>
+      <point x="968" y="69" type="line"/>
+      <point x="915" y="75" type="line"/>
+      <point x="839" y="82"/>
+      <point x="801" y="82"/>
+      <point x="759" y="130" type="curve"/>
+      <point x="349" y="571" type="line"/>
+      <point x="304" y="622"/>
+      <point x="284" y="626"/>
+      <point x="353" y="631" type="curve"/>
+      <point x="419" y="637" type="line"/>
+      <point x="419" y="707" type="line"/>
+      <point x="344" y="705"/>
+      <point x="240" y="705"/>
+      <point x="165" y="705" type="curve"/>
+      <point x="158" y="705" type="line"/>
+      <point x="149" y="705" type="line"/>
+      <point x="102" y="705"/>
+      <point x="36" y="707"/>
+      <point x="7" y="707" type="curve"/>
+      <point x="8" y="637" type="line"/>
+      <point x="61" y="633" type="line"/>
+      <point x="137" y="626"/>
+      <point x="173" y="626"/>
+      <point x="215" y="578" type="curve"/>
+      <point x="625" y="137" type="line"/>
+      <point x="670" y="86"/>
+      <point x="689" y="81"/>
+      <point x="620" y="75" type="curve"/>
+      <point x="554" y="68" type="line"/>
+      <point x="555" y="-2" type="line"/>
+      <point x="630" y="1"/>
+      <point x="734" y="3"/>
+    </contour>
+    <contour>
+      <point x="315" y="169" type="curve"/>
+      <point x="491" y="334" type="line"/>
+      <point x="441" y="383" type="line"/>
+      <point x="229" y="161" type="line"/>
+      <point x="155" y="84"/>
+      <point x="99" y="80"/>
+      <point x="29" y="73" type="curve"/>
+      <point x="0" y="70" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="49" y="2"/>
+      <point x="108" y="3"/>
+      <point x="165" y="3" type="curve"/>
+      <point x="231" y="3"/>
+      <point x="299" y="2"/>
+      <point x="359" y="0" type="curve"/>
+      <point x="359" y="70" type="line"/>
+      <point x="322" y="74" type="line"/>
+      <point x="238" y="83"/>
+      <point x="252" y="103"/>
+    </contour>
+    <contour>
+      <point x="518" y="346" type="line"/>
+      <point x="704" y="545" type="line"/>
+      <point x="777" y="623"/>
+      <point x="831" y="628"/>
+      <point x="901" y="635" type="curve"/>
+      <point x="930" y="638" type="line"/>
+      <point x="930" y="708" type="line"/>
+      <point x="881" y="706"/>
+      <point x="822" y="705"/>
+      <point x="765" y="705" type="curve"/>
+      <point x="699" y="705"/>
+      <point x="631" y="706"/>
+      <point x="571" y="708" type="curve"/>
+      <point x="571" y="638" type="line"/>
+      <point x="608" y="634" type="line"/>
+      <point x="692" y="625"/>
+      <point x="680" y="604"/>
+      <point x="617" y="537" type="curve"/>
+      <point x="456" y="382" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>4</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>Cap &amp; Corner (layer #10)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>Cap &amp; Corner (layer #8)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>Cap &amp; Corner (layer #11)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>Cap &amp; Corner (layer #9)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>Cap &amp; Corner (layer #14)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>Cap &amp; Corner (layer #12)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>Cap &amp; Corner (layer #15)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Black (layer #2)</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Light (layer #0)</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Black (layer #3)</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Light (layer #1)</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Black (layer #6)</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Light (layer #4)</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Black (layer #7)</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Light (layer #5)</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>Cap &amp; Corner (layer #13)</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>1200pt SemiCondensed Black</key>
+        <string>Cap &amp; Corner</string>
+        <key>1200pt SemiCondensed Light</key>
+        <string>Cap &amp; Corner</string>
+        <key>1200pt SemiExpanded Black</key>
+        <string>Cap &amp; Corner</string>
+        <key>1200pt SemiExpanded Light</key>
+        <string>Cap &amp; Corner</string>
+        <key>5pt SemiCondensed Black</key>
+        <string>Cap &amp; Corner</string>
+        <key>5pt SemiCondensed Light</key>
+        <string>Cap &amp; Corner</string>
+        <key>5pt SemiExpanded Black</key>
+        <string>Cap &amp; Corner</string>
+        <key>5pt SemiExpanded Light</key>
+        <string>Cap &amp; Corner</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

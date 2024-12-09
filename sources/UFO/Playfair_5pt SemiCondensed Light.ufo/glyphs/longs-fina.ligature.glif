@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longs-fina.ligature" format="2">
+  <advance width="496"/>
+  <anchor x="180" y="256" name="#entry"/>
+  <anchor x="270" y="256" name="#exit"/>
+  <anchor x="-178" y="0" name="%entry"/>
+  <anchor x="716" y="512" name="2ndTittle"/>
+  <anchor x="4" y="0" name="^entry"/>
+  <anchor x="431" y="0" name="^exit"/>
+  <anchor x="180" y="512" name="bar"/>
+  <anchor x="226" y="512" name="center"/>
+  <anchor x="180" y="256" name="stem"/>
+  <anchor x="366" y="773" name="top"/>
+  <outline>
+    <contour>
+      <point x="180" y="0" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="223" y="2"/>
+      <point x="249" y="2"/>
+      <point x="275" y="2" type="curve"/>
+      <point x="303" y="2"/>
+      <point x="353" y="1"/>
+      <point x="406" y="0" type="curve"/>
+      <point x="406" y="70" type="line"/>
+      <point x="351" y="75" type="line"/>
+      <point x="292" y="80"/>
+      <point x="270" y="101"/>
+      <point x="270" y="162" type="curve"/>
+      <point x="270" y="256" type="line"/>
+      <point x="180" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="180" y="256" type="line"/>
+      <point x="270" y="256" type="line"/>
+      <point x="270" y="547" type="line"/>
+      <point x="270" y="662"/>
+      <point x="311" y="717"/>
+      <point x="396" y="717" type="curve"/>
+      <point x="424" y="717"/>
+      <point x="435" y="711"/>
+      <point x="435" y="697" type="curve"/>
+      <point x="435" y="680"/>
+      <point x="415" y="666"/>
+      <point x="415" y="642" type="curve"/>
+      <point x="415" y="614"/>
+      <point x="435" y="596"/>
+      <point x="466" y="596" type="curve"/>
+      <point x="510" y="596"/>
+      <point x="540" y="627"/>
+      <point x="540" y="672" type="curve"/>
+      <point x="540" y="740"/>
+      <point x="483" y="782"/>
+      <point x="390" y="782" type="curve"/>
+      <point x="254" y="782"/>
+      <point x="180" y="694"/>
+      <point x="180" y="524" type="curve"/>
+    </contour>
+    <component base="_longsbar" xOffset="10"/>
+  </outline>
+</glyph>

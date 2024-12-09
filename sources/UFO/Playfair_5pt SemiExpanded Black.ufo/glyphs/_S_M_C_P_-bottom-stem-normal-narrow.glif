@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-bottom-stem-normal-narrow" format="2">
+  <advance width="534"/>
+  <anchor x="182" y="250" name="_stem"/>
+  <outline>
+    <contour>
+      <point x="273" y="3" type="curve"/>
+      <point x="279" y="3" type="line"/>
+      <point x="281" y="3" type="line"/>
+      <point x="326" y="3"/>
+      <point x="420" y="2"/>
+      <point x="472" y="0" type="curve"/>
+      <point x="472" y="70" type="line"/>
+      <point x="442" y="73" type="line"/>
+      <point x="383" y="81"/>
+      <point x="375" y="93"/>
+      <point x="375" y="156" type="curve"/>
+      <point x="375" y="250" type="line"/>
+      <point x="182" y="250" type="line"/>
+      <point x="182" y="156" type="line"/>
+      <point x="182" y="93"/>
+      <point x="171" y="82"/>
+      <point x="99" y="75" type="curve"/>
+      <point x="44" y="70" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="96" y="2"/>
+      <point x="214" y="3"/>
+    </contour>
+  </outline>
+</glyph>

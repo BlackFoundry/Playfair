@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longs_t.liga" format="2">
+  <advance width="680"/>
+  <anchor x="170" y="0" name="bottom_1"/>
+  <anchor x="510" y="0" name="bottom_2"/>
+  <anchor x="340" y="0" name="caret_1"/>
+  <anchor x="170" y="771" name="top_1"/>
+  <anchor x="510" y="771" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="171" y="3" type="curve"/>
+      <point x="171" y="3" type="line"/>
+      <point x="171" y="3" type="line"/>
+      <point x="214" y="3"/>
+      <point x="254" y="3"/>
+      <point x="335" y="0" type="curve"/>
+      <point x="335" y="1" type="line"/>
+      <point x="316" y="3" type="line"/>
+      <point x="274" y="7"/>
+      <point x="261" y="25"/>
+      <point x="261" y="73" type="curve"/>
+      <point x="261" y="260" type="line"/>
+      <point x="81" y="260" type="line"/>
+      <point x="81" y="73" type="line"/>
+      <point x="81" y="24"/>
+      <point x="70" y="6"/>
+      <point x="35" y="2" type="curve"/>
+      <point x="25" y="1" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="97" y="3"/>
+      <point x="133" y="3"/>
+    </contour>
+    <component base="_LC-t-liga-ascender" xOffset="7"/>
+    <component base="_longs-bar" xOffset="-9"/>
+    <component base="_LC-baseline-tail" xOffset="330"/>
+    <component base="_LC-t-top" xOffset="330"/>
+    <component base="_LC-t-bar" xOffset="330"/>
+  </outline>
+</glyph>

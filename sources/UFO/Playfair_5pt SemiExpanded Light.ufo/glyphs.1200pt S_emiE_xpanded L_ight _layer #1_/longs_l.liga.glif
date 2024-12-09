@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longs_l.liga" format="2">
+  <advance width="737"/>
+  <anchor x="184" y="0" name="bottom_1"/>
+  <anchor x="553" y="0" name="bottom_2"/>
+  <anchor x="368.5" y="0" name="caret_1"/>
+  <anchor x="184" y="771" name="top_1"/>
+  <anchor x="553" y="771" name="top_2"/>
+  <outline>
+    <component base="_LC-f_l" xOffset="5"/>
+    <component base="_longs-bar" xOffset="6"/>
+  </outline>
+</glyph>

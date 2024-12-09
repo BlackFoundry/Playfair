@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-top-hook-instroke" format="2">
+  <advance width="543"/>
+  <anchor x="259" y="0" name="^exit"/>
+  <anchor x="259" y="458" name="stem"/>
+  <outline>
+    <contour>
+      <point x="259" y="458" type="line"/>
+      <point x="462" y="458" type="line"/>
+      <point x="462" y="621" type="line"/>
+      <point x="462" y="682"/>
+      <point x="467" y="698"/>
+      <point x="490" y="705" type="curve"/>
+      <point x="497" y="707" type="line"/>
+      <point x="497" y="708" type="line"/>
+      <point x="452" y="706"/>
+      <point x="412" y="705"/>
+      <point x="375" y="705" type="curve"/>
+      <point x="360" y="705" type="line"/>
+      <point x="366" y="705" type="line"/>
+      <point x="313" y="705"/>
+      <point x="257" y="708"/>
+      <point x="197" y="708" type="curve"/>
+      <point x="96" y="708"/>
+      <point x="16" y="635"/>
+      <point x="16" y="543" type="curve"/>
+      <point x="16" y="481"/>
+      <point x="49" y="445"/>
+      <point x="106" y="445" type="curve"/>
+      <point x="155" y="445"/>
+      <point x="185" y="471"/>
+      <point x="185" y="514" type="curve"/>
+      <point x="185" y="586"/>
+      <point x="96" y="599"/>
+      <point x="96" y="649" type="curve"/>
+      <point x="96" y="683"/>
+      <point x="138" y="707"/>
+      <point x="198" y="707" type="curve"/>
+      <point x="250" y="707"/>
+      <point x="259" y="695"/>
+      <point x="259" y="621" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

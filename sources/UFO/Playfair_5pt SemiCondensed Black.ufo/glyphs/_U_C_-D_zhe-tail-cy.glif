@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-Dzhe-tail-cy" format="2">
+  <advance width="479"/>
+  <anchor x="240" y="0" name="_center"/>
+  <outline>
+    <contour>
+      <point x="203" y="-162" type="curve"/>
+      <point x="276" y="-162" type="line"/>
+      <point x="290" y="-37"/>
+      <point x="319" y="3"/>
+      <point x="449" y="3" type="curve"/>
+      <point x="449" y="13" type="line"/>
+      <point x="30" y="13" type="line"/>
+      <point x="30" y="3" type="line"/>
+      <point x="160" y="3"/>
+      <point x="189" y="-37"/>
+    </contour>
+  </outline>
+</glyph>

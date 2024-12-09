@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-yat-cy-bar" format="2">
+  <advance width="609"/>
+  <anchor x="304" y="512" name="#exit"/>
+  <outline>
+    <contour>
+      <point x="43" y="485" type="line"/>
+      <point x="566" y="485" type="line"/>
+      <point x="566" y="555" type="line"/>
+      <point x="43" y="555" type="line"/>
+    </contour>
+  </outline>
+</glyph>

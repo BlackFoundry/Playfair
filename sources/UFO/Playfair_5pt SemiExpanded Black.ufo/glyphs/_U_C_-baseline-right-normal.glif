@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-baseline-right-normal" format="2">
+  <advance width="591"/>
+  <anchor x="200" y="180" name="_stem"/>
+  <anchor x="403" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="302" y="3" type="line"/>
+      <point x="312" y="3" type="line"/>
+      <point x="371" y="3"/>
+      <point x="489" y="2"/>
+      <point x="541" y="0" type="curve"/>
+      <point x="541" y="70" type="line"/>
+      <point x="486" y="75" type="line"/>
+      <point x="414" y="82"/>
+      <point x="403" y="93"/>
+      <point x="403" y="156" type="curve"/>
+      <point x="403" y="180" type="line"/>
+      <point x="200" y="180" type="line"/>
+      <point x="200" y="156" type="line"/>
+      <point x="200" y="83"/>
+      <point x="186" y="70"/>
+      <point x="107" y="70" type="curve"/>
+      <point x="30" y="70" type="line"/>
+    </contour>
+  </outline>
+</glyph>

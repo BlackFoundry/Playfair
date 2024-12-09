@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.smcp" format="2">
+  <advance width="530"/>
+  <anchor x="264" y="608" name="_top"/>
+  <anchor x="264" y="828" name="top"/>
+  <outline>
+    <component base="caroncomb.case" yOffset="-100"/>
+  </outline>
+</glyph>

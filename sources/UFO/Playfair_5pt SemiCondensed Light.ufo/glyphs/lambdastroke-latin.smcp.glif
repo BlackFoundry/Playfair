@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lambdastroke-latin.smcp" format="2">
+  <advance width="786"/>
+  <outline>
+    <component base="lambda-latin.smcp"/>
+    <component base="_SMCP-lambda-latin-stroke" xOffset="15" yOffset="-24"/>
+  </outline>
+</glyph>

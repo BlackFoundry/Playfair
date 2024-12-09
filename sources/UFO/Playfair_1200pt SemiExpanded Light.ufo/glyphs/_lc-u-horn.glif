@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_lc-u-horn" format="2">
+  <advance width="199"/>
+  <anchor x="64" y="512" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="30" y="515" type="line"/>
+      <point x="117" y="530"/>
+      <point x="169" y="568"/>
+      <point x="169" y="614" type="curve" smooth="yes"/>
+      <point x="169" y="647"/>
+      <point x="142" y="672"/>
+      <point x="106" y="672" type="curve" smooth="yes"/>
+      <point x="74" y="672"/>
+      <point x="51" y="654"/>
+      <point x="51" y="628" type="curve" smooth="yes"/>
+      <point x="51" y="594"/>
+      <point x="88" y="578"/>
+      <point x="88" y="551" type="curve" smooth="yes"/>
+      <point x="88" y="534"/>
+      <point x="74" y="525"/>
+      <point x="30" y="516" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

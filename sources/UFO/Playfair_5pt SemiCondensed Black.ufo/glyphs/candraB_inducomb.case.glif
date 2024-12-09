@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="candraBinducomb.case" format="2">
+  <advance width="498"/>
+  <outline>
+    <component base="brevecomb.case"/>
+    <component base="_dotaccentcomb.light" xOffset="113" yOffset="320"/>
+  </outline>
+</glyph>

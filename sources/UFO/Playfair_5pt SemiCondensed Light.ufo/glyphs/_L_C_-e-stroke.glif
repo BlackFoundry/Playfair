@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-e-stroke" format="2">
+  <advance width="414"/>
+  <anchor x="208" y="257" name="_center"/>
+  <outline>
+    <contour>
+      <point x="69" y="-193" type="line"/>
+      <point x="158" y="36" type="line"/>
+      <point x="98" y="67" type="line"/>
+      <point x="7" y="-167" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="471" type="line"/>
+      <point x="405" y="675" type="line"/>
+      <point x="345" y="697" type="line"/>
+      <point x="267" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nje-cy" format="2">
+  <advance width="1096"/>
+  <unicode hex="040A"/>
+  <anchor x="1115" y="0" name="#exit"/>
+  <anchor x="628" y="0" name="^entry"/>
+  <outline>
+    <contour>
+      <point x="670" y="3" type="curve"/>
+      <point x="677" y="3" type="line"/>
+      <point x="711" y="3"/>
+      <point x="748" y="0"/>
+      <point x="788" y="0" type="curve" smooth="yes"/>
+      <point x="950" y="0"/>
+      <point x="1049" y="76"/>
+      <point x="1049" y="201" type="curve" smooth="yes"/>
+      <point x="1049" y="321"/>
+      <point x="957" y="391"/>
+      <point x="799" y="391" type="curve" smooth="yes"/>
+      <point x="766" y="391"/>
+      <point x="738" y="388"/>
+      <point x="703" y="383" type="curve"/>
+      <point x="703" y="314" type="line"/>
+      <point x="735" y="319"/>
+      <point x="760" y="321"/>
+      <point x="788" y="321" type="curve" smooth="yes"/>
+      <point x="901" y="321"/>
+      <point x="949" y="285"/>
+      <point x="949" y="198" type="curve" smooth="yes"/>
+      <point x="949" y="110"/>
+      <point x="901" y="70"/>
+      <point x="794" y="70" type="curve" smooth="yes"/>
+      <point x="787" y="70" type="line"/>
+      <point x="733" y="70"/>
+      <point x="721" y="85"/>
+      <point x="721" y="151" type="curve"/>
+      <point x="721" y="250" type="line"/>
+      <point x="628" y="250" type="line"/>
+      <point x="628" y="156" type="line"/>
+      <point x="628" y="97"/>
+      <point x="614" y="82"/>
+      <point x="557" y="74" type="curve"/>
+      <point x="530" y="70" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="559" y="1"/>
+      <point x="623" y="3"/>
+    </contour>
+    <component base="_UC-top-stem-normal-narrow"/>
+    <component base="_UC-H-upper"/>
+  </outline>
+</glyph>

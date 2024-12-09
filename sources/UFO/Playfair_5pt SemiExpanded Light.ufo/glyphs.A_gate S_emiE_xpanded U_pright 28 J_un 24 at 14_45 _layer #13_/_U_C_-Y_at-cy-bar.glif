@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-Yat-cy-bar" format="2">
+  <advance width="737"/>
+  <anchor x="380" y="512" name="#exit"/>
+  <outline>
+    <contour>
+      <point x="73" y="475" type="line"/>
+      <point x="724" y="475" type="line"/>
+      <point x="724" y="545" type="line"/>
+      <point x="73" y="545" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lmiddletilde" format="2">
+  <advance width="442"/>
+  <unicode hex="026B"/>
+  <outline>
+    <component base="l"/>
+    <component base="_LC-middletilde" xOffset="5"/>
+  </outline>
+</glyph>

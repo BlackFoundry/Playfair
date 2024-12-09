@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whook.smcp" format="2">
+  <advance width="944"/>
+  <anchor x="503" y="0" name="bottom"/>
+  <anchor x="494" y="307" name="currency"/>
+  <anchor x="494" y="608" name="top"/>
+  <anchor x="494" y="588" name="top_low_1"/>
+  <anchor x="494" y="568" name="top_low_2"/>
+  <anchor x="494" y="548" name="top_low_3"/>
+  <anchor x="494" y="528" name="top_low_4"/>
+  <anchor x="494" y="508" name="top_low_5"/>
+  <outline>
+    <contour>
+      <point x="648" y="-15" type="line"/>
+      <point x="649" y="-15" type="line"/>
+      <point x="842" y="513" type="line"/>
+      <point x="874" y="606"/>
+      <point x="892" y="621"/>
+      <point x="929" y="621" type="curve"/>
+      <point x="952" y="621"/>
+      <point x="968" y="613"/>
+      <point x="968" y="594" type="curve"/>
+      <point x="968" y="566"/>
+      <point x="938" y="540"/>
+      <point x="938" y="508" type="curve"/>
+      <point x="938" y="484"/>
+      <point x="956" y="468"/>
+      <point x="981" y="468" type="curve"/>
+      <point x="1011" y="468"/>
+      <point x="1033" y="491"/>
+      <point x="1033" y="523" type="curve"/>
+      <point x="1033" y="582"/>
+      <point x="980" y="622"/>
+      <point x="929" y="622" type="curve"/>
+      <point x="891" y="622"/>
+      <point x="873" y="607"/>
+      <point x="841" y="513" type="curve"/>
+      <point x="687" y="94" type="line"/>
+      <point x="694" y="108" type="line"/>
+      <point x="531" y="519" type="line"/>
+      <point x="509" y="585"/>
+      <point x="519" y="598"/>
+      <point x="575" y="605" type="curve"/>
+      <point x="591" y="607" type="line"/>
+      <point x="591" y="608" type="line"/>
+      <point x="562" y="607"/>
+      <point x="515" y="605"/>
+      <point x="451" y="605" type="curve"/>
+      <point x="449" y="605" type="line"/>
+      <point x="447" y="605" type="line"/>
+      <point x="402" y="605"/>
+      <point x="368" y="607"/>
+      <point x="346" y="608" type="curve"/>
+      <point x="346" y="607" type="line"/>
+      <point x="357" y="606" type="line"/>
+      <point x="396" y="602"/>
+      <point x="411" y="586"/>
+      <point x="433" y="529" type="curve"/>
+    </contour>
+    <contour>
+      <point x="315" y="-15" type="line"/>
+      <point x="316" y="-15" type="line"/>
+      <point x="485" y="447" type="line"/>
+      <point x="484" y="449" type="line"/>
+      <point x="354" y="93" type="line"/>
+      <point x="361" y="109" type="line"/>
+      <point x="198" y="519" type="line"/>
+      <point x="176" y="585"/>
+      <point x="186" y="598"/>
+      <point x="242" y="605" type="curve"/>
+      <point x="258" y="607" type="line"/>
+      <point x="258" y="608" type="line"/>
+      <point x="229" y="607"/>
+      <point x="182" y="605"/>
+      <point x="118" y="605" type="curve"/>
+      <point x="116" y="605" type="line"/>
+      <point x="114" y="605" type="line"/>
+      <point x="69" y="605"/>
+      <point x="35" y="607"/>
+      <point x="13" y="608" type="curve"/>
+      <point x="13" y="607" type="line"/>
+      <point x="24" y="606" type="line"/>
+      <point x="63" y="602"/>
+      <point x="78" y="586"/>
+      <point x="100" y="529" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

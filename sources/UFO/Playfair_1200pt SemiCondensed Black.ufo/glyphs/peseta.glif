@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="811"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <component base="P" xOffset="51"/>
+    <component base="_peseta-bar" yOffset="51"/>
+  </outline>
+</glyph>

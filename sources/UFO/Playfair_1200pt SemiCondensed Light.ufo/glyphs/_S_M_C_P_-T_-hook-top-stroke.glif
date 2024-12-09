@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-T-hook-top-stroke" format="2">
+  <advance width="628"/>
+  <anchor x="319" y="608" name="_baseline"/>
+  <anchor x="319" y="604" name="topstroke"/>
+  <outline>
+    <contour>
+      <point x="277" y="604" type="line"/>
+      <point x="422" y="604" type="line"/>
+      <point x="522" y="604"/>
+      <point x="555" y="563"/>
+      <point x="594" y="392" type="curve"/>
+      <point x="595" y="392" type="line"/>
+      <point x="586" y="470"/>
+      <point x="581" y="540"/>
+      <point x="580" y="608" type="curve"/>
+      <point x="542" y="606"/>
+      <point x="488" y="605"/>
+      <point x="405" y="605" type="curve"/>
+      <point x="319" y="605" type="line" smooth="yes"/>
+      <point x="307" y="605"/>
+      <point x="290" y="605"/>
+      <point x="278" y="605" type="curve"/>
+      <point x="190" y="605"/>
+      <point x="219" y="605"/>
+      <point x="191" y="605" type="curve"/>
+      <point x="105" y="605"/>
+      <point x="29" y="547"/>
+      <point x="29" y="466" type="curve"/>
+      <point x="29" y="432"/>
+      <point x="50" y="410"/>
+      <point x="82" y="410" type="curve"/>
+      <point x="112" y="410"/>
+      <point x="129" y="429"/>
+      <point x="129" y="454" type="curve"/>
+      <point x="129" y="494"/>
+      <point x="97" y="517"/>
+      <point x="97" y="547" type="curve"/>
+      <point x="97" y="582"/>
+      <point x="134" y="604"/>
+      <point x="194" y="604" type="curve"/>
+      <point x="277" y="604" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="342"/>
+  <unicode hex="006C"/>
+  <anchor x="131" y="256" name="#entry"/>
+  <anchor x="221" y="256" name="#exit"/>
+  <anchor x="-153" y="0" name="%entry"/>
+  <anchor x="131" y="0" name="%exit"/>
+  <anchor x="0" y="0" name="^entry"/>
+  <anchor x="286" y="0" name="^exit"/>
+  <anchor x="176" y="0" name="bottom"/>
+  <anchor x="176" y="354" name="center"/>
+  <anchor x="272" y="512" name="right"/>
+  <anchor x="131" y="256" name="stem"/>
+  <anchor x="176" y="773" name="top"/>
+  <anchor x="284" y="773" name="topright"/>
+  <outline>
+    <contour>
+      <point x="176" y="3" type="curve"/>
+      <point x="176" y="3" type="line"/>
+      <point x="176" y="3" type="line"/>
+      <point x="221" y="3"/>
+      <point x="264" y="1"/>
+      <point x="316" y="0" type="curve"/>
+      <point x="316" y="1" type="line"/>
+      <point x="296" y="2" type="line"/>
+      <point x="243" y="5"/>
+      <point x="221" y="23"/>
+      <point x="221" y="73" type="curve"/>
+      <point x="221" y="256" type="line"/>
+      <point x="131" y="256" type="line"/>
+      <point x="131" y="73" type="line"/>
+      <point x="131" y="23"/>
+      <point x="109" y="5"/>
+      <point x="56" y="2" type="curve"/>
+      <point x="36" y="1" type="line"/>
+      <point x="36" y="0" type="line"/>
+      <point x="88" y="1"/>
+      <point x="131" y="3"/>
+    </contour>
+    <component base="_LC-ascender-left-inserif"/>
+  </outline>
+</glyph>

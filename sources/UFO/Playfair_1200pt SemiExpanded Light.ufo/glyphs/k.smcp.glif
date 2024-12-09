@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k.smcp" format="2">
+  <advance width="756"/>
+  <anchor x="243" y="0" name="^exit"/>
+  <outline>
+    <contour>
+      <point x="186" y="3" type="curve"/>
+      <point x="196" y="3" type="line"/>
+      <point x="207" y="3" type="line"/>
+      <point x="267" y="3"/>
+      <point x="309" y="1"/>
+      <point x="343" y="0" type="curve"/>
+      <point x="343" y="1" type="line"/>
+      <point x="316" y="4" type="line"/>
+      <point x="256" y="11"/>
+      <point x="243" y="25"/>
+      <point x="243" y="87" type="curve"/>
+      <point x="243" y="521" type="line"/>
+      <point x="243" y="583"/>
+      <point x="256" y="597"/>
+      <point x="316" y="604" type="curve"/>
+      <point x="343" y="607" type="line"/>
+      <point x="343" y="608" type="line"/>
+      <point x="309" y="607"/>
+      <point x="267" y="605"/>
+      <point x="207" y="605" type="curve"/>
+      <point x="196" y="605" type="line"/>
+      <point x="186" y="605" type="line"/>
+      <point x="126" y="605"/>
+      <point x="84" y="607"/>
+      <point x="50" y="608" type="curve"/>
+      <point x="50" y="607" type="line"/>
+      <point x="77" y="604" type="line"/>
+      <point x="137" y="597"/>
+      <point x="150" y="583"/>
+      <point x="150" y="521" type="curve"/>
+      <point x="150" y="87" type="line"/>
+      <point x="150" y="25"/>
+      <point x="137" y="11"/>
+      <point x="77" y="4" type="curve"/>
+      <point x="50" y="1" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="84" y="1"/>
+      <point x="126" y="3"/>
+    </contour>
+    <component base="_SMCP-K-wing" xOffset="187"/>
+  </outline>
+</glyph>

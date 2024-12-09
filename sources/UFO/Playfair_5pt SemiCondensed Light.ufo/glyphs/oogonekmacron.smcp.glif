@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oogonekmacron.smcp" format="2">
+  <advance width="759"/>
+  <outline>
+    <component base="o.smcp"/>
+    <component base="ogonekcomb.smcp" xOffset="289"/>
+    <component base="macroncomb.smcp" xOffset="177"/>
+  </outline>
+</glyph>

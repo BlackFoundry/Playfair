@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u.smcp" format="2">
+  <advance width="1031"/>
+  <outline>
+    <component base="_SMCP-U-left-serif-wide"/>
+    <component base="_SMCP-U-bottom" xOffset="20"/>
+    <component base="_SMCP-U-right-serif" xOffset="617"/>
+  </outline>
+</glyph>

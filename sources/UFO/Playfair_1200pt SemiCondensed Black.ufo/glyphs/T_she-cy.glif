@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tshe-cy" format="2">
+  <advance width="951"/>
+  <unicode hex="040B"/>
+  <anchor x="451" y="0" name="#exit"/>
+  <anchor x="451" y="0" name="%exit"/>
+  <anchor x="350" y="0" name="bottom"/>
+  <anchor x="350" y="704" name="topstroke"/>
+  <outline>
+    <contour>
+      <point x="297" y="704" type="curve"/>
+      <point x="402" y="704" type="line"/>
+      <point x="522" y="704"/>
+      <point x="615" y="632"/>
+      <point x="661" y="508" type="curve"/>
+      <point x="662" y="508" type="line"/>
+      <point x="655" y="588"/>
+      <point x="653" y="655"/>
+      <point x="656" y="708" type="curve"/>
+      <point x="601" y="706"/>
+      <point x="524" y="705"/>
+      <point x="402" y="705" type="curve"/>
+      <point x="297" y="705" type="line"/>
+      <point x="175" y="705"/>
+      <point x="98" y="706"/>
+      <point x="43" y="708" type="curve"/>
+      <point x="44" y="621"/>
+      <point x="40" y="527"/>
+      <point x="32" y="428" type="curve"/>
+      <point x="33" y="428" type="line"/>
+      <point x="87" y="590"/>
+      <point x="174" y="704"/>
+    </contour>
+    <contour>
+      <point x="334" y="3" type="curve"/>
+      <point x="349" y="3" type="line"/>
+      <point x="365" y="3" type="line"/>
+      <point x="444" y="3"/>
+      <point x="503" y="1"/>
+      <point x="535" y="0" type="curve"/>
+      <point x="535" y="1" type="line"/>
+      <point x="512" y="3" type="line"/>
+      <point x="461" y="10"/>
+      <point x="451" y="25"/>
+      <point x="451" y="87" type="curve"/>
+      <point x="451" y="250" type="line"/>
+      <point x="248" y="250" type="line"/>
+      <point x="248" y="87" type="line"/>
+      <point x="248" y="25"/>
+      <point x="237" y="10"/>
+      <point x="186" y="4" type="curve"/>
+      <point x="164" y="1" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="195" y="1"/>
+      <point x="254" y="3"/>
+    </contour>
+    <component base="_UC-T-upper-stroke" xOffset="218"/>
+    <component base="_UC-Che-cy-curve" xScale="-1" yScale="-1" xOffset="951" yOffset="708"/>
+  </outline>
+</glyph>

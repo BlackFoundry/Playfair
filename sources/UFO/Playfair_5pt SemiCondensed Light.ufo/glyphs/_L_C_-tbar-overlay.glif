@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-tbar-overlay" format="2">
+  <advance width="454"/>
+  <anchor x="201" y="514" name="_center"/>
+  <outline>
+    <contour>
+      <point x="30" y="294" type="line"/>
+      <point x="424" y="294" type="line"/>
+      <point x="424" y="364" type="line"/>
+      <point x="30" y="364" type="line"/>
+    </contour>
+  </outline>
+</glyph>

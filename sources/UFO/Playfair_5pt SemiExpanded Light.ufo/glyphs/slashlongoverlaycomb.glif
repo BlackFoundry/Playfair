@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashlongoverlaycomb" format="2">
+  <advance width="928"/>
+  <unicode hex="0338"/>
+  <anchor x="461" y="350" name="_center"/>
+  <outline>
+    <contour>
+      <point x="270" y="63" type="line"/>
+      <point x="710" y="585" type="line"/>
+      <point x="648" y="634" type="line"/>
+      <point x="204" y="109" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="-96" type="line"/>
+      <point x="261" y="64" type="line"/>
+      <point x="196" y="110" type="line"/>
+      <point x="64" y="-45" type="line"/>
+    </contour>
+    <contour>
+      <point x="717" y="586" type="line"/>
+      <point x="852" y="738" type="line"/>
+      <point x="792" y="788" type="line"/>
+      <point x="658" y="634" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>6</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

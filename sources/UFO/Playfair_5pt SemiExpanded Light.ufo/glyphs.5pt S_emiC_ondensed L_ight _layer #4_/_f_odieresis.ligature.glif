@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_f_odieresis.ligature" format="2">
+  <advance width="1052"/>
+  <anchor x="180" y="256" name="#entry"/>
+  <anchor x="270" y="256" name="#exit"/>
+  <anchor x="-158" y="0" name="%entry"/>
+  <anchor x="180" y="0" name="%exit"/>
+  <anchor x="846" y="512" name="2ndTittle"/>
+  <anchor x="4" y="0" name="^entry"/>
+  <anchor x="431" y="0" name="^exit"/>
+  <anchor x="180" y="512" name="bar"/>
+  <anchor x="226" y="512" name="center"/>
+  <anchor x="180" y="256" name="stem"/>
+  <anchor x="426" y="773" name="top"/>
+  <outline>
+    <contour>
+      <point x="225" y="3" type="curve"/>
+      <point x="225" y="3" type="line"/>
+      <point x="225" y="3" type="line"/>
+      <point x="310" y="3"/>
+      <point x="361" y="1"/>
+      <point x="418" y="0" type="curve"/>
+      <point x="418" y="70" type="line"/>
+      <point x="363" y="75" type="line"/>
+      <point x="296" y="81"/>
+      <point x="270" y="101"/>
+      <point x="270" y="162" type="curve"/>
+      <point x="270" y="256" type="line"/>
+      <point x="180" y="256" type="line"/>
+      <point x="180" y="162" type="line"/>
+      <point x="180" y="101"/>
+      <point x="158" y="80"/>
+      <point x="99" y="75" type="curve"/>
+      <point x="44" y="70" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="97" y="1"/>
+      <point x="145" y="3"/>
+    </contour>
+    <contour>
+      <point x="180" y="256" type="line"/>
+      <point x="270" y="256" type="line"/>
+      <point x="270" y="537" type="line"/>
+      <point x="270" y="662"/>
+      <point x="335" y="717"/>
+      <point x="483" y="717" type="curve"/>
+      <point x="548" y="717"/>
+      <point x="578" y="708"/>
+      <point x="578" y="689" type="curve"/>
+      <point x="578" y="679"/>
+      <point x="568" y="657"/>
+      <point x="568" y="639" type="curve"/>
+      <point x="568" y="613"/>
+      <point x="589" y="596"/>
+      <point x="622" y="596" type="curve"/>
+      <point x="666" y="596"/>
+      <point x="696" y="626"/>
+      <point x="696" y="668" type="curve"/>
+      <point x="696" y="739"/>
+      <point x="616" y="782"/>
+      <point x="481" y="782" type="curve"/>
+      <point x="291" y="782"/>
+      <point x="180" y="683"/>
+      <point x="180" y="514" type="curve"/>
+    </contour>
+    <contour>
+      <point x="40" y="442" type="line"/>
+      <point x="437" y="442" type="line"/>
+      <point x="437" y="512" type="line"/>
+      <point x="40" y="512" type="line"/>
+    </contour>
+    <component base="_2ndTittle" xOffset="704"/>
+    <component base="o" xOffset="438"/>
+  </outline>
+</glyph>

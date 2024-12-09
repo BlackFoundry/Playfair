@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb.smcp" format="2">
+  <advance width="373"/>
+  <anchor x="197" y="608" name="_top"/>
+  <anchor x="197" y="828" name="top"/>
+  <outline>
+    <component base="ringcomb.case" yOffset="-100"/>
+  </outline>
+</glyph>

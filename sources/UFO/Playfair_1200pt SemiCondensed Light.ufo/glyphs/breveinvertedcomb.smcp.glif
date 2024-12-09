@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb.smcp" format="2">
+  <advance width="418"/>
+  <anchor x="209" y="608" name="_top"/>
+  <anchor x="209" y="858" name="breve"/>
+  <anchor x="209" y="858" name="top"/>
+  <outline>
+    <component base="brevecomb.case" yScale="-1" yOffset="1618"/>
+  </outline>
+</glyph>

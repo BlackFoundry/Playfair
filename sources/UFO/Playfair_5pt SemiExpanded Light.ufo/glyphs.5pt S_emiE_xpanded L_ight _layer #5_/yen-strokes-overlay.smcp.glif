@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen-strokes-overlay.smcp" format="2">
+  <advance width="818"/>
+  <anchor x="409" y="220" name="_center"/>
+  <outline>
+    <contour>
+      <point x="30" y="158" type="line"/>
+      <point x="788" y="158" type="line"/>
+      <point x="788" y="228" type="line"/>
+      <point x="30" y="228" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="313" type="line"/>
+      <point x="311" y="313" type="line"/>
+      <point x="263" y="383" type="line"/>
+      <point x="30" y="383" type="line"/>
+    </contour>
+    <contour>
+      <point x="513" y="313" type="line"/>
+      <point x="788" y="313" type="line"/>
+      <point x="788" y="383" type="line"/>
+      <point x="573" y="383" type="line"/>
+    </contour>
+  </outline>
+</glyph>

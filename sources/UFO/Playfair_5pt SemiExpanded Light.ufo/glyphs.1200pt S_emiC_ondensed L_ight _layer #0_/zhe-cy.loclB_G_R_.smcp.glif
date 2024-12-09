@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-cy.loclBGR.smcp" format="2">
+  <advance width="961"/>
+  <anchor x="528" y="0" name="^exit"/>
+  <outline>
+    <contour>
+      <point x="471" y="3" type="curve"/>
+      <point x="481" y="3" type="line"/>
+      <point x="492" y="3" type="line"/>
+      <point x="545" y="3"/>
+      <point x="585" y="1"/>
+      <point x="609" y="0" type="curve"/>
+      <point x="609" y="1" type="line"/>
+      <point x="593" y="3" type="line"/>
+      <point x="537" y="10"/>
+      <point x="528" y="22"/>
+      <point x="528" y="87" type="curve"/>
+      <point x="528" y="521" type="line"/>
+      <point x="528" y="586"/>
+      <point x="537" y="598"/>
+      <point x="593" y="605" type="curve"/>
+      <point x="609" y="607" type="line"/>
+      <point x="609" y="608" type="line"/>
+      <point x="585" y="607"/>
+      <point x="545" y="605"/>
+      <point x="492" y="605" type="curve"/>
+      <point x="481" y="605" type="line"/>
+      <point x="471" y="605" type="line"/>
+      <point x="418" y="605"/>
+      <point x="378" y="607"/>
+      <point x="354" y="608" type="curve"/>
+      <point x="354" y="607" type="line"/>
+      <point x="370" y="605" type="line"/>
+      <point x="426" y="598"/>
+      <point x="435" y="586"/>
+      <point x="435" y="521" type="curve"/>
+      <point x="435" y="87" type="line"/>
+      <point x="435" y="22"/>
+      <point x="426" y="10"/>
+      <point x="370" y="3" type="curve"/>
+      <point x="354" y="1" type="line"/>
+      <point x="354" y="0" type="line"/>
+      <point x="378" y="1"/>
+      <point x="418" y="3"/>
+    </contour>
+    <component base="_SMCP-zhe-cy.loclBGR-wings" xOffset="26"/>
+  </outline>
+</glyph>

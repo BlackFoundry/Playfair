@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oopen.smcp" format="2">
+  <advance width="706"/>
+  <outline>
+    <component base="c.smcp" xScale="-1" xOffset="706"/>
+  </outline>
+</glyph>

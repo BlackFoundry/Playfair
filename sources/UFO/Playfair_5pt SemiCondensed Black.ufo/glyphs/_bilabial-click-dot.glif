@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_bilabial-click-dot" format="2">
+  <advance width="282"/>
+  <anchor x="141" y="696" name="_center"/>
+  <outline>
+    <contour>
+      <point x="141" y="599" type="curve" smooth="yes"/>
+      <point x="193" y="599"/>
+      <point x="235" y="632"/>
+      <point x="235" y="696" type="curve" smooth="yes"/>
+      <point x="235" y="760"/>
+      <point x="193" y="793"/>
+      <point x="141" y="793" type="curve" smooth="yes"/>
+      <point x="88" y="793"/>
+      <point x="47" y="760"/>
+      <point x="47" y="696" type="curve" smooth="yes"/>
+      <point x="47" y="632"/>
+      <point x="88" y="599"/>
+    </contour>
+  </outline>
+</glyph>

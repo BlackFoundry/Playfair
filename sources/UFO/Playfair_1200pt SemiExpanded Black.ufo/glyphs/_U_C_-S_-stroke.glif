@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-S-stroke" format="2">
+  <advance width="565"/>
+  <anchor x="283" y="354" name="_center"/>
+  <outline>
+    <contour>
+      <point x="16" y="-193" type="line"/>
+      <point x="119" y="16" type="line"/>
+      <point x="117" y="17" type="line"/>
+      <point x="15" y="-192" type="line"/>
+    </contour>
+    <contour>
+      <point x="447" y="686" type="line"/>
+      <point x="547" y="890" type="line"/>
+      <point x="546" y="891" type="line"/>
+      <point x="446" y="687" type="line"/>
+    </contour>
+  </outline>
+</glyph>

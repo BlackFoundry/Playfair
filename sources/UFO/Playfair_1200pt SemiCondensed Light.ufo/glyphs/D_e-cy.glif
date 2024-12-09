@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="De-cy" format="2">
+  <advance width="661"/>
+  <unicode hex="0414"/>
+  <outline>
+    <component base="_UC-De-cy-descender"/>
+    <component base="_UC-De-cy-upper" xOffset="60"/>
+    <component base="_UC-descender-cy" xOffset="374"/>
+  </outline>
+</glyph>

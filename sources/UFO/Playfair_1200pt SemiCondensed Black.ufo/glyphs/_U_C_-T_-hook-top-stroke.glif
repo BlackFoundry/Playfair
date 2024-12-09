@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-T-hook-top-stroke" format="2">
+  <advance width="752"/>
+  <anchor x="398" y="708" name="top"/>
+  <anchor x="398" y="704" name="topstroke"/>
+  <outline>
+    <contour>
+      <point x="296" y="704" type="line"/>
+      <point x="450" y="704" type="line"/>
+      <point x="573" y="704"/>
+      <point x="660" y="590"/>
+      <point x="714" y="428" type="curve"/>
+      <point x="715" y="428" type="line"/>
+      <point x="707" y="527"/>
+      <point x="703" y="621"/>
+      <point x="704" y="708" type="curve"/>
+      <point x="649" y="706"/>
+      <point x="572" y="705"/>
+      <point x="450" y="705" type="curve"/>
+      <point x="297" y="705" type="line"/>
+      <point x="266" y="705"/>
+      <point x="232" y="705"/>
+      <point x="197" y="705" type="curve"/>
+      <point x="96" y="705"/>
+      <point x="16" y="632"/>
+      <point x="16" y="540" type="curve"/>
+      <point x="16" y="478"/>
+      <point x="49" y="442"/>
+      <point x="106" y="442" type="curve"/>
+      <point x="155" y="442"/>
+      <point x="185" y="468"/>
+      <point x="185" y="511" type="curve"/>
+      <point x="185" y="583"/>
+      <point x="96" y="596"/>
+      <point x="96" y="646" type="curve"/>
+      <point x="96" y="680"/>
+      <point x="138" y="704"/>
+      <point x="198" y="704" type="curve"/>
+      <point x="296" y="704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

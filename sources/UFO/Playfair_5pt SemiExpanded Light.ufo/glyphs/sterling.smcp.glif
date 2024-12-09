@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sterling.smcp" format="2">
+  <advance width="767"/>
+  <outline>
+    <contour>
+      <point x="162" y="98" type="curve"/>
+      <point x="223" y="86" type="line"/>
+      <point x="267" y="136"/>
+      <point x="274" y="166"/>
+      <point x="274" y="246" type="curve" smooth="yes"/>
+      <point x="274" y="374" type="line" smooth="yes"/>
+      <point x="274" y="497"/>
+      <point x="332" y="554"/>
+      <point x="456" y="554" type="curve" smooth="yes"/>
+      <point x="511" y="554"/>
+      <point x="542" y="542"/>
+      <point x="542" y="521" type="curve" smooth="yes"/>
+      <point x="542" y="500"/>
+      <point x="515" y="482"/>
+      <point x="515" y="447" type="curve" smooth="yes"/>
+      <point x="515" y="412"/>
+      <point x="541" y="388"/>
+      <point x="580" y="388" type="curve" smooth="yes"/>
+      <point x="629" y="388"/>
+      <point x="662" y="427"/>
+      <point x="662" y="483" type="curve" smooth="yes"/>
+      <point x="662" y="569"/>
+      <point x="580" y="622"/>
+      <point x="448" y="622" type="curve" smooth="yes"/>
+      <point x="270" y="622"/>
+      <point x="181" y="530"/>
+      <point x="181" y="349" type="curve" smooth="yes"/>
+      <point x="181" y="166" type="line" smooth="yes"/>
+      <point x="181" y="138"/>
+      <point x="177" y="119"/>
+    </contour>
+    <contour>
+      <point x="100" y="-14" type="curve" smooth="yes"/>
+      <point x="141" y="-14"/>
+      <point x="176" y="11"/>
+      <point x="213" y="66" type="curve"/>
+      <point x="168" y="42" type="line"/>
+      <point x="219" y="33"/>
+      <point x="379" y="-14"/>
+      <point x="512" y="-14" type="curve" smooth="yes"/>
+      <point x="652" y="-14"/>
+      <point x="725" y="37"/>
+      <point x="725" y="134" type="curve" smooth="yes"/>
+      <point x="725" y="193"/>
+      <point x="698" y="226"/>
+      <point x="650" y="226" type="curve" smooth="yes"/>
+      <point x="609" y="226"/>
+      <point x="583" y="202"/>
+      <point x="583" y="164" type="curve" smooth="yes"/>
+      <point x="583" y="119"/>
+      <point x="620" y="102"/>
+      <point x="620" y="70" type="curve" smooth="yes"/>
+      <point x="620" y="51"/>
+      <point x="609" y="45"/>
+      <point x="580" y="45" type="curve" smooth="yes"/>
+      <point x="483" y="45"/>
+      <point x="339" y="113"/>
+      <point x="190" y="113" type="curve" smooth="yes"/>
+      <point x="95" y="113"/>
+      <point x="42" y="86"/>
+      <point x="42" y="37" type="curve" smooth="yes"/>
+      <point x="42" y="5"/>
+      <point x="64" y="-14"/>
+    </contour>
+    <contour>
+      <point x="44" y="245" type="line"/>
+      <point x="453" y="245" type="line"/>
+      <point x="453" y="315" type="line"/>
+      <point x="44" y="315" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>4</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>10 Feb 23 at 14:33 (layer #10)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>10 Feb 23 at 14:33 (layer #8)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>10 Feb 23 at 14:33 (layer #11)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>10 Feb 23 at 14:33 (layer #9)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>10 Feb 23 at 14:33 (layer #14)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>10 Feb 23 at 14:33 (layer #12)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>10 Feb 23 at 14:33 (layer #15)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Black (layer #2)</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Light (layer #0)</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Black (layer #3)</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Light (layer #1)</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Black (layer #6)</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Light (layer #4)</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Black (layer #7)</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Light (layer #5)</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>10 Feb 23 at 14:33 (layer #13)</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>1200pt SemiCondensed Black</key>
+        <string>10 Feb 23 at 14:33</string>
+        <key>1200pt SemiCondensed Light</key>
+        <string>10 Feb 23 at 14:33</string>
+        <key>1200pt SemiExpanded Black</key>
+        <string>10 Feb 23 at 14:33</string>
+        <key>1200pt SemiExpanded Light</key>
+        <string>10 Feb 23 at 14:33</string>
+        <key>5pt SemiCondensed Black</key>
+        <string>10 Feb 23 at 14:33</string>
+        <key>5pt SemiCondensed Light</key>
+        <string>10 Feb 23 at 14:33</string>
+        <key>5pt SemiExpanded Black</key>
+        <string>10 Feb 23 at 14:33</string>
+        <key>5pt SemiExpanded Light</key>
+        <string>10 Feb 23 at 14:33</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-baseline-outstroke-tail" format="2">
+  <advance width="286"/>
+  <anchor x="30" y="260" name="#entry"/>
+  <anchor x="30" y="260" name="^entry"/>
+  <anchor x="227" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="210" y="46" type="curve"/>
+      <point x="210" y="260" type="line"/>
+      <point x="30" y="260" type="line"/>
+      <point x="30" y="67" type="line"/>
+      <point x="30" y="13"/>
+      <point x="67" y="-14"/>
+      <point x="143" y="-14" type="curve"/>
+      <point x="195" y="-14"/>
+      <point x="238" y="-1"/>
+      <point x="266" y="23" type="curve"/>
+      <point x="265" y="24" type="line"/>
+      <point x="250" y="12"/>
+      <point x="238" y="6"/>
+      <point x="228" y="6" type="curve"/>
+      <point x="215" y="6"/>
+      <point x="210" y="17"/>
+    </contour>
+  </outline>
+</glyph>

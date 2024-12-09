@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhe-cy.loclBGR" format="2">
+  <advance width="1445"/>
+  <anchor x="770" y="0" name="^exit"/>
+  <outline>
+    <contour>
+      <point x="719" y="3" type="curve"/>
+      <point x="723" y="3" type="line"/>
+      <point x="728" y="3" type="line"/>
+      <point x="775" y="3"/>
+      <point x="840" y="2"/>
+      <point x="886" y="0" type="curve"/>
+      <point x="886" y="70" type="line"/>
+      <point x="847" y="74" type="line"/>
+      <point x="783" y="82"/>
+      <point x="770" y="96"/>
+      <point x="770" y="156" type="curve"/>
+      <point x="770" y="552" type="line"/>
+      <point x="770" y="612"/>
+      <point x="783" y="626"/>
+      <point x="847" y="634" type="curve"/>
+      <point x="886" y="638" type="line"/>
+      <point x="886" y="708" type="line"/>
+      <point x="840" y="706"/>
+      <point x="775" y="705"/>
+      <point x="728" y="705" type="curve"/>
+      <point x="723" y="705" type="line"/>
+      <point x="719" y="705" type="line"/>
+      <point x="672" y="705"/>
+      <point x="607" y="706"/>
+      <point x="561" y="708" type="curve"/>
+      <point x="561" y="638" type="line"/>
+      <point x="600" y="634" type="line"/>
+      <point x="664" y="626"/>
+      <point x="677" y="612"/>
+      <point x="677" y="552" type="curve"/>
+      <point x="677" y="156" type="line"/>
+      <point x="677" y="96"/>
+      <point x="664" y="82"/>
+      <point x="600" y="74" type="curve"/>
+      <point x="561" y="70" type="line"/>
+      <point x="561" y="0" type="line"/>
+      <point x="607" y="2"/>
+      <point x="672" y="3"/>
+    </contour>
+    <component base="_UC-Zhe-cy.loclBGR-wings"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>5</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>13 Jul 24 at 16:34 (layer #18)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>13 Jul 24 at 16:34 (layer #16)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>13 Jul 24 at 16:34 (layer #19)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>13 Jul 24 at 16:34 (layer #17)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>13 Jul 24 at 16:34 (layer #22)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>13 Jul 24 at 16:34 (layer #20)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>13 Jul 24 at 16:34 (layer #23)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Black (layer #2)</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Light (layer #0)</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Black (layer #3)</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Light (layer #1)</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiExpanded Light/21 Apr 23 at 13:35 (layer #10)</key>
+        <string>21 Apr 23 at 13:35 (layer #10)</string>
+        <key>Playfair_5pt SemiExpanded Light/21 Apr 23 at 13:35 (layer #11)</key>
+        <string>21 Apr 23 at 13:35 (layer #11)</string>
+        <key>Playfair_5pt SemiExpanded Light/21 Apr 23 at 13:35 (layer #12)</key>
+        <string>21 Apr 23 at 13:35 (layer #12)</string>
+        <key>Playfair_5pt SemiExpanded Light/21 Apr 23 at 13:35 (layer #13)</key>
+        <string>21 Apr 23 at 13:35 (layer #13)</string>
+        <key>Playfair_5pt SemiExpanded Light/21 Apr 23 at 13:35 (layer #14)</key>
+        <string>21 Apr 23 at 13:35 (layer #14)</string>
+        <key>Playfair_5pt SemiExpanded Light/21 Apr 23 at 13:35 (layer #15)</key>
+        <string>21 Apr 23 at 13:35 (layer #15)</string>
+        <key>Playfair_5pt SemiExpanded Light/21 Apr 23 at 13:35 (layer #8)</key>
+        <string>21 Apr 23 at 13:35 (layer #8)</string>
+        <key>Playfair_5pt SemiExpanded Light/21 Apr 23 at 13:35 (layer #9)</key>
+        <string>21 Apr 23 at 13:35 (layer #9)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Black (layer #6)</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Light (layer #4)</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Black (layer #7)</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Light (layer #5)</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>13 Jul 24 at 16:34 (layer #21)</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>1200pt SemiCondensed Black</key>
+        <string>13 Jul 24 at 16:34</string>
+        <key>1200pt SemiCondensed Light</key>
+        <string>13 Jul 24 at 16:34</string>
+        <key>1200pt SemiExpanded Black</key>
+        <string>13 Jul 24 at 16:34</string>
+        <key>1200pt SemiExpanded Light</key>
+        <string>13 Jul 24 at 16:34</string>
+        <key>5pt SemiCondensed Black</key>
+        <string>13 Jul 24 at 16:34</string>
+        <key>5pt SemiCondensed Light</key>
+        <string>13 Jul 24 at 16:34</string>
+        <key>5pt SemiExpanded Black</key>
+        <string>13 Jul 24 at 16:34</string>
+        <key>5pt SemiExpanded Light</key>
+        <string>13 Jul 24 at 16:34</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

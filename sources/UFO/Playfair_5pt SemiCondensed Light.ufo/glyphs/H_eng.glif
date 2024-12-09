@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Heng" format="2">
+  <advance width="821"/>
+  <unicode hex="A726"/>
+  <outline>
+    <component base="_UC-top-stem-normal-narrow"/>
+    <component base="_UC-H-upper"/>
+    <component base="_UC-J-descender-stump" xOffset="431"/>
+  </outline>
+</glyph>

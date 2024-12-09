@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_won-bar" format="2">
+  <advance width="1142"/>
+  <anchor x="571" y="354" name="_currency"/>
+  <outline>
+    <contour>
+      <point x="30" y="414" type="line"/>
+      <point x="1112" y="414" type="line"/>
+      <point x="1112" y="415" type="line"/>
+      <point x="30" y="415" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="294" type="line"/>
+      <point x="1112" y="294" type="line"/>
+      <point x="1112" y="295" type="line"/>
+      <point x="30" y="295" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eng.smcp" format="2">
+  <advance width="869"/>
+  <outline>
+    <component base="_SMCP.upper.stem.normal-none"/>
+    <component base="_SMCP-lower-stem-normal-wide"/>
+    <component base="_SMCP-Eng-arch" xOffset="200"/>
+    <component base="_SMCP-J-descender-stump" xOffset="519"/>
+  </outline>
+</glyph>

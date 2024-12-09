@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="de-cy.smcp" format="2">
+  <advance width="803"/>
+  <outline>
+    <component base="_UC-De-cy-descender"/>
+    <component base="_SMCP-De-cy-upper" xOffset="36"/>
+    <component base="_UC-descender-cy" xOffset="406"/>
+  </outline>
+</glyph>

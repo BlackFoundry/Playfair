@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gamma-latin.smcp" format="2">
+  <advance width="811"/>
+  <outline>
+    <component base="v.smcp"/>
+    <component base="_SMCP-Gamma-latin-descender" xOffset="261"/>
+  </outline>
+</glyph>

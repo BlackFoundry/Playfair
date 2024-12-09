@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-T-stroke" format="2">
+  <advance width="623"/>
+  <anchor x="312" y="354" name="_center"/>
+  <outline>
+    <contour>
+      <point x="148" y="-193" type="line"/>
+      <point x="537" y="869" type="line"/>
+      <point x="470" y="891" type="line"/>
+      <point x="81" y="-171" type="line"/>
+    </contour>
+  </outline>
+</glyph>

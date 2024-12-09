@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen-strokes-overlay" format="2">
+  <advance width="675"/>
+  <anchor x="338" y="255" name="_center"/>
+  <outline>
+    <contour>
+      <point x="30" y="196" type="line"/>
+      <point x="645" y="196" type="line"/>
+      <point x="645" y="197" type="line"/>
+      <point x="30" y="197" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="296" type="line"/>
+      <point x="296" y="296" type="line"/>
+      <point x="295" y="297" type="line"/>
+      <point x="30" y="297" type="line"/>
+    </contour>
+    <contour>
+      <point x="423" y="296" type="line"/>
+      <point x="645" y="296" type="line"/>
+      <point x="645" y="297" type="line"/>
+      <point x="426" y="297" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_longs_h.ligature" format="2">
+  <advance width="1137"/>
+  <anchor x="645" y="256" name="#entry"/>
+  <anchor x="871" y="256" name="#exit"/>
+  <anchor x="766" y="0" name="bottom"/>
+  <anchor x="645" y="256" name="reversedExit"/>
+  <anchor x="871" y="256" name="stem"/>
+  <anchor x="756" y="512" name="top"/>
+  <outline>
+    <contour>
+      <point x="871" y="256" type="line"/>
+      <point x="961" y="256" type="line"/>
+      <point x="961" y="361" type="line" smooth="yes"/>
+      <point x="961" y="465"/>
+      <point x="901" y="529"/>
+      <point x="803" y="529" type="curve" smooth="yes"/>
+      <point x="706" y="529"/>
+      <point x="637" y="468"/>
+      <point x="594" y="333" type="curve"/>
+      <point x="619" y="309" type="line"/>
+      <point x="656" y="403"/>
+      <point x="710" y="447"/>
+      <point x="778" y="447" type="curve" smooth="yes"/>
+      <point x="837" y="447"/>
+      <point x="871" y="413"/>
+      <point x="871" y="353" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.black-foundry.variable-components</key>
+      <array>
+        <dict>
+          <key>base</key>
+          <string>__f_h1st-stroke-liga_</string>
+          <key>location</key>
+          <dict>
+            <key>Group</key>
+            <integer>1</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>base</key>
+          <string>_LC-baseline-narrow-normal</string>
+          <key>location</key>
+          <dict/>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <real>0.0</real>
+            <key>scaleX</key>
+            <real>1.0</real>
+            <key>scaleY</key>
+            <real>1.0</real>
+            <key>skewX</key>
+            <real>0.0</real>
+            <key>skewY</key>
+            <real>0.0</real>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>610</integer>
+            <key>translateY</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>base</key>
+          <string>_longs-bar</string>
+          <key>location</key>
+          <dict/>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <real>0.0</real>
+            <key>scaleX</key>
+            <real>1.0</real>
+            <key>scaleY</key>
+            <real>1.0</real>
+            <key>skewX</key>
+            <real>0.0</real>
+            <key>skewY</key>
+            <real>0.0</real>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>6</integer>
+            <key>translateY</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

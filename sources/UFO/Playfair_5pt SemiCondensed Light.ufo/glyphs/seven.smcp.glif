@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.smcp" format="2">
+  <advance width="530"/>
+  <outline>
+    <contour>
+      <point x="234" y="-14" type="curve" smooth="yes"/>
+      <point x="264" y="-14"/>
+      <point x="285" y="5"/>
+      <point x="285" y="34" type="curve" smooth="yes"/>
+      <point x="285" y="53"/>
+      <point x="281" y="100"/>
+      <point x="281" y="106" type="curve" smooth="yes"/>
+      <point x="279" y="282"/>
+      <point x="406" y="422"/>
+      <point x="494" y="548" type="curve"/>
+      <point x="494" y="609" type="line"/>
+      <point x="424" y="607"/>
+      <point x="362" y="606"/>
+      <point x="285" y="606" type="curve" smooth="yes"/>
+      <point x="189" y="606"/>
+      <point x="101" y="607"/>
+      <point x="53" y="609" type="curve"/>
+      <point x="52" y="551"/>
+      <point x="47" y="495"/>
+      <point x="37" y="428" type="curve"/>
+      <point x="110" y="428" type="line"/>
+      <point x="122" y="507"/>
+      <point x="154" y="532"/>
+      <point x="242" y="532" type="curve" smooth="yes"/>
+      <point x="409" y="532" type="line"/>
+      <point x="409" y="523" type="line"/>
+      <point x="265" y="365"/>
+      <point x="185" y="194"/>
+      <point x="185" y="40" type="curve" smooth="yes"/>
+      <point x="185" y="7"/>
+      <point x="204" y="-14"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iota-latin" format="2">
+  <advance width="484"/>
+  <unicode hex="0269"/>
+  <anchor x="105" y="260" name="#entry"/>
+  <anchor x="285" y="260" name="#exit"/>
+  <anchor x="105" y="0" name="^exit"/>
+  <anchor x="105" y="260" name="stem"/>
+  <anchor x="192" y="520" name="top"/>
+  <anchor x="285" y="519" name="topright"/>
+  <outline>
+    <contour>
+      <point x="105" y="260" type="line"/>
+      <point x="285" y="260" type="line"/>
+      <point x="285" y="519" type="line"/>
+      <point x="285" y="530" type="line"/>
+      <point x="234" y="520"/>
+      <point x="189" y="516"/>
+      <point x="131" y="516" type="curve"/>
+      <point x="96" y="516"/>
+      <point x="74" y="516"/>
+      <point x="30" y="519" type="curve"/>
+      <point x="30" y="518" type="line"/>
+      <point x="41" y="517" type="line"/>
+      <point x="89" y="513"/>
+      <point x="105" y="492"/>
+      <point x="105" y="436" type="curve"/>
+    </contour>
+    <component base="_LC-iota-latin-outstroke" xOffset="75"/>
+  </outline>
+</glyph>

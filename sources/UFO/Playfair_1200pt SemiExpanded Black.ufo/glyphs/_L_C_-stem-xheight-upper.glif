@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-stem-xheight-upper" format="2">
+  <advance width="240"/>
+  <anchor x="30" y="520" name="_xheight"/>
+  <anchor x="30" y="260" name="stem"/>
+  <outline>
+    <contour>
+      <point x="30" y="260" type="line"/>
+      <point x="210" y="260" type="line"/>
+      <point x="210" y="517" type="line"/>
+      <point x="30" y="517" type="line"/>
+    </contour>
+  </outline>
+</glyph>

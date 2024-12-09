@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upArrow.case" format="2">
+  <advance width="598"/>
+  <outline>
+    <component base="upArrow" yOffset="69"/>
+  </outline>
+</glyph>

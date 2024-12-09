@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_alveolar-double-slash" format="2">
+  <advance width="475"/>
+  <anchor x="237" y="386" name="_center"/>
+  <outline>
+    <component base="_LC-t-bar" xOffset="35"/>
+    <component base="_LC-tbar-overlay"/>
+  </outline>
+</glyph>

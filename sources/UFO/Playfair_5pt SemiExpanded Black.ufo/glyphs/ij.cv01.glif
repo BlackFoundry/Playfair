@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ij.cv01" format="2">
+  <advance width="872"/>
+  <outline>
+    <component base="i"/>
+    <component base="j.cv01" xOffset="420"/>
+  </outline>
+</glyph>

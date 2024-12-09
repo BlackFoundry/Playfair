@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-slash-l" format="2">
+  <advance width="468"/>
+  <anchor x="200" y="271" name="_center"/>
+  <outline>
+    <contour>
+      <point x="196" y="243" type="line"/>
+      <point x="438" y="380" type="line"/>
+      <point x="438" y="382" type="line"/>
+      <point x="196" y="245" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="156" type="line"/>
+      <point x="196" y="253" type="line"/>
+      <point x="196" y="255" type="line"/>
+      <point x="30" y="158" type="line"/>
+    </contour>
+  </outline>
+</glyph>

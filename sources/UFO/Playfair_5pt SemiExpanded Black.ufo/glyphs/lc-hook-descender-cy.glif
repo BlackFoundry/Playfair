@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lc-hook-descender-cy" format="2">
+  <advance width="381"/>
+  <anchor x="361" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="211" y="-194" type="line"/>
+      <point x="242" y="-143"/>
+      <point x="305" y="-60"/>
+      <point x="361" y="0" type="curve"/>
+      <point x="361" y="71" type="line"/>
+      <point x="341" y="71" type="line"/>
+      <point x="162" y="50" type="line"/>
+      <point x="20" y="1" type="line"/>
+      <point x="155" y="1"/>
+      <point x="231" y="-27"/>
+      <point x="148" y="-162" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

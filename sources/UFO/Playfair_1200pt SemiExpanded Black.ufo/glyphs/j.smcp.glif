@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j.smcp" format="2">
+  <advance width="471"/>
+  <anchor x="-11" y="0" name="entry"/>
+  <outline>
+    <component base="_SMCP-upper-stem-wide-normal"/>
+    <component base="_UC-J-descender-stump.smcp" xOffset="27"/>
+  </outline>
+</glyph>

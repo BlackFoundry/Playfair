@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hryvnia" format="2">
+  <advance width="846"/>
+  <unicode hex="20B4"/>
+  <outline>
+    <contour>
+      <point x="400" y="-14" type="curve" smooth="yes"/>
+      <point x="539" y="-14"/>
+      <point x="632" y="54"/>
+      <point x="662" y="179" type="curve"/>
+      <point x="589" y="179" type="line"/>
+      <point x="560" y="104"/>
+      <point x="507" y="71"/>
+      <point x="416" y="71" type="curve" smooth="yes"/>
+      <point x="328" y="71"/>
+      <point x="284" y="100"/>
+      <point x="284" y="158" type="curve" smooth="yes"/>
+      <point x="284" y="327"/>
+      <point x="654" y="371"/>
+      <point x="654" y="572" type="curve" smooth="yes"/>
+      <point x="654" y="664"/>
+      <point x="578" y="722"/>
+      <point x="455" y="722" type="curve" smooth="yes"/>
+      <point x="315" y="722"/>
+      <point x="219" y="647"/>
+      <point x="189" y="516" type="curve"/>
+      <point x="262" y="516" type="line"/>
+      <point x="295" y="601"/>
+      <point x="348" y="639"/>
+      <point x="439" y="639" type="curve" smooth="yes"/>
+      <point x="519" y="639"/>
+      <point x="560" y="610"/>
+      <point x="560" y="555" type="curve" smooth="yes"/>
+      <point x="560" y="390"/>
+      <point x="183" y="342"/>
+      <point x="183" y="144" type="curve" smooth="yes"/>
+      <point x="183" y="48"/>
+      <point x="269" y="-14"/>
+    </contour>
+    <contour>
+      <point x="65" y="313" type="line"/>
+      <point x="781" y="313" type="line"/>
+      <point x="781" y="383" type="line"/>
+      <point x="65" y="383" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>4</integer>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Playfair_1200pt SemiCondensed Black/public.default</key>
+        <string>11 Feb 23 at 11:09 (layer #10)</string>
+        <key>Playfair_1200pt SemiCondensed Light/public.default</key>
+        <string>11 Feb 23 at 11:09 (layer #8)</string>
+        <key>Playfair_1200pt SemiExpanded Black/public.default</key>
+        <string>11 Feb 23 at 11:09 (layer #11)</string>
+        <key>Playfair_1200pt SemiExpanded Light/public.default</key>
+        <string>11 Feb 23 at 11:09 (layer #9)</string>
+        <key>Playfair_5pt SemiCondensed Black/public.default</key>
+        <string>11 Feb 23 at 11:09 (layer #14)</string>
+        <key>Playfair_5pt SemiCondensed Light/public.default</key>
+        <string>11 Feb 23 at 11:09 (layer #12)</string>
+        <key>Playfair_5pt SemiExpanded Black/public.default</key>
+        <string>11 Feb 23 at 11:09 (layer #15)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Black (layer #2)</key>
+        <string>1200pt SemiCondensed Black (layer #2)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiCondensed Light (layer #0)</key>
+        <string>1200pt SemiCondensed Light (layer #0)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Black (layer #3)</key>
+        <string>1200pt SemiExpanded Black (layer #3)</string>
+        <key>Playfair_5pt SemiExpanded Light/1200pt SemiExpanded Light (layer #1)</key>
+        <string>1200pt SemiExpanded Light (layer #1)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Black (layer #6)</key>
+        <string>5pt SemiCondensed Black (layer #6)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiCondensed Light (layer #4)</key>
+        <string>5pt SemiCondensed Light (layer #4)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Black (layer #7)</key>
+        <string>5pt SemiExpanded Black (layer #7)</string>
+        <key>Playfair_5pt SemiExpanded Light/5pt SemiExpanded Light (layer #5)</key>
+        <string>5pt SemiExpanded Light (layer #5)</string>
+        <key>Playfair_5pt SemiExpanded Light/public.default</key>
+        <string>11 Feb 23 at 11:09 (layer #13)</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>1200pt SemiCondensed Black</key>
+        <string>11 Feb 23 at 11:09</string>
+        <key>1200pt SemiCondensed Light</key>
+        <string>11 Feb 23 at 11:09</string>
+        <key>1200pt SemiExpanded Black</key>
+        <string>11 Feb 23 at 11:09</string>
+        <key>1200pt SemiExpanded Light</key>
+        <string>11 Feb 23 at 11:09</string>
+        <key>5pt SemiCondensed Black</key>
+        <string>11 Feb 23 at 11:09</string>
+        <key>5pt SemiCondensed Light</key>
+        <string>11 Feb 23 at 11:09</string>
+        <key>5pt SemiExpanded Black</key>
+        <string>11 Feb 23 at 11:09</string>
+        <key>5pt SemiExpanded Light</key>
+        <string>11 Feb 23 at 11:09</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sha-cy" format="2">
+  <advance width="1181"/>
+  <unicode hex="0428"/>
+  <outline>
+    <component base="_UC-Sha-cy_base"/>
+    <component base="_UC_cy-baseline-right-serif" xOffset="894"/>
+  </outline>
+</glyph>

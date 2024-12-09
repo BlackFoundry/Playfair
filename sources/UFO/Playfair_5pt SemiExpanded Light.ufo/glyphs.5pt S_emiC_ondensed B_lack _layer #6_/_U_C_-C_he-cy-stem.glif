@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-Che-cy-stem" format="2">
+  <advance width="483"/>
+  <anchor x="150" y="0" name="^entry"/>
+  <outline>
+    <contour>
+      <point x="236" y="3" type="curve"/>
+      <point x="252" y="3" type="line"/>
+      <point x="267" y="3" type="line"/>
+      <point x="314" y="3"/>
+      <point x="399" y="2"/>
+      <point x="453" y="0" type="curve"/>
+      <point x="453" y="70" type="line"/>
+      <point x="421" y="74" type="line"/>
+      <point x="365" y="81"/>
+      <point x="353" y="92"/>
+      <point x="353" y="156" type="curve"/>
+      <point x="353" y="552" type="line"/>
+      <point x="353" y="616"/>
+      <point x="365" y="627"/>
+      <point x="421" y="634" type="curve"/>
+      <point x="453" y="637" type="line"/>
+      <point x="453" y="707" type="line"/>
+      <point x="399" y="706"/>
+      <point x="314" y="705"/>
+      <point x="267" y="705" type="curve"/>
+      <point x="252" y="705" type="line"/>
+      <point x="237" y="705" type="line"/>
+      <point x="199" y="705"/>
+      <point x="132" y="706"/>
+      <point x="90" y="708" type="curve"/>
+      <point x="90" y="638" type="line"/>
+      <point x="102" y="637" type="line"/>
+      <point x="143" y="631"/>
+      <point x="150" y="618"/>
+      <point x="150" y="552" type="curve"/>
+      <point x="150" y="156" type="line"/>
+      <point x="150" y="95"/>
+      <point x="138" y="82"/>
+      <point x="83" y="76" type="curve"/>
+      <point x="30" y="71" type="line"/>
+      <point x="30" y="1" type="line"/>
+      <point x="96" y="2"/>
+      <point x="184" y="3"/>
+    </contour>
+  </outline>
+</glyph>

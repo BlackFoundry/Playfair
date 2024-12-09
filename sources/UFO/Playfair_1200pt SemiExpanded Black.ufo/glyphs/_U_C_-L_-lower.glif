@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-L-lower" format="2">
+  <advance width="775"/>
+  <anchor x="603" y="314" name="Ldot"/>
+  <anchor x="361" y="0" name="bottom"/>
+  <anchor x="236" y="354" name="center"/>
+  <anchor x="466" y="708" name="right"/>
+  <anchor x="130" y="458" name="stem"/>
+  <anchor x="231" y="708" name="top"/>
+  <anchor x="231" y="688" name="top_low_1"/>
+  <anchor x="231" y="668" name="top_low_2"/>
+  <anchor x="231" y="648" name="top_low_3"/>
+  <outline>
+    <contour>
+      <point x="216" y="3" type="curve"/>
+      <point x="231" y="3" type="line"/>
+      <point x="424" y="3" type="line"/>
+      <point x="567" y="3"/>
+      <point x="654" y="2"/>
+      <point x="724" y="0" type="curve"/>
+      <point x="721" y="87"/>
+      <point x="727" y="183"/>
+      <point x="737" y="280" type="curve"/>
+      <point x="736" y="280" type="line"/>
+      <point x="674" y="118"/>
+      <point x="577" y="4"/>
+      <point x="410" y="4" type="curve"/>
+      <point x="407" y="4" type="line" smooth="yes"/>
+      <point x="333" y="4"/>
+      <point x="333" y="21"/>
+      <point x="333" y="67" type="curve" smooth="yes"/>
+      <point x="333" y="458" type="line"/>
+      <point x="130" y="458" type="line"/>
+      <point x="130" y="87" type="line"/>
+      <point x="130" y="23"/>
+      <point x="118" y="13"/>
+      <point x="62" y="4" type="curve"/>
+      <point x="40" y="1" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="76" y="1"/>
+      <point x="137" y="3"/>
+    </contour>
+  </outline>
+</glyph>

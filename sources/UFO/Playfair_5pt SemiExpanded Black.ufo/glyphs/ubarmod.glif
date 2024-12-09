@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ubarmod" format="2">
+  <advance width="662"/>
+  <unicode hex="1DB6"/>
+  <outline>
+    <component base="umod"/>
+    <component base="_LC-umod-stroke-overlay" xOffset="-136" yOffset="268"/>
+  </outline>
+</glyph>

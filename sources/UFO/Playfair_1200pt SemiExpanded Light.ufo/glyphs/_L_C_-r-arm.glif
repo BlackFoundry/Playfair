@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-r-arm" format="2">
+  <advance width="346"/>
+  <anchor x="31" y="256" name="#entry"/>
+  <anchor x="52" y="512" name="top"/>
+  <outline>
+    <contour>
+      <point x="246" y="376" type="curve" smooth="yes"/>
+      <point x="286" y="376"/>
+      <point x="317" y="405"/>
+      <point x="317" y="446" type="curve" smooth="yes"/>
+      <point x="317" y="496"/>
+      <point x="277" y="529"/>
+      <point x="213" y="529" type="curve" smooth="yes"/>
+      <point x="140" y="529"/>
+      <point x="74" y="487"/>
+      <point x="30" y="409" type="curve"/>
+      <point x="30" y="407" type="line"/>
+      <point x="77" y="483"/>
+      <point x="137" y="514"/>
+      <point x="194" y="514" type="curve" smooth="yes"/>
+      <point x="215" y="514"/>
+      <point x="225" y="506"/>
+      <point x="225" y="493" type="curve" smooth="yes"/>
+      <point x="225" y="466"/>
+      <point x="200" y="451"/>
+      <point x="200" y="419" type="curve" smooth="yes"/>
+      <point x="200" y="393"/>
+      <point x="218" y="376"/>
+    </contour>
+  </outline>
+</glyph>

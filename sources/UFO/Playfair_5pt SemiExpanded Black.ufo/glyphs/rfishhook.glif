@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rfishhook" format="2">
+  <advance width="675"/>
+  <unicode hex="027E"/>
+  <anchor x="394" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="226" y="3" type="curve"/>
+      <point x="226" y="3" type="line"/>
+      <point x="226" y="3" type="line"/>
+      <point x="306" y="3"/>
+      <point x="375" y="1"/>
+      <point x="438" y="0" type="curve"/>
+      <point x="438" y="70" type="line"/>
+      <point x="388" y="74" type="line"/>
+      <point x="333" y="79"/>
+      <point x="316" y="96"/>
+      <point x="316" y="156" type="curve"/>
+      <point x="316" y="303" type="line"/>
+      <point x="316" y="417"/>
+      <point x="348" y="459"/>
+      <point x="435" y="459" type="curve"/>
+      <point x="476" y="459"/>
+      <point x="500" y="449"/>
+      <point x="500" y="432" type="curve"/>
+      <point x="500" y="416"/>
+      <point x="476" y="398"/>
+      <point x="476" y="371" type="curve"/>
+      <point x="476" y="341"/>
+      <point x="502" y="323"/>
+      <point x="546" y="323" type="curve"/>
+      <point x="607" y="323"/>
+      <point x="648" y="358"/>
+      <point x="648" y="412" type="curve"/>
+      <point x="648" y="484"/>
+      <point x="563" y="529"/>
+      <point x="427" y="529" type="curve"/>
+      <point x="239" y="529"/>
+      <point x="136" y="436"/>
+      <point x="136" y="265" type="curve"/>
+      <point x="136" y="156" type="line"/>
+      <point x="136" y="96"/>
+      <point x="119" y="78"/>
+      <point x="64" y="73" type="curve"/>
+      <point x="32" y="70" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="90" y="1"/>
+      <point x="153" y="3"/>
+    </contour>
+  </outline>
+</glyph>

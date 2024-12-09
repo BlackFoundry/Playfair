@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kstroke" format="2">
+  <advance width="801"/>
+  <unicode hex="A740"/>
+  <outline>
+    <component base="K"/>
+    <component base="_K-stroke" xOffset="-31" yOffset="166"/>
+  </outline>
+</glyph>

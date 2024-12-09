@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_obar" format="2">
+  <advance width="679"/>
+  <anchor x="311" y="266" name="_center"/>
+  <outline>
+    <contour>
+      <point x="97" y="265" type="line"/>
+      <point x="525" y="265" type="line"/>
+      <point x="525" y="266" type="line"/>
+      <point x="97" y="266" type="line"/>
+    </contour>
+  </outline>
+</glyph>

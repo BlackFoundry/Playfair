@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-exclamdown-stroke" format="2">
+  <advance width="252"/>
+  <anchor x="126" y="512" name="_center"/>
+  <outline>
+    <contour>
+      <point x="125" y="-239" type="curve" smooth="yes"/>
+      <point x="156" y="-239"/>
+      <point x="175" y="-218"/>
+      <point x="175" y="-183" type="curve" smooth="yes"/>
+      <point x="175" y="-131"/>
+      <point x="126" y="37"/>
+      <point x="126" y="281" type="curve"/>
+      <point x="125" y="281" type="line"/>
+      <point x="125" y="37"/>
+      <point x="77" y="-131"/>
+      <point x="77" y="-184" type="curve" smooth="yes"/>
+      <point x="77" y="-219"/>
+      <point x="95" y="-239"/>
+    </contour>
+  </outline>
+</glyph>

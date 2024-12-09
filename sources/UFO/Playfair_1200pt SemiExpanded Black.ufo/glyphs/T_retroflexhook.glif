@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tretroflexhook" format="2">
+  <advance width="814"/>
+  <unicode hex="01AE"/>
+  <outline>
+    <component base="_UC-T-upper"/>
+    <component base="_UC-lower-right-tail" xOffset="276"/>
+  </outline>
+</glyph>

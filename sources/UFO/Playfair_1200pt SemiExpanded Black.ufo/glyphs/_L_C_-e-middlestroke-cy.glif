@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-e-middlestroke-cy" format="2">
+  <advance width="303"/>
+  <anchor x="32" y="259" name="_middlestroke"/>
+  <outline>
+    <contour>
+      <point x="30" y="259" type="line"/>
+      <point x="273" y="259" type="line"/>
+      <point x="273" y="260" type="line"/>
+      <point x="30" y="260" type="line"/>
+    </contour>
+  </outline>
+</glyph>

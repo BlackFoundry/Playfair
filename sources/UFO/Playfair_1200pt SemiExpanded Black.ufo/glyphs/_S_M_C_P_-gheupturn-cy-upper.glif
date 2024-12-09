@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-gheupturn-cy-upper" format="2">
+  <advance width="670"/>
+  <anchor x="224" y="220" name="bottom-franc"/>
+  <anchor x="224" y="306" name="center"/>
+  <anchor x="130" y="250" name="stem"/>
+  <anchor x="335" y="608" name="top"/>
+  <anchor x="224" y="331" name="top-franc"/>
+  <outline>
+    <contour>
+      <point x="130" y="250" type="line"/>
+      <point x="323" y="250" type="line"/>
+      <point x="323" y="604" type="line"/>
+      <point x="347" y="604" type="line"/>
+      <point x="474" y="604"/>
+      <point x="552" y="603"/>
+      <point x="614" y="601" type="curve"/>
+      <point x="611" y="651"/>
+      <point x="613" y="706"/>
+      <point x="617" y="761" type="curve"/>
+      <point x="616" y="761" type="line"/>
+      <point x="566" y="648"/>
+      <point x="487" y="605"/>
+      <point x="353" y="605" type="curve"/>
+      <point x="227" y="605" type="line"/>
+      <point x="216" y="605" type="line"/>
+      <point x="137" y="605"/>
+      <point x="76" y="607"/>
+      <point x="40" y="608" type="curve"/>
+      <point x="40" y="607" type="line"/>
+      <point x="62" y="604" type="line"/>
+      <point x="118" y="595"/>
+      <point x="130" y="585"/>
+      <point x="130" y="521" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

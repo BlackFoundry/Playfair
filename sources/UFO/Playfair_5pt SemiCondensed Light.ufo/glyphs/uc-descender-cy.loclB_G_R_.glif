@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uc-descender-cy.loclBGR" format="2">
+  <advance width="261"/>
+  <anchor x="231" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="168" y="-160" type="curve"/>
+      <point x="241" y="-160" type="line"/>
+      <point x="235" y="-83"/>
+      <point x="231" y="-7"/>
+      <point x="231" y="71" type="curve"/>
+      <point x="200" y="71" type="line"/>
+      <point x="68" y="41" type="line"/>
+      <point x="5" y="-11" type="line"/>
+      <point x="125" y="2"/>
+      <point x="155" y="-40"/>
+    </contour>
+  </outline>
+</glyph>

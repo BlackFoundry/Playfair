@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rstroke" format="2">
+  <advance width="763"/>
+  <unicode hex="024C"/>
+  <outline>
+    <component base="R"/>
+    <component base="_R-stroke" xOffset="-41" yOffset="-7"/>
+  </outline>
+</glyph>

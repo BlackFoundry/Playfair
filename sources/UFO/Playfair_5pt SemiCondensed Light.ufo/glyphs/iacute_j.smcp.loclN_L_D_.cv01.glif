@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute_j.smcp.loclNLD.cv01" format="2">
+  <advance width="1019"/>
+  <anchor x="509.5" y="0" name="caret_1"/>
+  <outline>
+    <component base="iacute.smcp"/>
+    <component base="j.smcp.cv01" xOffset="478"/>
+    <component base="acutecomb.smcp" xOffset="666"/>
+  </outline>
+</glyph>

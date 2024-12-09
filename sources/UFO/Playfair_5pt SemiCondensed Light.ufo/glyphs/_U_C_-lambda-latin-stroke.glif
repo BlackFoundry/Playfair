@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-lambda-latin-stroke" format="2">
+  <advance width="736"/>
+  <anchor x="378" y="512" name="_center"/>
+  <outline>
+    <contour>
+      <point x="42" y="360" type="line"/>
+      <point x="311" y="437" type="line"/>
+      <point x="359" y="519" type="line"/>
+      <point x="24" y="423" type="line"/>
+    </contour>
+    <contour>
+      <point x="419" y="457" type="line"/>
+      <point x="712" y="540" type="line"/>
+      <point x="694" y="603" type="line"/>
+      <point x="392" y="517" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokeshortoverlaycomb.case" format="2">
+  <advance width="509"/>
+  <anchor x="255" y="356" name="_bottom-franc"/>
+  <anchor x="255" y="356" name="_center"/>
+  <anchor x="255" y="356" name="_top-franc"/>
+  <outline>
+    <contour>
+      <point x="20" y="356" type="line"/>
+      <point x="489" y="356" type="line"/>
+      <point x="489" y="357" type="line"/>
+      <point x="20" y="357" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Phook" format="2">
+  <advance width="720"/>
+  <unicode hex="01A4"/>
+  <outline>
+    <component base="_UC-Phook-upper"/>
+    <component base="_UC-bottom-stem-normal-wide" xOffset="133"/>
+  </outline>
+</glyph>

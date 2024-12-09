@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb.case" format="2">
+  <advance width="503"/>
+  <outline>
+    <component base="hungarumlautcomb.case" xScale="-1" xOffset="503"/>
+  </outline>
+</glyph>

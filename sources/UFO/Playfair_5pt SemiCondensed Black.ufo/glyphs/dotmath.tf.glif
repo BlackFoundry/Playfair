@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotmath.tf" format="2">
+  <advance width="623"/>
+  <outline>
+    <component base="dotmath" xOffset="161" yOffset="89"/>
+  </outline>
+</glyph>

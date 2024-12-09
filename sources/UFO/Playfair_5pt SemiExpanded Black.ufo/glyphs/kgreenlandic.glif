@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="835"/>
+  <unicode hex="0138"/>
+  <anchor x="134" y="260" name="#entry"/>
+  <anchor x="314" y="260" name="#exit"/>
+  <anchor x="134" y="0" name="^exit"/>
+  <anchor x="134" y="260" name="stem"/>
+  <anchor x="314" y="519" name="topright"/>
+  <outline>
+    <contour>
+      <point x="134" y="260" type="line"/>
+      <point x="314" y="260" type="line"/>
+      <point x="314" y="519" type="line"/>
+      <point x="314" y="530" type="line"/>
+      <point x="266" y="522"/>
+      <point x="210" y="517"/>
+      <point x="134" y="517" type="curve"/>
+      <point x="80" y="517"/>
+      <point x="60" y="518"/>
+      <point x="30" y="519" type="curve"/>
+      <point x="30" y="449" type="line"/>
+      <point x="62" y="446" type="line"/>
+      <point x="117" y="441"/>
+      <point x="134" y="420"/>
+      <point x="134" y="353" type="curve"/>
+    </contour>
+    <component base="_LC-baseline-normal-narrow" xOffset="-2"/>
+    <component base="_LC-k-legs" xOffset="257"/>
+  </outline>
+</glyph>

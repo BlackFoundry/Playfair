@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-umod-stroke-overlay" format="2">
+  <advance width="785"/>
+  <anchor x="387" y="270" name="_center"/>
+  <outline>
+    <contour>
+      <point x="103" y="269" type="line"/>
+      <point x="683" y="269" type="line"/>
+      <point x="683" y="270" type="line"/>
+      <point x="103" y="270" type="line"/>
+    </contour>
+  </outline>
+</glyph>

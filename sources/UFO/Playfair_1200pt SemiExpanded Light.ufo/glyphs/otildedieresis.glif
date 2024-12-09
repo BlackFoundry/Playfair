@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildedieresis" format="2">
+  <advance width="679"/>
+  <unicode hex="1E4F"/>
+  <outline>
+    <component base="o"/>
+    <component base="_tildecomb.light" xOffset="113" yOffset="-20"/>
+    <component base="dieresiscomb" xOffset="76" yOffset="160"/>
+  </outline>
+</glyph>

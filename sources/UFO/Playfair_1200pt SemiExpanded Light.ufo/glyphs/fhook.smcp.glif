@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fhook.smcp" format="2">
+  <advance width="655"/>
+  <anchor x="195" y="0" name="bottom"/>
+  <anchor x="237" y="140" name="center"/>
+  <anchor x="150" y="250" name="stem"/>
+  <anchor x="354" y="608" name="top"/>
+  <anchor x="354" y="588" name="top_low_1"/>
+  <anchor x="354" y="568" name="top_low_2"/>
+  <anchor x="354" y="548" name="top_low_3"/>
+  <anchor x="354" y="528" name="top_low_4"/>
+  <anchor x="354" y="508" name="top_low_5"/>
+  <outline>
+    <contour>
+      <point x="150" y="250" type="line"/>
+      <point x="243" y="250" type="line"/>
+      <point x="243" y="604" type="line"/>
+      <point x="341" y="604" type="line"/>
+      <point x="497" y="604"/>
+      <point x="568" y="580"/>
+      <point x="631" y="408" type="curve"/>
+      <point x="632" y="408" type="line"/>
+      <point x="622" y="484"/>
+      <point x="617" y="550"/>
+      <point x="620" y="608" type="curve"/>
+      <point x="549" y="606"/>
+      <point x="465" y="605"/>
+      <point x="342" y="605" type="curve"/>
+      <point x="196" y="605" type="line"/>
+      <point x="186" y="605" type="line"/>
+      <point x="126" y="605"/>
+      <point x="84" y="607"/>
+      <point x="50" y="608" type="curve"/>
+      <point x="50" y="607" type="line"/>
+      <point x="77" y="604" type="line"/>
+      <point x="137" y="597"/>
+      <point x="150" y="583"/>
+      <point x="150" y="521" type="curve"/>
+    </contour>
+    <contour>
+      <point x="197" y="226" type="line"/>
+      <point x="496" y="226" type="line"/>
+      <point x="496" y="227" type="line"/>
+      <point x="197" y="227" type="line"/>
+    </contour>
+    <contour>
+      <point x="516" y="44" type="curve"/>
+      <point x="517" y="44" type="line"/>
+      <point x="512" y="140"/>
+      <point x="511" y="179"/>
+      <point x="511" y="226" type="curve" smooth="yes"/>
+      <point x="511" y="266"/>
+      <point x="509" y="306"/>
+      <point x="514" y="398" type="curve"/>
+      <point x="513" y="398" type="line"/>
+      <point x="495" y="270"/>
+      <point x="452" y="227"/>
+      <point x="348" y="227" type="curve"/>
+      <point x="348" y="226" type="line"/>
+      <point x="461" y="226"/>
+      <point x="500" y="184"/>
+    </contour>
+    <component base="_UC-J-descender-stump.smcp" xOffset="3"/>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-De-cy-descender" format="2">
+  <advance width="725"/>
+  <anchor x="521" y="0" name="baseline"/>
+  <outline>
+    <contour>
+      <point x="273" y="3" type="curve"/>
+      <point x="695" y="3" type="line"/>
+      <point x="695" y="73" type="line"/>
+      <point x="267" y="73" type="line"/>
+      <point x="158" y="73"/>
+      <point x="89" y="74"/>
+      <point x="39" y="76" type="curve"/>
+      <point x="40" y="4"/>
+      <point x="37" y="-74"/>
+      <point x="32" y="-156" type="curve"/>
+      <point x="105" y="-156" type="line"/>
+      <point x="138" y="-45"/>
+      <point x="191" y="3"/>
+    </contour>
+  </outline>
+</glyph>

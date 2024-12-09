@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_f_l.ligature" format="2">
+  <advance width="621"/>
+  <outline>
+    <contour>
+      <point x="29" y="511" type="line"/>
+      <point x="306" y="511" type="line"/>
+      <point x="306" y="512" type="line"/>
+      <point x="29" y="512" type="line"/>
+    </contour>
+    <component base="__fl-liga" xOffset="4"/>
+  </outline>
+</glyph>

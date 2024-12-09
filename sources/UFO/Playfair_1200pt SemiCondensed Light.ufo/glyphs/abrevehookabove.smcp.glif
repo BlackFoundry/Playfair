@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevehookabove.smcp" format="2">
+  <advance width="669"/>
+  <outline>
+    <component base="a.smcp"/>
+    <component base="brevecomb.case.viet" xOffset="118" yOffset="-120"/>
+    <component base="hookabovecomb.case" xOffset="174" yOffset="12"/>
+  </outline>
+</glyph>

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_ydieresis.liga" format="2">
+  <advance width="916"/>
+  <anchor x="229" y="0" name="bottom_1"/>
+  <anchor x="687" y="0" name="bottom_2"/>
+  <anchor x="458" y="0" name="caret_1"/>
+  <anchor x="229" y="771" name="top_1"/>
+  <anchor x="687" y="771" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="171" y="3" type="curve"/>
+      <point x="171" y="3" type="line"/>
+      <point x="171" y="3" type="line"/>
+      <point x="214" y="3"/>
+      <point x="254" y="3"/>
+      <point x="335" y="0" type="curve"/>
+      <point x="335" y="1" type="line"/>
+      <point x="316" y="3" type="line"/>
+      <point x="274" y="7"/>
+      <point x="261" y="25"/>
+      <point x="261" y="73" type="curve"/>
+      <point x="261" y="260" type="line"/>
+      <point x="81" y="260" type="line"/>
+      <point x="81" y="73" type="line"/>
+      <point x="81" y="24"/>
+      <point x="70" y="6"/>
+      <point x="35" y="2" type="curve"/>
+      <point x="25" y="1" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="97" y="3"/>
+      <point x="133" y="3"/>
+    </contour>
+    <contour>
+      <point x="81" y="260" type="line"/>
+      <point x="261" y="260" type="line"/>
+      <point x="261" y="579" type="line"/>
+      <point x="261" y="705"/>
+      <point x="320" y="776"/>
+      <point x="458" y="776" type="curve"/>
+      <point x="497" y="776"/>
+      <point x="522" y="767"/>
+      <point x="522" y="753" type="curve"/>
+      <point x="522" y="722"/>
+      <point x="451" y="703"/>
+      <point x="451" y="640" type="curve"/>
+      <point x="451" y="601"/>
+      <point x="482" y="572"/>
+      <point x="535" y="572" type="curve"/>
+      <point x="606" y="572"/>
+      <point x="638" y="614"/>
+      <point x="638" y="664" type="curve"/>
+      <point x="638" y="737"/>
+      <point x="537" y="782"/>
+      <point x="404" y="782" type="curve"/>
+      <point x="213" y="782"/>
+      <point x="81" y="688"/>
+      <point x="81" y="519" type="curve"/>
+    </contour>
+    <contour>
+      <point x="21" y="519" type="line"/>
+      <point x="368" y="519" type="line"/>
+      <point x="368" y="520" type="line"/>
+      <point x="21" y="520" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.black-foundry.variable-components</key>
+      <array>
+        <dict>
+          <key>base</key>
+          <string>_2ndTittle</string>
+          <key>location</key>
+          <dict/>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <real>0.0</real>
+            <key>scaleX</key>
+            <real>1.0</real>
+            <key>scaleY</key>
+            <real>1.0</real>
+            <key>skewX</key>
+            <real>0.0</real>
+            <key>skewY</key>
+            <real>0.0</real>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>649</integer>
+            <key>translateY</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>base</key>
+          <string>y</string>
+          <key>location</key>
+          <dict/>
+          <key>transformation</key>
+          <dict>
+            <key>rotation</key>
+            <real>0.0</real>
+            <key>scaleX</key>
+            <real>1.0</real>
+            <key>scaleY</key>
+            <real>1.0</real>
+            <key>skewX</key>
+            <real>0.0</real>
+            <key>skewY</key>
+            <real>0.0</real>
+            <key>tCenterX</key>
+            <integer>0</integer>
+            <key>tCenterY</key>
+            <integer>0</integer>
+            <key>translateX</key>
+            <integer>348</integer>
+            <key>translateY</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

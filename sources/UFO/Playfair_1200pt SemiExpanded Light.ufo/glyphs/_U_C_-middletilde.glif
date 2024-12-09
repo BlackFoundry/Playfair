@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-middletilde" format="2">
+  <advance width="483"/>
+  <anchor x="241" y="354" name="_center"/>
+  <outline>
+    <contour>
+      <point x="333" y="304" type="curve" smooth="yes"/>
+      <point x="410" y="304"/>
+      <point x="446" y="349"/>
+      <point x="453" y="425" type="curve"/>
+      <point x="452" y="425" type="line"/>
+      <point x="443" y="378"/>
+      <point x="414" y="357"/>
+      <point x="364" y="357" type="curve" smooth="yes"/>
+      <point x="322" y="357"/>
+      <point x="281" y="377"/>
+      <point x="240" y="393" type="curve"/>
+      <point x="240" y="326" type="line"/>
+      <point x="270" y="314"/>
+      <point x="301" y="304"/>
+    </contour>
+    <contour>
+      <point x="31" y="283" type="line"/>
+      <point x="40" y="330"/>
+      <point x="68" y="351"/>
+      <point x="118" y="351" type="curve" smooth="yes"/>
+      <point x="160" y="351"/>
+      <point x="200" y="332"/>
+      <point x="240" y="316" type="curve"/>
+      <point x="240" y="383" type="line"/>
+      <point x="211" y="394"/>
+      <point x="181" y="404"/>
+      <point x="150" y="404" type="curve" smooth="yes"/>
+      <point x="73" y="404"/>
+      <point x="37" y="359"/>
+      <point x="30" y="283" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

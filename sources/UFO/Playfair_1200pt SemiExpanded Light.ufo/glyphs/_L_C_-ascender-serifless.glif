@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-ascender-serifless" format="2">
+  <advance width="334"/>
+  <anchor x="131" y="256" name="_stem"/>
+  <anchor x="176" y="638" name="barLeft"/>
+  <anchor x="176" y="638" name="barRight"/>
+  <outline>
+    <contour>
+      <point x="131" y="256" type="line"/>
+      <point x="221" y="256" type="line"/>
+      <point x="221" y="783" type="line"/>
+      <point x="200" y="776"/>
+      <point x="172" y="772"/>
+      <point x="131" y="770" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

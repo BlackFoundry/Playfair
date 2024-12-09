@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-florin-bar" format="2">
+  <advance width="758"/>
+  <anchor x="375" y="520" name="_center"/>
+  <outline>
+    <contour>
+      <point x="78" y="450" type="line"/>
+      <point x="672" y="450" type="line"/>
+      <point x="672" y="520" type="line"/>
+      <point x="78" y="520" type="line"/>
+    </contour>
+  </outline>
+</glyph>

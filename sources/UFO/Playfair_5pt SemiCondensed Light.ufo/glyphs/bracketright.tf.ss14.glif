@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright.tf.ss14" format="2">
+  <advance width="607"/>
+  <outline>
+    <component base="bracketright.case" xOffset="183"/>
+  </outline>
+</glyph>

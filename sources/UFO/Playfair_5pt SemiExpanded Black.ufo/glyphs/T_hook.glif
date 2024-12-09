@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thook" format="2">
+  <advance width="926"/>
+  <unicode hex="01AC"/>
+  <anchor x="595" y="0" name="#exit"/>
+  <anchor x="595" y="0" name="%exit"/>
+  <anchor x="494" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="481" y="3" type="curve"/>
+      <point x="493" y="3" type="line"/>
+      <point x="506" y="3" type="line"/>
+      <point x="572" y="3"/>
+      <point x="699" y="2"/>
+      <point x="761" y="0" type="curve"/>
+      <point x="761" y="70" type="line"/>
+      <point x="668" y="77" type="line"/>
+      <point x="607" y="83"/>
+      <point x="595" y="97"/>
+      <point x="595" y="156" type="curve"/>
+      <point x="595" y="250" type="line"/>
+      <point x="392" y="250" type="line"/>
+      <point x="392" y="156" type="line"/>
+      <point x="392" y="97"/>
+      <point x="380" y="84"/>
+      <point x="319" y="78" type="curve"/>
+      <point x="226" y="71" type="line"/>
+      <point x="226" y="1" type="line"/>
+      <point x="288" y="2"/>
+      <point x="415" y="3"/>
+    </contour>
+    <component base="_UC-T-hook-top-stroke"/>
+    <component base="_UC-T-upper-stroke" xOffset="362"/>
+  </outline>
+</glyph>

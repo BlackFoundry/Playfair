@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-Iota-upper" format="2">
+  <advance width="421"/>
+  <anchor x="188" y="0" name="^exit"/>
+  <anchor x="289" y="708" name="top"/>
+  <outline>
+    <contour>
+      <point x="188" y="250" type="line"/>
+      <point x="391" y="250" type="line"/>
+      <point x="391" y="708" type="line"/>
+      <point x="391" y="638" type="line"/>
+      <point x="391" y="718" type="line"/>
+      <point x="318" y="709"/>
+      <point x="245" y="705"/>
+      <point x="146" y="705" type="curve"/>
+      <point x="103" y="705"/>
+      <point x="80" y="706"/>
+      <point x="50" y="707" type="curve"/>
+      <point x="50" y="637" type="line"/>
+      <point x="105" y="632" type="line"/>
+      <point x="177" y="625"/>
+      <point x="188" y="614"/>
+      <point x="188" y="551" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

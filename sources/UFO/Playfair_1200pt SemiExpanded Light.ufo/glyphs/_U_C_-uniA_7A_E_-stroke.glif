@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-uniA7AE-stroke" format="2">
+  <advance width="153"/>
+  <anchor x="77" y="704" name="_topstroke"/>
+  <anchor x="77" y="0" name="baseline"/>
+  <anchor x="77" y="354" name="center"/>
+  <outline>
+    <contour>
+      <point x="30" y="3" type="line"/>
+      <point x="123" y="3" type="line"/>
+      <point x="123" y="704" type="line"/>
+      <point x="30" y="704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nlongrightleg" format="2">
+  <advance width="926"/>
+  <unicode hex="0220"/>
+  <outline>
+    <component base="_UC-upper-stem-instroke"/>
+    <component base="_UC-bottom-stem-normal-wide"/>
+    <component base="_UC-Eng-arch" xOffset="267"/>
+    <component base="_UC-bottom-stem-descender" xOffset="462"/>
+  </outline>
+</glyph>

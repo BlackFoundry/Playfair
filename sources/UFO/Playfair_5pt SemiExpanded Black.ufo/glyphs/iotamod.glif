@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotamod" format="2">
+  <advance width="508"/>
+  <unicode hex="1DA5"/>
+  <outline>
+    <contour>
+      <point x="295" y="355" type="curve" smooth="yes"/>
+      <point x="399" y="355"/>
+      <point x="455" y="386"/>
+      <point x="480" y="454" type="curve" smooth="yes"/>
+      <point x="487" y="473" type="line"/>
+      <point x="430" y="473" type="line"/>
+      <point x="426" y="465" type="line" smooth="yes"/>
+      <point x="407" y="427"/>
+      <point x="380" y="412"/>
+      <point x="332" y="412" type="curve" smooth="yes"/>
+      <point x="269" y="412"/>
+      <point x="239" y="434"/>
+      <point x="239" y="475" type="curve" smooth="yes"/>
+      <point x="239" y="720" type="line"/>
+      <point x="204" y="715"/>
+      <point x="159" y="711"/>
+      <point x="95" y="711" type="curve" smooth="yes"/>
+      <point x="52" y="711"/>
+      <point x="37" y="712"/>
+      <point x="13" y="713" type="curve"/>
+      <point x="13" y="666" type="line"/>
+      <point x="40" y="664" type="line" smooth="yes"/>
+      <point x="81" y="661"/>
+      <point x="98" y="651"/>
+      <point x="98" y="605" type="curve" smooth="yes"/>
+      <point x="98" y="504" type="line" smooth="yes"/>
+      <point x="98" y="405"/>
+      <point x="164" y="355"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rdotaccent" format="2">
+  <advance width="845"/>
+  <unicode hex="1E58"/>
+  <outline>
+    <component base="R"/>
+    <component base="dotaccentcomb.case" xOffset="223"/>
+  </outline>
+</glyph>

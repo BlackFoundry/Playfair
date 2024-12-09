@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="istroke" format="2">
+  <advance width="381"/>
+  <unicode hex="0268"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dotaccentcomb" xOffset="22"/>
+    <component base="_LC-i-stroke" xOffset="-100" yOffset="-10"/>
+  </outline>
+</glyph>

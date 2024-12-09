@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_udieresis.liga" format="2">
+  <advance width="1079"/>
+  <anchor x="270" y="0" name="bottom_1"/>
+  <anchor x="809" y="0" name="bottom_2"/>
+  <anchor x="539.5" y="0" name="caret_1"/>
+  <anchor x="270" y="773" name="top_1"/>
+  <anchor x="809" y="773" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="200" y="3" type="curve"/>
+      <point x="200" y="3" type="line"/>
+      <point x="200" y="3" type="line"/>
+      <point x="275" y="3"/>
+      <point x="336" y="1"/>
+      <point x="394" y="0" type="curve"/>
+      <point x="394" y="70" type="line"/>
+      <point x="370" y="73" type="line"/>
+      <point x="302" y="82"/>
+      <point x="290" y="91"/>
+      <point x="290" y="137" type="curve"/>
+      <point x="290" y="260" type="line"/>
+      <point x="110" y="260" type="line"/>
+      <point x="110" y="137" type="line"/>
+      <point x="110" y="91"/>
+      <point x="101" y="80"/>
+      <point x="48" y="73" type="curve"/>
+      <point x="24" y="70" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="77" y="1"/>
+      <point x="132" y="3"/>
+    </contour>
+    <contour>
+      <point x="110" y="260" type="line"/>
+      <point x="290" y="260" type="line"/>
+      <point x="290" y="539" type="line"/>
+      <point x="290" y="663"/>
+      <point x="338" y="712"/>
+      <point x="440" y="712" type="curve"/>
+      <point x="490" y="712"/>
+      <point x="517" y="703"/>
+      <point x="517" y="688" type="curve"/>
+      <point x="517" y="670"/>
+      <point x="493" y="651"/>
+      <point x="493" y="624" type="curve"/>
+      <point x="493" y="594"/>
+      <point x="515" y="576"/>
+      <point x="553" y="576" type="curve"/>
+      <point x="615" y="576"/>
+      <point x="654" y="609"/>
+      <point x="654" y="662" type="curve"/>
+      <point x="654" y="739"/>
+      <point x="575" y="782"/>
+      <point x="431" y="782" type="curve"/>
+      <point x="235" y="782"/>
+      <point x="110" y="680"/>
+      <point x="110" y="519" type="curve"/>
+    </contour>
+    <contour>
+      <point x="650" y="260" type="line"/>
+      <point x="470" y="260" type="line"/>
+      <point x="470" y="160" type="line" smooth="yes"/>
+      <point x="470" y="47"/>
+      <point x="525" y="-13"/>
+      <point x="630" y="-13" type="curve" smooth="yes"/>
+      <point x="724" y="-13"/>
+      <point x="791" y="37"/>
+      <point x="841" y="187" type="curve"/>
+      <point x="820" y="203" type="line"/>
+      <point x="790" y="130"/>
+      <point x="758" y="99"/>
+      <point x="713" y="99" type="curve" smooth="yes"/>
+      <point x="670" y="99"/>
+      <point x="650" y="123"/>
+      <point x="650" y="172" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="792" y="0" type="line"/>
+      <point x="792" y="-11" type="line"/>
+      <point x="837" y="-3"/>
+      <point x="891" y="2"/>
+      <point x="963" y="2" type="curve"/>
+      <point x="1003" y="2"/>
+      <point x="1029" y="1"/>
+      <point x="1058" y="0" type="curve"/>
+      <point x="1058" y="70" type="line"/>
+      <point x="1034" y="73" type="line"/>
+      <point x="981" y="80"/>
+      <point x="972" y="91"/>
+      <point x="972" y="137" type="curve"/>
+      <point x="972" y="260" type="line"/>
+      <point x="792" y="260" type="line"/>
+    </contour>
+    <contour>
+      <point x="972" y="520" type="line"/>
+      <point x="972" y="531" type="line"/>
+      <point x="929" y="522"/>
+      <point x="877" y="518"/>
+      <point x="817" y="518" type="curve"/>
+      <point x="791" y="518"/>
+      <point x="766" y="519"/>
+      <point x="738" y="520" type="curve"/>
+      <point x="738" y="450" type="line"/>
+      <point x="749" y="449" type="line"/>
+      <point x="781" y="445"/>
+      <point x="792" y="427"/>
+      <point x="792" y="383" type="curve"/>
+      <point x="792" y="260" type="line"/>
+      <point x="972" y="260" type="line"/>
+    </contour>
+    <component base="_2ndTittle" xOffset="677"/>
+    <component base="_LC-ligature-udieresis" xOffset="-10"/>
+  </outline>
+</glyph>

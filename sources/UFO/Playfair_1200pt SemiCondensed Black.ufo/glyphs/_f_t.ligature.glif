@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_f_t.ligature" format="2">
+  <advance width="436"/>
+  <anchor x="98" y="260" name="#entry"/>
+  <anchor x="278" y="260" name="#exit"/>
+  <anchor x="-161" y="0" name="%entry"/>
+  <anchor x="21" y="0" name="^entry"/>
+  <anchor x="345" y="0" name="^exit"/>
+  <anchor x="98" y="260" name="stem"/>
+  <outline>
+    <contour>
+      <point x="98" y="0" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="136" y="2"/>
+      <point x="171" y="3"/>
+      <point x="193" y="3" type="curve"/>
+      <point x="215" y="3"/>
+      <point x="254" y="3"/>
+      <point x="334" y="0" type="curve"/>
+      <point x="334" y="1" type="line"/>
+      <point x="324" y="2" type="line"/>
+      <point x="289" y="6"/>
+      <point x="278" y="24"/>
+      <point x="278" y="73" type="curve"/>
+      <point x="278" y="260" type="line"/>
+      <point x="98" y="260" type="line"/>
+    </contour>
+    <contour>
+      <point x="38" y="519" type="line"/>
+      <point x="455" y="519" type="line"/>
+      <point x="455" y="520" type="line"/>
+      <point x="38" y="520" type="line"/>
+    </contour>
+    <component base="_LC-t-liga-ascender" xOffset="24"/>
+    <component base="_LC-baseline-tail" xOffset="26"/>
+    <component base="_LC-t-top" xOffset="26"/>
+    <component base="_LC-t-bar" xOffset="26"/>
+  </outline>
+</glyph>

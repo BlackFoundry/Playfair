@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless.cv01" format="2">
+  <advance width="293"/>
+  <anchor x="105" y="256" name="#entry"/>
+  <anchor x="195" y="256" name="#exit"/>
+  <anchor x="0" y="0" name="^entry"/>
+  <anchor x="105" y="0" name="^exit"/>
+  <anchor x="150" y="257" name="center"/>
+  <anchor x="105" y="256" name="stem"/>
+  <anchor x="150" y="512" name="top"/>
+  <anchor x="195" y="514" name="topright"/>
+  <outline>
+    <contour>
+      <point x="105" y="256" type="line"/>
+      <point x="195" y="256" type="line"/>
+      <point x="195" y="514" type="line"/>
+      <point x="195" y="526" type="line"/>
+      <point x="167" y="516"/>
+      <point x="130" y="512"/>
+      <point x="89" y="512" type="curve"/>
+      <point x="73" y="512"/>
+      <point x="60" y="512"/>
+      <point x="29" y="514" type="curve"/>
+      <point x="29" y="513" type="line"/>
+      <point x="38" y="512" type="line"/>
+      <point x="90" y="506"/>
+      <point x="105" y="490"/>
+      <point x="105" y="441" type="curve"/>
+    </contour>
+    <component base="_LC-descender-left-hook" xOffset="-146"/>
+  </outline>
+</glyph>

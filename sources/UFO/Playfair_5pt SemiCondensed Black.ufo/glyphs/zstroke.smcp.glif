@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zstroke.smcp" format="2">
+  <advance width="581"/>
+  <outline>
+    <component base="_SMCP-z-stroke-body"/>
+    <component base="_UC-Z-stroke-overlay" xOffset="-23" yOffset="35"/>
+  </outline>
+</glyph>

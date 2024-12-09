@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-alpha-latin-outstroke" format="2">
+  <advance width="284"/>
+  <anchor x="30" y="260" name="#entry"/>
+  <anchor x="30" y="260" name="^entry"/>
+  <outline>
+    <contour>
+      <point x="210" y="40" type="curve"/>
+      <point x="210" y="260" type="line"/>
+      <point x="30" y="260" type="line"/>
+      <point x="30" y="78" type="line"/>
+      <point x="30" y="7"/>
+      <point x="56" y="-14"/>
+      <point x="143" y="-14" type="curve"/>
+      <point x="198" y="-14"/>
+      <point x="237" y="-5"/>
+      <point x="265" y="14" type="curve"/>
+      <point x="265" y="15" type="line"/>
+      <point x="257" y="12"/>
+      <point x="248" y="11"/>
+      <point x="238" y="11" type="curve"/>
+      <point x="218" y="11"/>
+      <point x="210" y="19"/>
+    </contour>
+  </outline>
+</glyph>

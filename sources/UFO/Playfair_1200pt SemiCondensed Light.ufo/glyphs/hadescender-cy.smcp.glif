@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hadescender-cy.smcp" format="2">
+  <advance width="638"/>
+  <outline>
+    <component base="x.smcp"/>
+    <component base="_ha_descender-cy" xOffset="445"/>
+  </outline>
+</glyph>

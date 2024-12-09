@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldoublebar" format="2">
+  <advance width="725"/>
+  <unicode hex="2C60"/>
+  <outline>
+    <component base="L"/>
+    <component base="_L-double-bar" xOffset="-38" yOffset="85"/>
+  </outline>
+</glyph>

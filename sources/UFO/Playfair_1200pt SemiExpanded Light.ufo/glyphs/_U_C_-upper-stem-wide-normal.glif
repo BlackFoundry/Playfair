@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-upper-stem-wide-normal" format="2">
+  <advance width="393"/>
+  <anchor x="197" y="354" name="center"/>
+  <anchor x="150" y="250" name="stem"/>
+  <anchor x="196" y="708" name="top"/>
+  <anchor x="196" y="688" name="top_low_1"/>
+  <anchor x="196" y="668" name="top_low_2"/>
+  <anchor x="196" y="648" name="top_low_3"/>
+  <outline>
+    <contour>
+      <point x="150" y="250" type="line"/>
+      <point x="243" y="250" type="line"/>
+      <point x="243" y="621" type="line"/>
+      <point x="243" y="683"/>
+      <point x="256" y="697"/>
+      <point x="316" y="704" type="curve"/>
+      <point x="343" y="707" type="line"/>
+      <point x="343" y="708" type="line"/>
+      <point x="309" y="707"/>
+      <point x="267" y="705"/>
+      <point x="207" y="705" type="curve"/>
+      <point x="196" y="705" type="line"/>
+      <point x="190" y="705" type="line"/>
+      <point x="119" y="705"/>
+      <point x="69" y="707"/>
+      <point x="30" y="708" type="curve"/>
+      <point x="30" y="707" type="line"/>
+      <point x="71" y="703" type="line"/>
+      <point x="137" y="696"/>
+      <point x="150" y="683"/>
+      <point x="150" y="621" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-U-left-serif-wide" format="2">
+  <advance width="404"/>
+  <anchor x="100" y="0" name="^exit"/>
+  <outline>
+    <contour>
+      <point x="100" y="458" type="line"/>
+      <point x="303" y="458" type="line"/>
+      <point x="303" y="621" type="line"/>
+      <point x="303" y="684"/>
+      <point x="312" y="700"/>
+      <point x="357" y="705" type="curve"/>
+      <point x="373" y="707" type="line"/>
+      <point x="373" y="708" type="line"/>
+      <point x="344" y="707"/>
+      <point x="290" y="705"/>
+      <point x="217" y="705" type="curve"/>
+      <point x="201" y="705" type="line"/>
+      <point x="186" y="705" type="line"/>
+      <point x="113" y="705"/>
+      <point x="59" y="707"/>
+      <point x="30" y="708" type="curve"/>
+      <point x="30" y="707" type="line"/>
+      <point x="46" y="705" type="line"/>
+      <point x="91" y="700"/>
+      <point x="100" y="684"/>
+      <point x="100" y="621" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflexgrave.smcp" format="2">
+  <advance width="924"/>
+  <outline>
+    <component base="o.smcp"/>
+    <component base="circumflexcomb.case.viet.narrow" xOffset="229" yOffset="-100"/>
+    <component base="gravecomb.case.viet" xOffset="148" yOffset="20"/>
+  </outline>
+</glyph>

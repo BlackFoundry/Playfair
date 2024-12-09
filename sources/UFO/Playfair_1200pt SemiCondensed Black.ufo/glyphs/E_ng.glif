@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance width="801"/>
+  <unicode hex="014A"/>
+  <outline>
+    <component base="_UC-upper-stem-instroke"/>
+    <component base="_UC-bottom-stem-normal-wide"/>
+    <component base="_UC-Eng-arch" xOffset="258"/>
+    <component base="_UC-J-descender-stump" xOffset="469"/>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-baseline-left-instroke" format="2">
+  <advance width="218"/>
+  <anchor x="98" y="256" name="#entry"/>
+  <anchor x="188" y="256" name="#exit"/>
+  <anchor x="98" y="256" name="_stem"/>
+  <anchor x="188" y="0" name="bottom-right"/>
+  <anchor x="98" y="256" name="stem"/>
+  <outline>
+    <contour>
+      <point x="188" y="45" type="curve"/>
+      <point x="188" y="0" type="line"/>
+      <point x="188" y="256" type="line"/>
+      <point x="98" y="256" type="line"/>
+      <point x="98" y="50" type="line"/>
+      <point x="98" y="17"/>
+      <point x="94" y="-3"/>
+      <point x="85" y="-18" type="curve"/>
+      <point x="86" y="-19" type="line"/>
+      <point x="105" y="10"/>
+      <point x="145" y="36"/>
+    </contour>
+  </outline>
+</glyph>

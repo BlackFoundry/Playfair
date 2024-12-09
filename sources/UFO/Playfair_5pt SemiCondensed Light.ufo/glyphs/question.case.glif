@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question.case" format="2">
+  <advance width="459"/>
+  <outline>
+    <component base="_UC-question-upper"/>
+    <component base="period" xOffset="34"/>
+  </outline>
+</glyph>

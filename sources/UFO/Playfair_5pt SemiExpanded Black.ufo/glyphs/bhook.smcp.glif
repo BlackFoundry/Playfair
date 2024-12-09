@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bhook.smcp" format="2">
+  <advance width="1086"/>
+  <anchor x="631" y="0" name="bottom"/>
+  <anchor x="686" y="0" name="currency"/>
+  <anchor x="630" y="608" name="top"/>
+  <outline>
+    <contour>
+      <point x="611" y="0" type="curve"/>
+      <point x="692" y="0" type="line" smooth="yes"/>
+      <point x="913" y="0"/>
+      <point x="1032" y="58"/>
+      <point x="1032" y="167" type="curve" smooth="yes"/>
+      <point x="1032" y="257"/>
+      <point x="955" y="309"/>
+      <point x="799" y="324" type="curve"/>
+      <point x="799" y="326" type="line"/>
+      <point x="908" y="343"/>
+      <point x="965" y="391"/>
+      <point x="965" y="466" type="curve" smooth="yes"/>
+      <point x="965" y="563"/>
+      <point x="870" y="608"/>
+      <point x="667" y="608" type="curve" smooth="yes"/>
+      <point x="602" y="608"/>
+      <point x="537" y="605"/>
+      <point x="472" y="605" type="curve"/>
+      <point x="484" y="605" type="line"/>
+      <point x="395" y="605"/>
+      <point x="329" y="608"/>
+      <point x="265" y="608" type="curve"/>
+      <point x="113" y="608"/>
+      <point x="28" y="540"/>
+      <point x="28" y="429" type="curve"/>
+      <point x="28" y="360"/>
+      <point x="66" y="318"/>
+      <point x="127" y="318" type="curve"/>
+      <point x="180" y="318"/>
+      <point x="216" y="351"/>
+      <point x="216" y="399" type="curve"/>
+      <point x="216" y="440"/>
+      <point x="183" y="455"/>
+      <point x="183" y="488" type="curve"/>
+      <point x="183" y="519"/>
+      <point x="201" y="538"/>
+      <point x="266" y="538" type="curve"/>
+      <point x="352" y="538"/>
+      <point x="377" y="521"/>
+      <point x="377" y="452" type="curve"/>
+      <point x="377" y="156" type="line"/>
+      <point x="377" y="95"/>
+      <point x="364" y="83"/>
+      <point x="282" y="76" type="curve"/>
+      <point x="203" y="70" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="264" y="2"/>
+      <point x="392" y="3"/>
+      <point x="483" y="3" type="curve"/>
+      <point x="516" y="3"/>
+      <point x="581" y="0"/>
+    </contour>
+    <contour>
+      <point x="657" y="73" type="curve" smooth="yes"/>
+      <point x="583" y="73"/>
+      <point x="570" y="86"/>
+      <point x="570" y="156" type="curve" smooth="yes"/>
+      <point x="570" y="538" type="line"/>
+      <point x="653" y="538" type="line" smooth="yes"/>
+      <point x="739" y="538"/>
+      <point x="785" y="508"/>
+      <point x="785" y="451" type="curve" smooth="yes"/>
+      <point x="785" y="390"/>
+      <point x="734" y="351"/>
+      <point x="654" y="351" type="curve" smooth="yes"/>
+      <point x="518" y="351" type="line"/>
+      <point x="518" y="284" type="line"/>
+      <point x="661" y="284" type="line" smooth="yes"/>
+      <point x="775" y="284"/>
+      <point x="832" y="249"/>
+      <point x="832" y="178" type="curve" smooth="yes"/>
+      <point x="832" y="107"/>
+      <point x="776" y="73"/>
+    </contour>
+  </outline>
+</glyph>

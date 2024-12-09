@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflextilde.smcp" format="2">
+  <advance width="724"/>
+  <outline>
+    <component base="e.smcp"/>
+    <component base="circumflexcomb.case.viet" xOffset="116" yOffset="-100"/>
+    <component base="tildecomb.case.viet" xOffset="116" yOffset="52"/>
+  </outline>
+</glyph>

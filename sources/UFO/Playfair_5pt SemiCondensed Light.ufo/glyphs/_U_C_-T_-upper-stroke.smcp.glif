@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-T-upper-stroke.smcp" format="2">
+  <advance width="153"/>
+  <anchor x="77" y="565" name="_topstroke"/>
+  <anchor x="77" y="304" name="center"/>
+  <anchor x="77" y="248" name="center_lowered"/>
+  <anchor x="30" y="250" name="stem"/>
+  <outline>
+    <contour>
+      <point x="30" y="250" type="line"/>
+      <point x="123" y="250" type="line"/>
+      <point x="123" y="565" type="line"/>
+      <point x="30" y="565" type="line"/>
+    </contour>
+  </outline>
+</glyph>

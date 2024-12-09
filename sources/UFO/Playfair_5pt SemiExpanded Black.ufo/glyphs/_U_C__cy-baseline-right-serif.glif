@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC_cy-baseline-right-serif" format="2">
+  <advance width="319"/>
+  <anchor x="131" y="0" name="#entry"/>
+  <outline>
+    <contour>
+      <point x="131" y="156" type="curve"/>
+      <point x="131" y="186" type="line"/>
+      <point x="31" y="3" type="line"/>
+      <point x="40" y="3" type="line"/>
+      <point x="99" y="3"/>
+      <point x="217" y="2"/>
+      <point x="269" y="0" type="curve"/>
+      <point x="269" y="70" type="line"/>
+      <point x="214" y="75" type="line"/>
+      <point x="142" y="82"/>
+      <point x="131" y="93"/>
+    </contour>
+  </outline>
+</glyph>

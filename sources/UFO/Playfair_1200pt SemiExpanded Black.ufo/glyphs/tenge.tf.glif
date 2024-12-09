@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tenge.tf" format="2">
+  <advance width="715"/>
+  <outline>
+    <contour>
+      <point x="144" y="0" type="line"/>
+      <point x="169" y="1"/>
+      <point x="300" y="3"/>
+      <point x="360" y="3" type="curve" smooth="yes"/>
+      <point x="419" y="3"/>
+      <point x="547" y="1"/>
+      <point x="571" y="0" type="curve"/>
+      <point x="571" y="1" type="line"/>
+      <point x="478" y="5"/>
+      <point x="458" y="10"/>
+      <point x="458" y="94" type="curve" smooth="yes"/>
+      <point x="458" y="574" type="line"/>
+      <point x="440" y="574" type="line" smooth="yes"/>
+      <point x="574" y="574"/>
+      <point x="626" y="500"/>
+      <point x="681" y="308" type="curve"/>
+      <point x="682" y="308" type="line"/>
+      <point x="673" y="396"/>
+      <point x="671" y="482"/>
+      <point x="672" y="578" type="curve"/>
+      <point x="579" y="575"/>
+      <point x="447" y="575"/>
+      <point x="359" y="575" type="curve" smooth="yes"/>
+      <point x="269" y="575"/>
+      <point x="136" y="575"/>
+      <point x="44" y="578" type="curve"/>
+      <point x="45" y="486"/>
+      <point x="42" y="393"/>
+      <point x="33" y="308" type="curve"/>
+      <point x="34" y="308" type="line"/>
+      <point x="90" y="504"/>
+      <point x="145" y="574"/>
+      <point x="277" y="574" type="curve" smooth="yes"/>
+      <point x="258" y="574" type="line"/>
+      <point x="258" y="94" type="line" smooth="yes"/>
+      <point x="258" y="10"/>
+      <point x="238" y="5"/>
+      <point x="144" y="1" type="curve"/>
+    </contour>
+    <contour>
+      <point x="34" y="707" type="line"/>
+      <point x="681" y="707" type="line"/>
+      <point x="681" y="708" type="line"/>
+      <point x="34" y="708" type="line"/>
+    </contour>
+  </outline>
+</glyph>

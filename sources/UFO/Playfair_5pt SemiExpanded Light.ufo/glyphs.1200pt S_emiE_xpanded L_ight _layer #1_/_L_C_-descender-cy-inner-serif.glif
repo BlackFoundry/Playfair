@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-descender-cy-inner-serif" format="2">
+  <advance width="348"/>
+  <anchor x="125" y="256" name="_stem"/>
+  <outline>
+    <contour>
+      <point x="170" y="3" type="curve"/>
+      <point x="171" y="3" type="line"/>
+      <point x="215" y="0" type="line"/>
+      <point x="215" y="256" type="line"/>
+      <point x="125" y="256" type="line"/>
+      <point x="125" y="73" type="line"/>
+      <point x="125" y="23"/>
+      <point x="110" y="6"/>
+      <point x="69" y="3" type="curve"/>
+      <point x="52" y="1" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="96" y="1"/>
+      <point x="132" y="3"/>
+    </contour>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="59" y="0" type="line"/>
+      <point x="203" y="0"/>
+      <point x="254" y="-32"/>
+      <point x="317" y="-162" type="curve"/>
+      <point x="318" y="-162" type="line"/>
+      <point x="311" y="-100"/>
+      <point x="307" y="-45"/>
+      <point x="310" y="3" type="curve"/>
+      <point x="278" y="1"/>
+      <point x="245" y="1"/>
+      <point x="213" y="1" type="curve"/>
+      <point x="59" y="1" type="line"/>
+      <point x="214" y="1" type="line"/>
+      <point x="176" y="17" type="line"/>
+      <point x="113" y="4" type="line"/>
+      <point x="31" y="1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

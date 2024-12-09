@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="clickdental" format="2">
+  <advance width="354"/>
+  <unicode hex="01C0"/>
+  <anchor x="87" y="0" name="#entry"/>
+  <anchor x="354" y="0" name="#exit"/>
+  <anchor x="177" y="386" name="center"/>
+  <outline>
+    <contour>
+      <point x="87" y="0" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="267" y="771" type="line"/>
+      <point x="87" y="771" type="line"/>
+    </contour>
+  </outline>
+</glyph>

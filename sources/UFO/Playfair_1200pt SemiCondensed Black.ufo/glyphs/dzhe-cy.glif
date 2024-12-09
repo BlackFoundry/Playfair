@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzhe-cy" format="2">
+  <advance width="645"/>
+  <unicode hex="045F"/>
+  <outline>
+    <component base="_tse-dzhe-cy_base"/>
+    <component base="_UC-Dzhe-tail-cy" xOffset="86"/>
+    <component base="_LC-descender-cy-outer-serif" xOffset="357"/>
+  </outline>
+</glyph>

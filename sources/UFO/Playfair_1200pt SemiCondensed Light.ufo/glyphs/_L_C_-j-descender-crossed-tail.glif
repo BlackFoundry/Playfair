@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-j-descender-crossed-tail" format="2">
+  <advance width="361"/>
+  <anchor x="-29" y="0" name="#entry"/>
+  <anchor x="192" y="260" name="_stem"/>
+  <anchor x="69" y="-231" name="bottom"/>
+  <anchor x="192" y="260" name="stem"/>
+  <outline>
+    <contour>
+      <point x="98" y="-239" type="curve" smooth="yes"/>
+      <point x="223" y="-239"/>
+      <point x="282" y="-151"/>
+      <point x="282" y="36" type="curve" smooth="yes"/>
+      <point x="282" y="260" type="line"/>
+      <point x="192" y="260" type="line"/>
+      <point x="192" y="-17" type="line" smooth="yes"/>
+      <point x="192" y="-165"/>
+      <point x="155" y="-231"/>
+      <point x="73" y="-231" type="curve" smooth="yes"/>
+      <point x="10" y="-231"/>
+      <point x="-26" y="-193"/>
+      <point x="-26" y="-128" type="curve" smooth="yes"/>
+      <point x="-26" y="-35"/>
+      <point x="45" y="14"/>
+      <point x="182" y="14" type="curve" smooth="yes"/>
+      <point x="280" y="14"/>
+      <point x="357" y="-11"/>
+      <point x="426" y="-65" type="curve"/>
+      <point x="427" y="-64" type="line"/>
+      <point x="358" y="-10"/>
+      <point x="280" y="15"/>
+      <point x="182" y="15" type="curve" smooth="yes"/>
+      <point x="44" y="15"/>
+      <point x="-27" y="-34"/>
+      <point x="-27" y="-128" type="curve" smooth="yes"/>
+      <point x="-27" y="-201"/>
+      <point x="15" y="-239"/>
+    </contour>
+  </outline>
+</glyph>

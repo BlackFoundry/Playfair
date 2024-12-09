@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashl" format="2">
+  <advance width="286"/>
+  <anchor x="144" y="354" name="_center"/>
+  <outline>
+    <contour>
+      <point x="-23" y="241" type="line"/>
+      <point x="144" y="386" type="line"/>
+      <point x="144" y="388" type="line"/>
+      <point x="-23" y="243" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="368" type="line"/>
+      <point x="301" y="505" type="line"/>
+      <point x="301" y="507" type="line"/>
+      <point x="144" y="370" type="line"/>
+    </contour>
+  </outline>
+</glyph>

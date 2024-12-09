@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccedillaacute.smcp" format="2">
+  <advance width="727"/>
+  <outline>
+    <component base="c.smcp"/>
+    <component base="acutecomb.smcp" xOffset="266"/>
+    <component base="cedillacomb.case" xOffset="245"/>
+  </outline>
+</glyph>

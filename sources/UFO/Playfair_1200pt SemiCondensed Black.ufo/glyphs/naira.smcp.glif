@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira.smcp" format="2">
+  <advance width="811"/>
+  <outline>
+    <component base="n.smcp" xOffset="68"/>
+    <component base="_naira-bar" yOffset="-149"/>
+  </outline>
+</glyph>

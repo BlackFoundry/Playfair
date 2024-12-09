@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="entail-cy.smcp" format="2">
+  <advance width="813"/>
+  <outline>
+    <component base="_SMCP-top-stem-normal-narrow"/>
+    <component base="_SMCP-H-upper"/>
+    <component base="_SMCP-bottom-stem-narrow-none" xOffset="418"/>
+    <component base="_SMCP-hook-descender-cy" xOffset="407"/>
+  </outline>
+</glyph>

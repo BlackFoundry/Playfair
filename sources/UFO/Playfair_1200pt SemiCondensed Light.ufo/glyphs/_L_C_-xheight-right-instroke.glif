@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-xheight-right-instroke" format="2">
+  <advance width="378"/>
+  <anchor x="200" y="256" name="#exit"/>
+  <anchor x="200" y="0" name="^exit"/>
+  <anchor x="290" y="0" name="_bottom-right"/>
+  <anchor x="88" y="512" name="top"/>
+  <outline>
+    <contour>
+      <point x="200" y="256" type="line"/>
+      <point x="290" y="256" type="line"/>
+      <point x="290" y="464" type="line"/>
+      <point x="290" y="497"/>
+      <point x="294" y="517"/>
+      <point x="303" y="532" type="curve"/>
+      <point x="302" y="533" type="line"/>
+      <point x="283" y="504"/>
+      <point x="243" y="478"/>
+      <point x="200" y="469" type="curve"/>
+      <point x="200" y="514" type="line"/>
+    </contour>
+  </outline>
+</glyph>

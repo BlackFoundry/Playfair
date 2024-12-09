@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bstroke" format="2">
+  <advance width="733"/>
+  <unicode hex="0180"/>
+  <anchor x="278" y="260" name="#entry"/>
+  <anchor x="278" y="260" name="#exit"/>
+  <anchor x="385" y="261" name="center"/>
+  <anchor x="327" y="520" name="top"/>
+  <anchor x="98" y="520" name="top-left"/>
+  <outline>
+    <contour>
+      <point x="443" y="534" type="curve" smooth="yes"/>
+      <point x="367" y="534"/>
+      <point x="306" y="508"/>
+      <point x="263" y="433" type="curve"/>
+      <point x="264" y="432" type="line"/>
+      <point x="297" y="488"/>
+      <point x="334" y="503"/>
+      <point x="369" y="503" type="curve" smooth="yes"/>
+      <point x="449" y="503"/>
+      <point x="492" y="418"/>
+      <point x="492" y="258" type="curve" smooth="yes"/>
+      <point x="492" y="90"/>
+      <point x="445" y="5"/>
+      <point x="353" y="5" type="curve" smooth="yes"/>
+      <point x="319" y="5"/>
+      <point x="292" y="19"/>
+      <point x="275" y="37" type="curve"/>
+      <point x="274" y="37" type="line"/>
+      <point x="293" y="12"/>
+      <point x="352" y="-13"/>
+      <point x="419" y="-13" type="curve" smooth="yes"/>
+      <point x="580" y="-13"/>
+      <point x="679" y="94"/>
+      <point x="679" y="267" type="curve" smooth="yes"/>
+      <point x="679" y="432"/>
+      <point x="589" y="534"/>
+    </contour>
+    <component base="_LC-baseline-left-instroke"/>
+    <component base="_LC-ascender-serifless" xOffset="-5"/>
+    <component base="strokeshortcomb" xOffset="-45" yOffset="368"/>
+  </outline>
+</glyph>

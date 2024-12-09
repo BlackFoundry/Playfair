@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ii-cy" format="2">
+  <advance width="931"/>
+  <unicode hex="0418"/>
+  <outline>
+    <component base="_UC-top-stem-normal-narrow"/>
+    <component base="_UC-Ii-cy"/>
+    <component base="_UC-bottom-stem-narrow-normal" xOffset="460"/>
+  </outline>
+</glyph>

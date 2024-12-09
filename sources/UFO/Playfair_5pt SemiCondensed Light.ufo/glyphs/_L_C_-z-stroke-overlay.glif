@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-z-stroke-overlay" format="2">
+  <advance width="676"/>
+  <anchor x="338" y="269" name="_center"/>
+  <outline>
+    <contour>
+      <point x="130" y="234" type="line"/>
+      <point x="546" y="234" type="line"/>
+      <point x="546" y="304" type="line"/>
+      <point x="130" y="304" type="line"/>
+    </contour>
+  </outline>
+</glyph>

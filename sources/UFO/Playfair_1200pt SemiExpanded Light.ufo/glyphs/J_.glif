@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="393"/>
+  <unicode hex="004A"/>
+  <anchor x="197" y="0" name="bottom"/>
+  <anchor x="197" y="708" name="top"/>
+  <outline>
+    <component base="_UC-upper-stem-wide-normal"/>
+    <component base="_UC-J-descender-stump" xOffset="3"/>
+  </outline>
+</glyph>

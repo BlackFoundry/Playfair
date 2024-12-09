@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_UC-upper-stem-instroke" format="2">
+  <advance width="333"/>
+  <anchor x="100" y="250" name="stem"/>
+  <outline>
+    <contour>
+      <point x="100" y="250" type="line"/>
+      <point x="303" y="250" type="line"/>
+      <point x="303" y="708" type="line"/>
+      <point x="269" y="706"/>
+      <point x="235" y="705"/>
+      <point x="201" y="705" type="curve"/>
+      <point x="186" y="705" type="line"/>
+      <point x="113" y="705"/>
+      <point x="59" y="707"/>
+      <point x="30" y="708" type="curve"/>
+      <point x="30" y="707" type="line"/>
+      <point x="46" y="705" type="line"/>
+      <point x="91" y="700"/>
+      <point x="100" y="684"/>
+      <point x="100" y="621" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

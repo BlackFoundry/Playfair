@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_dbar" format="2">
+  <advance width="706"/>
+  <anchor x="340" y="268" name="_center"/>
+  <outline>
+    <contour>
+      <point x="144" y="267" type="line"/>
+      <point x="546" y="267" type="line"/>
+      <point x="546" y="268" type="line"/>
+      <point x="144" y="268" type="line"/>
+    </contour>
+  </outline>
+</glyph>

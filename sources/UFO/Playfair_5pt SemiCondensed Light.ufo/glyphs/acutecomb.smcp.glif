@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.smcp" format="2">
+  <advance width="309"/>
+  <anchor x="95" y="608" name="_top"/>
+  <anchor x="0" y="717" name="top"/>
+  <outline>
+    <component base="acutecomb.case" yOffset="-100"/>
+  </outline>
+</glyph>

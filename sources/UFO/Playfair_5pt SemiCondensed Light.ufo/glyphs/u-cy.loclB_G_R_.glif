@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u-cy.loclBGR" format="2">
+  <advance width="713"/>
+  <anchor x="176" y="256" name="#entry"/>
+  <anchor x="266" y="256" name="#exit"/>
+  <anchor x="604" y="512" name="%exit"/>
+  <anchor x="15" y="512" name="^entry"/>
+  <anchor x="442" y="512" name="^exit"/>
+  <anchor x="381" y="0" name="bottom"/>
+  <anchor x="492" y="256" name="reversedExit"/>
+  <anchor x="266" y="256" name="stem"/>
+  <anchor x="371" y="512" name="top"/>
+  <outline>
+    <contour>
+      <point x="266" y="512" type="line"/>
+      <point x="266" y="524" type="line"/>
+      <point x="226" y="515"/>
+      <point x="175" y="510"/>
+      <point x="108" y="510" type="curve"/>
+      <point x="83" y="510"/>
+      <point x="58" y="511"/>
+      <point x="40" y="512" type="curve"/>
+      <point x="40" y="442" type="line"/>
+      <point x="95" y="437" type="line"/>
+      <point x="154" y="432"/>
+      <point x="176" y="411"/>
+      <point x="176" y="350" type="curve"/>
+      <point x="176" y="256" type="line"/>
+      <point x="266" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="256" type="line"/>
+      <point x="176" y="256" type="line"/>
+      <point x="176" y="186" type="line" smooth="yes"/>
+      <point x="176" y="82"/>
+      <point x="236" y="18"/>
+      <point x="334" y="18" type="curve" smooth="yes"/>
+      <point x="422" y="18"/>
+      <point x="491" y="79"/>
+      <point x="531" y="204" type="curve"/>
+      <point x="519" y="238" type="line"/>
+      <point x="481" y="144"/>
+      <point x="427" y="100"/>
+      <point x="359" y="100" type="curve" smooth="yes"/>
+      <point x="300" y="100"/>
+      <point x="266" y="134"/>
+      <point x="266" y="194" type="curve" smooth="yes"/>
+    </contour>
+    <component base="_LC-u-cy.loclBGR-stem" xOffset="152"/>
+  </outline>
+</glyph>

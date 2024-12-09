@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_longs_t.liga" format="2">
+  <advance width="735"/>
+  <anchor x="180" y="256" name="#entry"/>
+  <anchor x="270" y="256" name="#exit"/>
+  <anchor x="-178" y="0" name="%entry"/>
+  <anchor x="4" y="0" name="^entry"/>
+  <anchor x="431" y="0" name="^exit"/>
+  <anchor x="180" y="256" name="stem"/>
+  <outline>
+    <contour>
+      <point x="180" y="0" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="223" y="2"/>
+      <point x="249" y="2"/>
+      <point x="275" y="2" type="curve"/>
+      <point x="303" y="2"/>
+      <point x="353" y="1"/>
+      <point x="406" y="0" type="curve"/>
+      <point x="406" y="70" type="line"/>
+      <point x="351" y="75" type="line"/>
+      <point x="292" y="80"/>
+      <point x="270" y="101"/>
+      <point x="270" y="162" type="curve"/>
+      <point x="270" y="256" type="line"/>
+      <point x="180" y="256" type="line"/>
+    </contour>
+    <component base="_LC-t-liga-ascender" xOffset="12"/>
+    <component base="_longs-bar" xOffset="10"/>
+    <component base="_LC-baseline-tail" xOffset="29"/>
+    <component base="_LC-t-top" xOffset="29"/>
+    <component base="_LC-t-bar" xOffset="29"/>
+  </outline>
+</glyph>

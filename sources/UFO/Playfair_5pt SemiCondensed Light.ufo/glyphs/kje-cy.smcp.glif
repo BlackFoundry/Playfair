@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kje-cy.smcp" format="2">
+  <advance width="869"/>
+  <outline>
+    <component base="ka-cy.smcp"/>
+    <component base="acutecomb.smcp" xOffset="315"/>
+  </outline>
+</glyph>

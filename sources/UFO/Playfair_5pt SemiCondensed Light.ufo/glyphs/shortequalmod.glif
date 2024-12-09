@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shortequalmod" format="2">
+  <advance width="471"/>
+  <unicode hex="A78A"/>
+  <outline>
+    <component base="hyphen" xScale="0.9" xOffset="11" yOffset="84"/>
+    <component base="hyphen" xScale="0.9" xOffset="11" yOffset="-86"/>
+  </outline>
+</glyph>

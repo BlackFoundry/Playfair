@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_SMCP-che-cy-curve" format="2">
+  <advance width="712"/>
+  <anchor x="677" y="608" name="#exit"/>
+  <anchor x="677" y="0" name="^exit"/>
+  <anchor x="523" y="608" name="top"/>
+  <outline>
+    <contour>
+      <point x="430" y="269" type="curve" smooth="yes"/>
+      <point x="535" y="269"/>
+      <point x="618" y="291"/>
+      <point x="682" y="334" type="curve"/>
+      <point x="682" y="404" type="line"/>
+      <point x="640" y="373"/>
+      <point x="590" y="360"/>
+      <point x="515" y="360" type="curve" smooth="yes"/>
+      <point x="410" y="360"/>
+      <point x="361" y="385"/>
+      <point x="361" y="439" type="curve" smooth="yes"/>
+      <point x="361" y="452" type="line"/>
+      <point x="361" y="515"/>
+      <point x="368" y="527"/>
+      <point x="423" y="535" type="curve"/>
+      <point x="444" y="538" type="line"/>
+      <point x="444" y="608" type="line"/>
+      <point x="392" y="606"/>
+      <point x="307" y="605"/>
+      <point x="266" y="605" type="curve"/>
+      <point x="259" y="605" type="line"/>
+      <point x="249" y="605" type="line"/>
+      <point x="190" y="605"/>
+      <point x="72" y="606"/>
+      <point x="20" y="608" type="curve"/>
+      <point x="20" y="538" type="line"/>
+      <point x="75" y="533" type="line"/>
+      <point x="147" y="526"/>
+      <point x="158" y="515"/>
+      <point x="158" y="452" type="curve"/>
+      <point x="158" y="431" type="line" smooth="yes"/>
+      <point x="158" y="327"/>
+      <point x="256" y="269"/>
+    </contour>
+  </outline>
+</glyph>

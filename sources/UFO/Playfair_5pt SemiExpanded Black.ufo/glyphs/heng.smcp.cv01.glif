@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heng.smcp.cv01" format="2">
+  <advance width="1111"/>
+  <outline>
+    <component base="_SMCP-top-stem-normal-narrow"/>
+    <component base="_SMCP-H-upper"/>
+    <component base="_SMCP-lower-right-hook" xOffset="439"/>
+  </outline>
+</glyph>

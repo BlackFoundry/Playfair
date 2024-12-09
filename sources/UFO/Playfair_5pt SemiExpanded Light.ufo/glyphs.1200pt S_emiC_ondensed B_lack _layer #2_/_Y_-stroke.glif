@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_Y-stroke" format="2">
+  <advance width="708"/>
+  <anchor x="345" y="269" name="_center"/>
+  <outline>
+    <contour>
+      <point x="265" y="479" type="line"/>
+      <point x="482" y="479" type="line"/>
+      <point x="482" y="480" type="line"/>
+      <point x="265" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="-17" y="479" type="line"/>
+      <point x="255" y="479" type="line"/>
+      <point x="255" y="480" type="line"/>
+      <point x="-17" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="482" y="479" type="line"/>
+      <point x="665" y="479" type="line"/>
+      <point x="665" y="480" type="line"/>
+      <point x="482" y="480" type="line"/>
+    </contour>
+  </outline>
+</glyph>

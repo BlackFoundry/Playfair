@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_tildecomb.light" format="2">
+  <advance width="441"/>
+  <anchor x="216" y="520" name="_top"/>
+  <anchor x="220" y="760" name="top"/>
+  <anchor x="220" y="740" name="top_low_1"/>
+  <anchor x="220" y="720" name="top_low_2"/>
+  <anchor x="220" y="700" name="top_low_3"/>
+  <anchor x="220" y="680" name="top_low_4"/>
+  <anchor x="220" y="660" name="top_low_5"/>
+  <outline>
+    <contour>
+      <point x="40" y="613" type="curve"/>
+      <point x="41" y="613" type="line"/>
+      <point x="50" y="653"/>
+      <point x="73" y="672"/>
+      <point x="106" y="672" type="curve" smooth="yes"/>
+      <point x="172" y="672"/>
+      <point x="219" y="613"/>
+      <point x="291" y="613" type="curve" smooth="yes"/>
+      <point x="353" y="613"/>
+      <point x="387" y="656"/>
+      <point x="400" y="761" type="curve"/>
+      <point x="399" y="761" type="line"/>
+      <point x="390" y="721"/>
+      <point x="367" y="703"/>
+      <point x="336" y="703" type="curve" smooth="yes"/>
+      <point x="271" y="703"/>
+      <point x="230" y="761"/>
+      <point x="159" y="761" type="curve" smooth="yes"/>
+      <point x="93" y="761"/>
+      <point x="53" y="715"/>
+    </contour>
+  </outline>
+</glyph>

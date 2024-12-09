@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-ascender-right-inserif" format="2">
+  <advance width="294"/>
+  <anchor x="106" y="256" name="#entry"/>
+  <anchor x="196" y="0" name="_bottom-right"/>
+  <anchor x="106" y="256" name="_stem"/>
+  <anchor x="272" y="608" name="bar-right"/>
+  <anchor x="236" y="512" name="right"/>
+  <anchor x="3" y="773" name="top"/>
+  <anchor x="273" y="773" name="topright"/>
+  <outline>
+    <contour>
+      <point x="106" y="256" type="line"/>
+      <point x="196" y="256" type="line"/>
+      <point x="196" y="773" type="line"/>
+      <point x="196" y="785" type="line"/>
+      <point x="168" y="775"/>
+      <point x="131" y="771"/>
+      <point x="90" y="771" type="curve"/>
+      <point x="74" y="771"/>
+      <point x="61" y="771"/>
+      <point x="30" y="773" type="curve"/>
+      <point x="30" y="772" type="line"/>
+      <point x="39" y="771" type="line"/>
+      <point x="91" y="765"/>
+      <point x="106" y="749"/>
+      <point x="106" y="700" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

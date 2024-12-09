@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hardsign-cy.smcp" format="2">
+  <advance width="718"/>
+  <anchor x="718" y="0" name="#exit"/>
+  <anchor x="230" y="0" name="^entry"/>
+  <outline>
+    <contour>
+      <point x="266" y="3" type="curve"/>
+      <point x="277" y="3" type="line"/>
+      <point x="309" y="3"/>
+      <point x="347" y="0"/>
+      <point x="401" y="0" type="curve" smooth="yes"/>
+      <point x="557" y="0"/>
+      <point x="643" y="66"/>
+      <point x="643" y="187" type="curve" smooth="yes"/>
+      <point x="643" y="307"/>
+      <point x="560" y="373"/>
+      <point x="410" y="373" type="curve" smooth="yes"/>
+      <point x="372" y="373"/>
+      <point x="331" y="368"/>
+      <point x="294" y="360" type="curve"/>
+      <point x="294" y="290" type="line"/>
+      <point x="329" y="298"/>
+      <point x="365" y="303"/>
+      <point x="397" y="303" type="curve" smooth="yes"/>
+      <point x="495" y="303"/>
+      <point x="543" y="264"/>
+      <point x="543" y="186" type="curve" smooth="yes"/>
+      <point x="543" y="110"/>
+      <point x="497" y="70"/>
+      <point x="407" y="70" type="curve" smooth="yes"/>
+      <point x="397" y="70" type="line"/>
+      <point x="337" y="70"/>
+      <point x="323" y="85"/>
+      <point x="323" y="151" type="curve"/>
+      <point x="323" y="250" type="line"/>
+      <point x="230" y="250" type="line"/>
+      <point x="230" y="156" type="line"/>
+      <point x="230" y="97"/>
+      <point x="211" y="81"/>
+      <point x="135" y="74" type="curve"/>
+      <point x="90" y="70" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="126" y="1"/>
+      <point x="206" y="3"/>
+    </contour>
+    <component base="_SMCP-hardsign-cy-stem"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraightstroke-cy" format="2">
+  <advance width="838"/>
+  <unicode hex="04B1"/>
+  <outline>
+    <component base="ustraight-cy"/>
+    <component base="strokeshortcomb" xOffset="123" yOffset="-259"/>
+  </outline>
+</glyph>

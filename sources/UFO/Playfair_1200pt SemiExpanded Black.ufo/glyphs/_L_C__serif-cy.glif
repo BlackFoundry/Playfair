@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC_serif-cy" format="2">
+  <advance width="228"/>
+  <anchor x="123" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="198" y="1" type="line"/>
+      <point x="143" y="3"/>
+      <point x="123" y="22"/>
+      <point x="123" y="73" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

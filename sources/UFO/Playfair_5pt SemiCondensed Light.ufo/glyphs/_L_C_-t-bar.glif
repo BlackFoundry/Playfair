@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_LC-t-bar" format="2">
+  <advance width="505"/>
+  <anchor x="196" y="512" name="_center"/>
+  <outline>
+    <contour>
+      <point x="25" y="442" type="line"/>
+      <point x="419" y="442" type="line"/>
+      <point x="419" y="512" type="line"/>
+      <point x="25" y="512" type="line"/>
+    </contour>
+  </outline>
+</glyph>

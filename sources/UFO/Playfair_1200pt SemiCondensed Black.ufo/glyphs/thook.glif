@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thook" format="2">
+  <advance width="350"/>
+  <unicode hex="01AD"/>
+  <anchor x="252" y="260" name="#entry"/>
+  <anchor x="252" y="260" name="#exit"/>
+  <anchor x="647" y="520" name="2ndTittle"/>
+  <anchor x="331" y="0" name="^exit"/>
+  <anchor x="72" y="520" name="bar"/>
+  <anchor x="162" y="520" name="center"/>
+  <anchor x="72" y="260" name="stem"/>
+  <anchor x="281" y="771" name="top"/>
+  <outline>
+    <contour>
+      <point x="72" y="260" type="line"/>
+      <point x="252" y="260" type="line"/>
+      <point x="252" y="639" type="line"/>
+      <point x="252" y="733"/>
+      <point x="276" y="778"/>
+      <point x="326" y="778" type="curve"/>
+      <point x="343" y="778"/>
+      <point x="351" y="772"/>
+      <point x="351" y="759" type="curve"/>
+      <point x="351" y="728"/>
+      <point x="312" y="689"/>
+      <point x="312" y="646" type="curve"/>
+      <point x="312" y="612"/>
+      <point x="337" y="590"/>
+      <point x="378" y="590" type="curve"/>
+      <point x="427" y="590"/>
+      <point x="459" y="622"/>
+      <point x="459" y="671" type="curve"/>
+      <point x="459" y="739"/>
+      <point x="395" y="782"/>
+      <point x="293" y="782" type="curve"/>
+      <point x="148" y="782"/>
+      <point x="72" y="695"/>
+      <point x="72" y="529" type="curve"/>
+    </contour>
+    <component base="_LC-baseline-tail"/>
+    <component base="_LC-t-bar"/>
+  </outline>
+</glyph>

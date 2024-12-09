@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi" format="2">
+  <advance width="758"/>
+  <unicode hex="FB01"/>
+  <anchor x="379" y="0" name="caret_1"/>
+  <outline>
+    <contour>
+      <point x="200" y="3" type="curve"/>
+      <point x="200" y="3" type="line"/>
+      <point x="200" y="3" type="line"/>
+      <point x="268" y="3"/>
+      <point x="323" y="1"/>
+      <point x="376" y="0" type="curve"/>
+      <point x="376" y="70" type="line"/>
+      <point x="359" y="72" type="line"/>
+      <point x="302" y="81"/>
+      <point x="290" y="90"/>
+      <point x="290" y="137" type="curve"/>
+      <point x="290" y="260" type="line"/>
+      <point x="110" y="260" type="line"/>
+      <point x="110" y="137" type="line"/>
+      <point x="110" y="91"/>
+      <point x="101" y="80"/>
+      <point x="48" y="73" type="curve"/>
+      <point x="24" y="70" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="77" y="1"/>
+      <point x="132" y="3"/>
+    </contour>
+    <contour>
+      <point x="110" y="260" type="line"/>
+      <point x="290" y="260" type="line"/>
+      <point x="290" y="545" type="line"/>
+      <point x="290" y="664"/>
+      <point x="336" y="712"/>
+      <point x="434" y="712" type="curve"/>
+      <point x="481" y="712"/>
+      <point x="507" y="703"/>
+      <point x="507" y="688" type="curve"/>
+      <point x="507" y="670"/>
+      <point x="483" y="651"/>
+      <point x="483" y="624" type="curve"/>
+      <point x="483" y="594"/>
+      <point x="505" y="576"/>
+      <point x="543" y="576" type="curve"/>
+      <point x="605" y="576"/>
+      <point x="643" y="609"/>
+      <point x="643" y="662" type="curve"/>
+      <point x="643" y="739"/>
+      <point x="566" y="782"/>
+      <point x="424" y="782" type="curve"/>
+      <point x="231" y="782"/>
+      <point x="110" y="682"/>
+      <point x="110" y="520" type="curve"/>
+    </contour>
+    <contour>
+      <point x="470" y="0" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="513" y="2"/>
+      <point x="553" y="2"/>
+      <point x="588" y="2" type="curve"/>
+      <point x="621" y="2"/>
+      <point x="689" y="1"/>
+      <point x="736" y="0" type="curve"/>
+      <point x="736" y="70" type="line"/>
+      <point x="712" y="73" type="line"/>
+      <point x="659" y="80"/>
+      <point x="650" y="91"/>
+      <point x="650" y="137" type="curve"/>
+      <point x="650" y="260" type="line"/>
+      <point x="470" y="260" type="line"/>
+    </contour>
+    <component base="_LC-ligature-dotlessi" xOffset="-10"/>
+  </outline>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc.tf" format="2">
+  <advance width="767"/>
+  <outline>
+    <contour>
+      <point x="56" y="0" type="line"/>
+      <point x="88" y="1"/>
+      <point x="241" y="3"/>
+      <point x="291" y="3" type="curve" smooth="yes"/>
+      <point x="372" y="3"/>
+      <point x="516" y="1"/>
+      <point x="544" y="0" type="curve"/>
+      <point x="544" y="70" type="line"/>
+      <point x="406" y="73"/>
+      <point x="387" y="84"/>
+      <point x="387" y="166" type="curve" smooth="yes"/>
+      <point x="387" y="635" type="line"/>
+      <point x="453" y="635" type="line" smooth="yes"/>
+      <point x="560" y="635"/>
+      <point x="629" y="565"/>
+      <point x="664" y="438" type="curve"/>
+      <point x="737" y="438" type="line"/>
+      <point x="725" y="523"/>
+      <point x="719" y="611"/>
+      <point x="718" y="708" type="curve"/>
+      <point x="667" y="706"/>
+      <point x="529" y="705"/>
+      <point x="432" y="705" type="curve" smooth="yes"/>
+      <point x="289" y="705"/>
+      <point x="116" y="706"/>
+      <point x="56" y="708" type="curve"/>
+      <point x="56" y="638" type="line"/>
+      <point x="157" y="635"/>
+      <point x="184" y="634"/>
+      <point x="184" y="552" type="curve" smooth="yes"/>
+      <point x="184" y="156" type="line" smooth="yes"/>
+      <point x="184" y="74"/>
+      <point x="157" y="73"/>
+      <point x="56" y="70" type="curve"/>
+    </contour>
+    <contour>
+      <point x="13" y="376" type="line"/>
+      <point x="558" y="376" type="line"/>
+      <point x="558" y="446" type="line"/>
+      <point x="13" y="446" type="line"/>
+    </contour>
+    <contour>
+      <point x="13" y="221" type="line"/>
+      <point x="558" y="221" type="line"/>
+      <point x="558" y="291" type="line"/>
+      <point x="13" y="291" type="line"/>
+    </contour>
+  </outline>
+</glyph>

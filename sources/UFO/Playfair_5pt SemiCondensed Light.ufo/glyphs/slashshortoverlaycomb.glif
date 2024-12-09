@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashshortoverlaycomb" format="2">
+  <advance width="547"/>
+  <unicode hex="0337"/>
+  <anchor x="275" y="257" name="_center"/>
+  <outline>
+    <contour>
+      <point x="155" y="57" type="line"/>
+      <point x="432" y="413" type="line"/>
+      <point x="393" y="452" type="line"/>
+      <point x="115" y="98" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="-79" type="line"/>
+      <point x="149" y="51" type="line"/>
+      <point x="102" y="99" type="line"/>
+      <point x="-8" y="-35" type="line"/>
+    </contour>
+    <contour>
+      <point x="442" y="410" type="line"/>
+      <point x="556" y="549" type="line"/>
+      <point x="506" y="589" type="line"/>
+      <point x="396" y="456" type="line"/>
+    </contour>
+  </outline>
+</glyph>
